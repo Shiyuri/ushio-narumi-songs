@@ -305,7 +305,7 @@ function createStreamCard(group) {
   header.innerHTML = `
     <a href="${videoUrl}" target="_blank" rel="noopener" class="stream-title">${escapeHtml(group.streamTitle)}</a>
     <span class="stream-meta">
-      <span class="tag tag-${group.type}">${TYPE_LABELS[group.type] || group.type}</span>
+      <span class="tag tag-${group.type}" onclick="filterByType('${group.type}')">${TYPE_LABELS[group.type] || group.type}</span>
       <span class="stream-date">${formatDate(group.date)}</span>
       <span class="stream-song-count" onclick="filterByVideoId('${escapeForJs(group.videoId)}')" title="この配信の全曲を表示">${songCountText}</span>
     </span>
