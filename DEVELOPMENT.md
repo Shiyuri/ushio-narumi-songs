@@ -245,6 +245,19 @@ const READ_ONLY = !location.hostname.match(/^(localhost|127\.0\.0\.1)$/);
 
 ---
 
+## ブランチ運用
+
+| ブランチ | 用途 | 運用 |
+|----------|------|------|
+| `main` | 公開 + 日常作業 | songs.json 追加は直接 commit & push |
+| `feat/*` | コード変更時のみ | 機能追加・CSS 変更等。完了後 main にマージして削除 |
+
+- GitHub Pages は `main` からデプロイ
+- 曲データ追加（日常作業）は `main` 直接。ブランチ不要
+- コードに手を入れるときだけ `feat/xxx` で分離
+
+---
+
 ## ローカル開発
 
 ```bash
