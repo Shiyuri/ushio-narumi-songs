@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>曲を追加 - 潮成実 歌まとめ</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/gh/nicknisi/line-seed-jp-css@main/dist/line-seed-jp.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css?v=2">
+</head>
+
+<body>
+  <header>
+    <h1><a href="index.html">潮成実 歌まとめ</a></h1>
+    <nav>
+      <a href="index.html">曲一覧</a>
+      <a href="add.html">曲を追加</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <div class="form-area">
+      <h2 style="font-size: 1.1rem; margin-bottom: 1rem;">曲を追加</h2>
+
+      <div class="form-group">
+        <label for="title">曲名 *</label>
+        <input type="text" id="title" required autocomplete="off" list="titleSuggestions">
+        <datalist id="titleSuggestions"></datalist>
+      </div>
+
+      <div class="form-group">
+        <label for="artist">オリジナルアーティスト *（複数の場合カンマ区切り）</label>
+        <input type="text" id="artist" required autocomplete="off" list="artistSuggestions"
+          placeholder="例: AURORA, 松たか子">
+        <datalist id="artistSuggestions"></datalist>
+        <div class="form-hint" id="artistHint" style="display: none; color: #0066cc;"></div>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group">
+          <label for="type">種類 *</label>
+          <select id="type" required>
+            <option value="video">動画</option>
+            <option value="utawaku">歌枠</option>
+            <option value="shorts">ショート</option>
+            <option value="external">外部チャンネル</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="date">日付 *</label>
+          <input type="date" id="date" required>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="youtubeUrl">YouTube URL *</label>
+        <input type="text" id="youtubeUrl" placeholder="例: https://youtu.be/44qvgeMaCzE?t=383" required>
+        <div class="form-hint">
+          YouTubeで「現時点の動画のURLをコピー」したものをそのまま貼り付けOK<br>
+          通常のURL（youtube.com/watch?v=...）も対応
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group" style="flex: 2;">
+          <label>抽出結果</label>
+          <div style="display: flex; gap: 0.5rem; align-items: center;">
+            <input type="text" id="videoId" placeholder="動画ID" readonly style="flex: 1; background: #f5f5f5;">
+            <input type="number" id="timestamp" value="0" min="0" style="width: 100px;" placeholder="秒">
+            <span id="timestampDisplay" style="font-size: 0.8rem; color: #666; min-width: 60px;">0:00</span>
+          </div>
+          <div class="form-hint">
+            URLから自動抽出。タイムスタンプは手動で修正も可能
+            <button type="button" class="btn btn-secondary"
+              style="margin-left: 0.5rem; padding: 0.15rem 0.4rem; font-size: 0.7rem;" onclick="openTimestampHelper()">
+              時間→秒 変換ツール
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="collabWith">コラボ相手（カンマ区切り）</label>
+        <input type="text" id="collabWith" placeholder="例: コラボ相手A, コラボ相手B">
+      </div>
+
+      <div class="form-group">
+        <label for="notes">備考</label>
+        <textarea id="notes" rows="2"></textarea>
+      </div>
+
+      <button type="button" class="btn btn-primary" onclick="addSong()" id="addBtn">追加</button>
+      <button type="button" class="btn btn-secondary" onclick="clearForm()">クリア</button>
+      <span id="statusMessage" style="margin-left: 1rem; font-size: 0.875rem;"></span>
+    </div>
+
+    <!-- 時間変換ツール（モーダル的に表示） -->
+    <div class="form-area" id="timestampHelper" style="display: none;">
+      <h3 style="font-size: 0.9rem; margin-bottom: 0.75rem;">時間 → 秒数 変換</h3>
+      <div class="form-row">
+        <div class="form-group">
+          <label for="helpHours">時間</label>
+          <input type="number" id="helpHours" value="0" min="0">
+        </div>
+        <div class="form-group">
+          <label for="helpMinutes">分</label>
+          <input type="number" id="helpMinutes" value="0" min="0">
+        </div>
+        <div class="form-group">
+          <label for="helpSeconds">秒</label>
+          <input type="number" id="helpSeconds" value="0" min="0">
+        </div>
+      </div>
+      <button type="button" class="btn btn-primary" onclick="applyTimestamp()">タイムスタンプに反映</button>
+      <button type="button" class="btn btn-secondary" onclick="closeTimestampHelper()">閉じる</button>
+    </div>
+
+    <!-- 追加履歴 -->
+    <div class="output-area" id="historyArea" style="display: none;">
+      <h3>追加履歴（このセッション）</h3>
+      <div id="historyList"></div>
+    </div>
+  </main>
+
+  <script src="js/add.js"></script>
+</body>
+
+</html>
