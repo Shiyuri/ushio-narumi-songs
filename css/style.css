@@ -158,7 +158,7 @@ header nav a:hover {
 /* Disclaimer */
 .disclaimer {
     text-align: center;
-    padding: 4px var(--spacing-lg);
+    padding: 14px var(--spacing-lg) 0;
     font-size: 0.75rem;
     color: var(--color-text-muted);
 }
