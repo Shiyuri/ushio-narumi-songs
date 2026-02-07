@@ -189,14 +189,14 @@ header nav a:hover {
     top: calc(var(--header-height) + 8px);
     z-index: 100;
     border: 1px solid var(--color-border);
-    transition: opacity 0.25s ease, transform 0.25s ease;
+    transition: opacity 0.15s ease;
 }
 
 /* モバイル用: 検索エリア非表示 */
 .search-area.search-hidden {
     opacity: 0;
-    transform: scale(0.98);
     pointer-events: none;
+    transition: none;
 }
 
 .search-row {

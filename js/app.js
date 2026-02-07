@@ -94,31 +94,49 @@ function setupEventListeners() {
   setupMobileSearchToggle();
 }
 
-// モバイル用: 空白タップで検索エリア切替
+// モバイル用: スクロールで検索エリア自動表示/非表示
 function setupMobileSearchToggle() {
   const searchArea = document.querySelector('.search-area');
-  const songList = document.getElementById('songList');
+  if (!searchArea) return;
 
-  if (!searchArea || !songList) return;
-
-  // モバイル判定
   const isMobile = () => window.innerWidth <= 768;
+  let lastScrollY = window.scrollY;
+  let ticking = false;
 
-  // 曲リストエリアをタップで検索エリア切替
-  songList.addEventListener('click', (e) => {
+  window.addEventListener('scroll', () => {
     if (!isMobile()) return;
+    if (ticking) return;
 
-    // 曲アイテムやボタンをクリックした場合は無視
-    if (e.target.closest('.song-item, .stream-header, button, a, .tag')) return;
+    ticking = true;
+    requestAnimationFrame(() => {
+      const currentY = window.scrollY;
+      const delta = currentY - lastScrollY;
 
-    searchArea.classList.toggle('search-hidden');
-  });
+      // 一定量スクロールしたら切替（チラつき防止）
+      if (delta > 10) {
+        // 下スクロール → 非表示
+        searchArea.classList.add('search-hidden');
+      } else if (delta < -10) {
+        // 上スクロール → 表示
+        searchArea.classList.remove('search-hidden');
+      }
+
+      lastScrollY = currentY;
+      ticking = false;
+    });
+  }, { passive: true });
 }
 
 // フィルタ適用
 function applyFilters() {
   const searchText = (document.getElementById('searchInput')?.value || '').toLowerCase();
   const typeValue = document.getElementById('typeFilter')?.value || 'all';
+
+  // モバイルでフィルタ操作時、検索エリアが隠れていたら表示する
+  const searchArea = document.querySelector('.search-area');
+  if (searchArea && searchArea.classList.contains('search-hidden')) {
+    searchArea.classList.remove('search-hidden');
+  }
 
   filteredSongs = allSongs.filter(song => {
     // videoIdフィルタ（配信全曲表示）
