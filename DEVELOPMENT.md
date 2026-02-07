@@ -1,5 +1,24 @@
 # 潮成実 歌まとめサイト — 開発ドキュメント
 
+## Status Snapshot
+
+<!-- Agent間引き継ぎ用の圧縮ステータス。詳細は各セクション参照。 -->
+<!-- 更新タイミング: ENTRIES/SZ=曲追加時, STATE=コミット時, TS=上記いずれか更新時 -->
+<!-- STACK/ACCESS/DECLINED等=構成変更時のみ -->
+
+```
+TS:2026-02-08|ST:uta|T:vtuber-song-db|V:1|FILES:9|LOC:21377
+STACK:html+css+js|py-httpserver:3000|yt-dlp
+DATA:songs.json|ENTRIES:1289|REM_EST:~860|TOTAL_EST:~2150|SZ:518KB
+SCH:{title,artist[],type,date,videoId,timestamp,collabWith[],notes,id,streamTitle}
+ACCESS:RO|RW:localhost|DEPLOY:gh-pages|FLOW:local>commit>push
+COMPLETED:review*5,mobile,modal-css,cache,pagetitle,tagcolor,bugfix*4
+DECLINED:ogp,footer,stats,pushstate,streamtitle-search,song-sort
+STATE:v1@a42119d|NEXT:song-entry(remaining~860songs)
+```
+
+---
+
 ## プロジェクト概要
 
 VTuber「潮成実（うしお なるみ）」の歌唱楽曲をまとめたファンサイト。
