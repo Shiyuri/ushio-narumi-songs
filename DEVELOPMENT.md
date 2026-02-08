@@ -7,14 +7,14 @@
 <!-- STACK/ACCESS/DECLINED等=構成変更時のみ -->
 
 ```
-TS:2026-02-08|ST:uta|T:vtuber-song-db|V:1|FILES:9|LOC:21377
+TS:2026-02-08|ST:uta|T:vtuber-song-db|V:1|FILES:10|LOC:21500
 STACK:html+css+js|py-httpserver:3000|yt-dlp
-DATA:songs.json|ENTRIES:1289|REM_EST:~860|TOTAL_EST:~2150|SZ:518KB
+DATA:songs.json|ENTRIES:1438|REM_EST:~710|TOTAL_EST:~2150|SZ:580KB
 SCH:{title,artist[],type,date,videoId,timestamp,collabWith[],notes,id,streamTitle}
 ACCESS:RO|RW:localhost|DEPLOY:gh-pages|FLOW:local>commit>push
-COMPLETED:review*5,mobile,modal-css,cache,pagetitle,tagcolor,bugfix*4
+COMPLETED:review*5,mobile,modal-css,cache,pagetitle,tagcolor,bugfix*5,list-view,scroll-search-toggle
 DECLINED:ogp,footer,stats,pushstate,streamtitle-search,song-sort
-STATE:v1@a42119d|NEXT:song-entry(remaining~860songs)
+STATE:v1@3378f44|NEXT:song-entry(remaining~710songs)
 ```
 
 ---
@@ -35,6 +35,7 @@ VTuber「潮成実（うしお なるみ）」の歌唱楽曲をまとめたフ�
 
 ```
 ├── index.html          # メインページ（曲一覧・検索・編集モーダル）
+├── list.html           # シンプル表示（配信グループのフラットリスト）
 ├── add.html            # 曲追加フォーム（ローカル専用）
 ├── server.py           # 開発用サーバー（CRUD API + yt-dlp）
 ├── DEVELOPMENT.md      # このファイル
@@ -73,6 +74,7 @@ VTuber「潮成実（うしお なるみ）」の歌唱楽曲をまとめたフ�
 | ファイル | デプロイ | 備考 |
 |----------|----------|------|
 | index.html | ✅ | 閲覧専用モードで自動動作 |
+| list.html | ✅ | シンプル表示ページ |
 | css/style.css | ✅ | |
 | js/app.js | ✅ | READ_ONLY フラグで自動切替 |
 | data/songs.json | ✅ | |
