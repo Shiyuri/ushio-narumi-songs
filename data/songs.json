@@ -227,17 +227,17 @@
     },
     {
       "id": 21,
-      "title": "オリジナル曲①",
+      "title": "嗤うマネキン",
       "artist": [
-        "潮成実"
+        "ナポリP"
       ],
       "type": "utawaku",
       "date": "2021-01-04",
       "videoId": "Mx6jR6H_ZUU",
       "timestamp": 3760,
+      "streamTitle": "【歌枠】デビュー1ヶ月と100人ありがと～～【#Vtuber 潮成実】",
       "collabWith": [],
-      "notes": "",
-      "streamTitle": "【歌枠】デビュー1ヶ月と100人ありがと～～【#Vtuber 潮成実】"
+      "notes": ""
     },
     {
       "title": "能動的三分間",
@@ -8475,6 +8475,7 @@
       "streamTitle": "【#MEMENTO_U】遠坂ユラ初主催オンラインライブ『MEMENTO U(メメントユー)』ダイジェスト映像!!【3Dライブ/Vtuber】"
     },
     {
+      "id": 608,
       "title": "音沙汰",
       "artist": [
         "潮成実"
@@ -8483,12 +8484,9 @@
       "date": "2023-04-12",
       "videoId": "TtHlfMnKj98",
       "timestamp": 2499,
-      "collabWith": [
-        "AMOKA"
-      ],
-      "notes": "",
-      "id": 608,
-      "streamTitle": "【雑談】「MEMENTO U 2nd」出演者同士コラボ！【AMOKA x 潮成実】"
+      "streamTitle": "【雑談】「MEMENTO U 2nd」出演者同士コラボ！【AMOKA x 潮成実】",
+      "collabWith": [],
+      "notes": ""
     },
     {
       "title": "Attention",
@@ -8590,7 +8588,7 @@
     },
     {
       "id": 616,
-      "title": "Intenerary",
+      "title": "Itinerary",
       "artist": [
         "潮成実"
       ],
@@ -8598,9 +8596,9 @@
       "date": "2023-12-01",
       "videoId": "Ze1tyygeBnM",
       "timestamp": 5957,
+      "streamTitle": "◢ 潮成実 3周年記念ライブ『daybreak』【 #潮成実3周年 】",
       "collabWith": [],
-      "notes": "",
-      "streamTitle": "◢ 潮成実 3周年記念ライブ『daybreak』【 #潮成実3周年 】"
+      "notes": ""
     },
     {
       "title": "FUBEN",
@@ -13690,7 +13688,8 @@
       "streamTitle": "◢ 3Dオンラインライブ『daybreak / Replay』【 #潮成実 】"
     },
     {
-      "title": "Intenerary",
+      "id": 977,
+      "title": "Itinerary",
       "artist": [
         "潮成実"
       ],
@@ -13698,10 +13697,9 @@
       "date": "2024-11-24",
       "videoId": "LE8hBPPDyJU",
       "timestamp": 3373,
+      "streamTitle": "◢ 3Dオンラインライブ『daybreak / Replay』【 #潮成実 】",
       "collabWith": [],
-      "notes": "",
-      "id": 977,
-      "streamTitle": "◢ 3Dオンラインライブ『daybreak / Replay』【 #潮成実 】"
+      "notes": ""
     },
     {
       "title": "FUBEN",
@@ -15911,7 +15909,8 @@
       "streamTitle": "【 歌枠 #KARAOKE  】本格派VsingerによるVRライブ🎤🪐フルトラ3D&オリジナル曲限定！✨新曲初披露アリ◎ in #VRChat 目指せ！同接100人🤝【 #Vsinger 潮成実 】"
     },
     {
-      "title": "オリジナル曲③",
+      "id": 1127,
+      "title": "Ungifted Song",
       "artist": [
         "潮成実"
       ],
@@ -15919,10 +15918,9 @@
       "date": "2025-03-26",
       "videoId": "8jubriGPgs4",
       "timestamp": 3102,
+      "streamTitle": "【 歌枠 #KARAOKE  】本格派VsingerによるVRライブ🎤🪐フルトラ3D&オリジナル曲限定！✨新曲初披露アリ◎ in #VRChat 目指せ！同接100人🤝【 #Vsinger 潮成実 】",
       "collabWith": [],
-      "notes": "",
-      "id": 1127,
-      "streamTitle": "【 歌枠 #KARAOKE  】本格派VsingerによるVRライブ🎤🪐フルトラ3D&オリジナル曲限定！✨新曲初披露アリ◎ in #VRChat 目指せ！同接100人🤝【 #Vsinger 潮成実 】"
+      "notes": ""
     },
     {
       "title": "翳り",
@@ -18298,6 +18296,4926 @@
       "notes": "",
       "id": 1295,
       "streamTitle": "【 歌枠 #KARAOKE  】🟣目標：23時半までに高評価210！歌い上げる系Vsinger🎤しっとりバラードで聴かせます✨【 #Vsinger 潮成実 #しおナイ】"
+    },
+    {
+      "title": "Lemon",
+      "artist": [
+        "米津玄師"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-23",
+      "videoId": "d4Xq3l8y_fg",
+      "timestamp": 899,
+      "collabWith": [],
+      "notes": "",
+      "id": 1296,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤🎶徐々にローからハイにテンションが上がっていく歌枠！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ラブソング",
+      "artist": [
+        "サンボマスター"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-23",
+      "videoId": "d4Xq3l8y_fg",
+      "timestamp": 1513,
+      "collabWith": [],
+      "notes": "",
+      "id": 1297,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤🎶徐々にローからハイにテンションが上がっていく歌枠！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "食虫植物",
+      "artist": [
+        "理芽"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-23",
+      "videoId": "d4Xq3l8y_fg",
+      "timestamp": 2107,
+      "collabWith": [],
+      "notes": "",
+      "id": 1298,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤🎶徐々にローからハイにテンションが上がっていく歌枠！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "奏（かなで）",
+      "artist": [
+        "スキマスイッチ"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-23",
+      "videoId": "d4Xq3l8y_fg",
+      "timestamp": 2625,
+      "collabWith": [],
+      "notes": "",
+      "id": 1299,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤🎶徐々にローからハイにテンションが上がっていく歌枠！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "フライデー・ナイト",
+      "artist": [
+        "なとり"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-23",
+      "videoId": "d4Xq3l8y_fg",
+      "timestamp": 3231,
+      "collabWith": [],
+      "notes": "",
+      "id": 1300,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤🎶徐々にローからハイにテンションが上がっていく歌枠！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "STAY TUNE",
+      "artist": [
+        "Suchmos"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-23",
+      "videoId": "d4Xq3l8y_fg",
+      "timestamp": 3614,
+      "collabWith": [],
+      "notes": "",
+      "id": 1301,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤🎶徐々にローからハイにテンションが上がっていく歌枠！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "オトナブルー",
+      "artist": [
+        "新しい学校のリーダーズ"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-23",
+      "videoId": "d4Xq3l8y_fg",
+      "timestamp": 4188,
+      "collabWith": [],
+      "notes": "",
+      "id": 1302,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤🎶徐々にローからハイにテンションが上がっていく歌枠！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ミュージック・アワー",
+      "artist": [
+        "ポルノグラフィティ"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-23",
+      "videoId": "d4Xq3l8y_fg",
+      "timestamp": 4544,
+      "collabWith": [],
+      "notes": "",
+      "id": 1303,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤🎶徐々にローからハイにテンションが上がっていく歌枠！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "マツケンサンバII",
+      "artist": [
+        "松平健"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-23",
+      "videoId": "d4Xq3l8y_fg",
+      "timestamp": 4990,
+      "collabWith": [],
+      "notes": "",
+      "id": 1304,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤🎶徐々にローからハイにテンションが上がっていく歌枠！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "さくらんぼ",
+      "artist": [
+        "大塚愛"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-23",
+      "videoId": "d4Xq3l8y_fg",
+      "timestamp": 5498,
+      "collabWith": [],
+      "notes": "",
+      "id": 1305,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤🎶徐々にローからハイにテンションが上がっていく歌枠！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "千本桜",
+      "artist": [
+        "黒うさP"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-23",
+      "videoId": "d4Xq3l8y_fg",
+      "timestamp": 5991,
+      "collabWith": [],
+      "notes": "",
+      "id": 1306,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤🎶徐々にローからハイにテンションが上がっていく歌枠！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "人マニア",
+      "artist": [
+        "原口沙輔"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-23",
+      "videoId": "d4Xq3l8y_fg",
+      "timestamp": 6398,
+      "collabWith": [],
+      "notes": "",
+      "id": 1307,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤🎶徐々にローからハイにテンションが上がっていく歌枠！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "マトリョシカ",
+      "artist": [
+        "米津玄師",
+        "ハチ"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-23",
+      "videoId": "d4Xq3l8y_fg",
+      "timestamp": 6694,
+      "collabWith": [],
+      "notes": "",
+      "id": 1308,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤🎶徐々にローからハイにテンションが上がっていく歌枠！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "唱",
+      "artist": [
+        "Ado"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-23",
+      "videoId": "d4Xq3l8y_fg",
+      "timestamp": 7385,
+      "collabWith": [],
+      "notes": "",
+      "id": 1309,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤🎶徐々にローからハイにテンションが上がっていく歌枠！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "気分上々↑↑",
+      "artist": [
+        "mihimaru GT"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-23",
+      "videoId": "d4Xq3l8y_fg",
+      "timestamp": 8069,
+      "collabWith": [],
+      "notes": "",
+      "id": 1310,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤🎶徐々にローからハイにテンションが上がっていく歌枠！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ultra soul",
+      "artist": [
+        "B'z"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-23",
+      "videoId": "d4Xq3l8y_fg",
+      "timestamp": 8617,
+      "collabWith": [],
+      "notes": "",
+      "id": 1311,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤🎶徐々にローからハイにテンションが上がっていく歌枠！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "artist": [
+        "サンボマスター"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-23",
+      "videoId": "d4Xq3l8y_fg",
+      "timestamp": 9127,
+      "collabWith": [],
+      "notes": "",
+      "id": 1312,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤🎶徐々にローからハイにテンションが上がっていく歌枠！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "翳り",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-29",
+      "videoId": "n4tUnIaTW2s",
+      "timestamp": 252,
+      "collabWith": [],
+      "notes": "",
+      "id": 1313,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡目標：同接110人！実力派Vsingerによる3DフルトラVRライブ🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ままごと",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-29",
+      "videoId": "n4tUnIaTW2s",
+      "timestamp": 460,
+      "collabWith": [],
+      "notes": "",
+      "id": 1314,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡目標：同接110人！実力派Vsingerによる3DフルトラVRライブ🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "音沙汰",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-29",
+      "videoId": "n4tUnIaTW2s",
+      "timestamp": 1238,
+      "collabWith": [],
+      "notes": "",
+      "id": 1315,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡目標：同接110人！実力派Vsingerによる3DフルトラVRライブ🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ユートピア",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-29",
+      "videoId": "n4tUnIaTW2s",
+      "timestamp": 1698,
+      "collabWith": [],
+      "notes": "",
+      "id": 1316,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡目標：同接110人！実力派Vsingerによる3DフルトラVRライブ🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "id": 1317,
+      "title": "Ungifted Song",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-29",
+      "videoId": "n4tUnIaTW2s",
+      "timestamp": 2210,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡目標：同接110人！実力派Vsingerによる3DフルトラVRライブ🎤✨【 #Vsinger 潮成実 】",
+      "collabWith": [],
+      "notes": ""
+    },
+    {
+      "title": "陽炎",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-29",
+      "videoId": "n4tUnIaTW2s",
+      "timestamp": 2645,
+      "collabWith": [],
+      "notes": "",
+      "id": 1318,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡目標：同接110人！実力派Vsingerによる3DフルトラVRライブ🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "My Room Sunshine",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-29",
+      "videoId": "n4tUnIaTW2s",
+      "timestamp": 3206,
+      "collabWith": [],
+      "notes": "",
+      "id": 1319,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡目標：同接110人！実力派Vsingerによる3DフルトラVRライブ🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Attention",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-29",
+      "videoId": "n4tUnIaTW2s",
+      "timestamp": 3566,
+      "collabWith": [],
+      "notes": "",
+      "id": 1320,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡目標：同接110人！実力派Vsingerによる3DフルトラVRライブ🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Sweep Away",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-29",
+      "videoId": "n4tUnIaTW2s",
+      "timestamp": 3760,
+      "collabWith": [],
+      "notes": "",
+      "id": 1321,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡目標：同接110人！実力派Vsingerによる3DフルトラVRライブ🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "id": 1322,
+      "title": "Itinerary",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-29",
+      "videoId": "n4tUnIaTW2s",
+      "timestamp": 3942,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡目標：同接110人！実力派Vsingerによる3DフルトラVRライブ🎤✨【 #Vsinger 潮成実 】",
+      "collabWith": [],
+      "notes": ""
+    },
+    {
+      "title": "ユートピア",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-29",
+      "videoId": "n4tUnIaTW2s",
+      "timestamp": 4485,
+      "collabWith": [],
+      "notes": "",
+      "id": 1323,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡目標：同接110人！実力派Vsingerによる3DフルトラVRライブ🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "翳り",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-04-29",
+      "videoId": "n4tUnIaTW2s",
+      "timestamp": 4799,
+      "collabWith": [],
+      "notes": "",
+      "id": 1324,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡目標：同接110人！実力派Vsingerによる3DフルトラVRライブ🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "愛を伝えたいだとか",
+      "artist": [
+        "あいみょん"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-04",
+      "videoId": "0bcwLK0-NqU",
+      "timestamp": 168,
+      "collabWith": [
+        "MEDA",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 1325,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵夜にほどけるハーモニー🌃ピアノ&デュエット生演奏セッションコラボ！🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ひまわりの約束",
+      "artist": [
+        "秦基博"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-04",
+      "videoId": "0bcwLK0-NqU",
+      "timestamp": 988,
+      "collabWith": [
+        "MEDA",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 1326,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵夜にほどけるハーモニー🌃ピアノ&デュエット生演奏セッションコラボ！🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "rain stops, good-bye",
+      "artist": [
+        "におP"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-04",
+      "videoId": "0bcwLK0-NqU",
+      "timestamp": 1855,
+      "collabWith": [
+        "MEDA",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 1327,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵夜にほどけるハーモニー🌃ピアノ&デュエット生演奏セッションコラボ！🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "それがあなたの幸せとしても",
+      "artist": [
+        "Heavenz"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-04",
+      "videoId": "0bcwLK0-NqU",
+      "timestamp": 2218,
+      "collabWith": [
+        "MEDA",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 1328,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵夜にほどけるハーモニー🌃ピアノ&デュエット生演奏セッションコラボ！🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "カブトムシ",
+      "artist": [
+        "aiko"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-04",
+      "videoId": "0bcwLK0-NqU",
+      "timestamp": 3017,
+      "collabWith": [
+        "MEDA",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 1329,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵夜にほどけるハーモニー🌃ピアノ&デュエット生演奏セッションコラボ！🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ハナミズキ",
+      "artist": [
+        "一青窈"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-04",
+      "videoId": "0bcwLK0-NqU",
+      "timestamp": 3364,
+      "collabWith": [
+        "MEDA",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 1330,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵夜にほどけるハーモニー🌃ピアノ&デュエット生演奏セッションコラボ！🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "secret base〜君がくれたもの〜",
+      "artist": [
+        "ZONE"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-04",
+      "videoId": "0bcwLK0-NqU",
+      "timestamp": 3721,
+      "collabWith": [
+        "MEDA",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 1331,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵夜にほどけるハーモニー🌃ピアノ&デュエット生演奏セッションコラボ！🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "テルーの唄",
+      "artist": [
+        "手嶌葵"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-04",
+      "videoId": "0bcwLK0-NqU",
+      "timestamp": 5025,
+      "collabWith": [
+        "MEDA",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 1332,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵夜にほどけるハーモニー🌃ピアノ&デュエット生演奏セッションコラボ！🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "月光",
+      "artist": [
+        "鬼束ちひろ"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-04",
+      "videoId": "0bcwLK0-NqU",
+      "timestamp": 5374,
+      "collabWith": [
+        "MEDA",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 1333,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵夜にほどけるハーモニー🌃ピアノ&デュエット生演奏セッションコラボ！🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "糸",
+      "artist": [
+        "中島みゆき"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-04",
+      "videoId": "0bcwLK0-NqU",
+      "timestamp": 6278,
+      "collabWith": [
+        "MEDA",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 1334,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵夜にほどけるハーモニー🌃ピアノ&デュエット生演奏セッションコラボ！🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "愛をこめて花束を",
+      "artist": [
+        "Suprefly"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-04",
+      "videoId": "0bcwLK0-NqU",
+      "timestamp": 6909,
+      "collabWith": [
+        "MEDA",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 1335,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵夜にほどけるハーモニー🌃ピアノ&デュエット生演奏セッションコラボ！🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ハナミズキ",
+      "artist": [
+        "一青窈"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-04",
+      "videoId": "0bcwLK0-NqU",
+      "timestamp": 7984,
+      "collabWith": [
+        "MEDA",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 1336,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵夜にほどけるハーモニー🌃ピアノ&デュエット生演奏セッションコラボ！🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "勝手にシンドバッド",
+      "artist": [
+        "サザンオールスターズ"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-07",
+      "videoId": "1Hswr0GkMYw",
+      "timestamp": 335,
+      "collabWith": [],
+      "notes": "",
+      "id": 1337,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴不朽の名曲を楽しもう！実力派Vsingerによる昭和歌謡縛り歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ダンシング・ヒーロー (Eat You Up)",
+      "artist": [
+        "荻野目洋子"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-07",
+      "videoId": "1Hswr0GkMYw",
+      "timestamp": 801,
+      "collabWith": [],
+      "notes": "",
+      "id": 1338,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴不朽の名曲を楽しもう！実力派Vsingerによる昭和歌謡縛り歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ジュリアに傷心",
+      "artist": [
+        "チェッカーズ"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-07",
+      "videoId": "1Hswr0GkMYw",
+      "timestamp": 1435,
+      "collabWith": [],
+      "notes": "",
+      "id": 1339,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴不朽の名曲を楽しもう！実力派Vsingerによる昭和歌謡縛り歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "タッチ",
+      "artist": [
+        "岩崎良美"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-07",
+      "videoId": "1Hswr0GkMYw",
+      "timestamp": 2406,
+      "collabWith": [],
+      "notes": "",
+      "id": 1340,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴不朽の名曲を楽しもう！実力派Vsingerによる昭和歌謡縛り歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "喝采",
+      "artist": [
+        "ちあきなおみ"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-07",
+      "videoId": "v9EqHuQwHz8",
+      "timestamp": 224,
+      "collabWith": [],
+      "notes": "",
+      "id": 1341,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴不朽の名曲を楽しもう！実力派Vsingerによる昭和歌謡縛り歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "恋におちて -Fall in love-",
+      "artist": [
+        "小林明子"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-07",
+      "videoId": "v9EqHuQwHz8",
+      "timestamp": 1682,
+      "collabWith": [],
+      "notes": "",
+      "id": 1342,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴不朽の名曲を楽しもう！実力派Vsingerによる昭和歌謡縛り歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "時の流れに身をまかせ",
+      "artist": [
+        "テレサ・テン"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-07",
+      "videoId": "v9EqHuQwHz8",
+      "timestamp": 2250,
+      "collabWith": [],
+      "notes": "",
+      "id": 1343,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴不朽の名曲を楽しもう！実力派Vsingerによる昭和歌謡縛り歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ラヴ・イズ・オーヴァー",
+      "artist": [
+        "欧陽菲菲"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-07",
+      "videoId": "v9EqHuQwHz8",
+      "timestamp": 2662,
+      "collabWith": [],
+      "notes": "",
+      "id": 1344,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴不朽の名曲を楽しもう！実力派Vsingerによる昭和歌謡縛り歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "六本木心中",
+      "artist": [
+        "アン・ルイス"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-07",
+      "videoId": "v9EqHuQwHz8",
+      "timestamp": 3020,
+      "collabWith": [],
+      "notes": "",
+      "id": 1345,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴不朽の名曲を楽しもう！実力派Vsingerによる昭和歌謡縛り歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "恋のバカンス",
+      "artist": [
+        "ザ・ピーナッツ"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-07",
+      "videoId": "v9EqHuQwHz8",
+      "timestamp": 3379,
+      "collabWith": [],
+      "notes": "",
+      "id": 1346,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴不朽の名曲を楽しもう！実力派Vsingerによる昭和歌謡縛り歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "UFO",
+      "artist": [
+        "ピンク・レディー"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-07",
+      "videoId": "v9EqHuQwHz8",
+      "timestamp": 3801,
+      "collabWith": [],
+      "notes": "",
+      "id": 1347,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴不朽の名曲を楽しもう！実力派Vsingerによる昭和歌謡縛り歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "異邦人",
+      "artist": [
+        "久保田早紀"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-07",
+      "videoId": "v9EqHuQwHz8",
+      "timestamp": 4127,
+      "collabWith": [],
+      "notes": "",
+      "id": 1348,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴不朽の名曲を楽しもう！実力派Vsingerによる昭和歌謡縛り歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "プレイバックPart2",
+      "artist": [
+        "山口百恵"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-07",
+      "videoId": "v9EqHuQwHz8",
+      "timestamp": 4560,
+      "collabWith": [],
+      "notes": "",
+      "id": 1349,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴不朽の名曲を楽しもう！実力派Vsingerによる昭和歌謡縛り歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "飾りじゃないのよ涙は",
+      "artist": [
+        "中森明菜"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-07",
+      "videoId": "v9EqHuQwHz8",
+      "timestamp": 5122,
+      "collabWith": [],
+      "notes": "",
+      "id": 1350,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴不朽の名曲を楽しもう！実力派Vsingerによる昭和歌謡縛り歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "君は薔薇より美しい",
+      "artist": [
+        "布施明"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-07",
+      "videoId": "v9EqHuQwHz8",
+      "timestamp": 5428,
+      "collabWith": [],
+      "notes": "",
+      "id": 1351,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴不朽の名曲を楽しもう！実力派Vsingerによる昭和歌謡縛り歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Kiss & Cry",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 350,
+      "collabWith": [],
+      "notes": "",
+      "id": 1352,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Beautiful World",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 980,
+      "collabWith": [],
+      "notes": "",
+      "id": 1353,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "誰かの願いが叶うころ",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 1525,
+      "collabWith": [],
+      "notes": "",
+      "id": 1354,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ぼくはくま",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 2361,
+      "collabWith": [],
+      "notes": "",
+      "id": 1355,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Stay Gold",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 2645,
+      "collabWith": [],
+      "notes": "",
+      "id": 1356,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Goodbye Happiness",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 3110,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1357,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "光",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 3258,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1358,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Prisoner Of Love",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 3366,
+      "collabWith": [],
+      "notes": "",
+      "id": 1359,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "time will tell",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 3870,
+      "collabWith": [],
+      "notes": "",
+      "id": 1360,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "First Love",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 4395,
+      "collabWith": [],
+      "notes": "",
+      "id": 1361,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Automatic",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 4777,
+      "collabWith": [],
+      "notes": "",
+      "id": 1362,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "In My Room",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 5222,
+      "collabWith": [],
+      "notes": "",
+      "id": 1363,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Movin'on without you",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 5560,
+      "collabWith": [],
+      "notes": "",
+      "id": 1364,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "甘いワナ ～Paint It, Black",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 5921,
+      "collabWith": [],
+      "notes": "",
+      "id": 1365,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "traveling",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 6276,
+      "collabWith": [],
+      "notes": "",
+      "id": 1366,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Can You Keep A Secret?",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 6807,
+      "collabWith": [],
+      "notes": "",
+      "id": 1367,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "COLORS",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 7431,
+      "collabWith": [],
+      "notes": "",
+      "id": 1368,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "One Last Kiss",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 7922,
+      "collabWith": [],
+      "notes": "",
+      "id": 1369,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "桜流し",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 8325,
+      "collabWith": [],
+      "notes": "",
+      "id": 1370,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "あなた",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-14",
+      "videoId": "roFETUm0UyA",
+      "timestamp": 8714,
+      "collabWith": [],
+      "notes": "",
+      "id": 1371,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵高評価200目標！実力派Vsingerの宇多田ヒカルオンリー歌枠🎤✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ゴーゴー幽霊船",
+      "artist": [
+        "米津玄師"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-21",
+      "videoId": "_fNHsTlPNLI",
+      "timestamp": 734,
+      "collabWith": [],
+      "notes": "",
+      "id": 1372,
+      "streamTitle": "【 歌枠 #KARAOKE  】⚪高評価200目標！いい声をあなたに✨オールジャンル歌枠🎤【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "木綿のハンカチーフ",
+      "artist": [
+        "太田裕美"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-21",
+      "videoId": "_fNHsTlPNLI",
+      "timestamp": 3059,
+      "collabWith": [],
+      "notes": "",
+      "id": 1373,
+      "streamTitle": "【 歌枠 #KARAOKE  】⚪高評価200目標！いい声をあなたに✨オールジャンル歌枠🎤【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "甘い運命",
+      "artist": [
+        "UA"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-21",
+      "videoId": "_fNHsTlPNLI",
+      "timestamp": 3462,
+      "collabWith": [],
+      "notes": "",
+      "id": 1374,
+      "streamTitle": "【 歌枠 #KARAOKE  】⚪高評価200目標！いい声をあなたに✨オールジャンル歌枠🎤【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "喜劇",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-21",
+      "videoId": "_fNHsTlPNLI",
+      "timestamp": 4042,
+      "collabWith": [],
+      "notes": "",
+      "id": 1375,
+      "streamTitle": "【 歌枠 #KARAOKE  】⚪高評価200目標！いい声をあなたに✨オールジャンル歌枠🎤【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "うっせぇわ",
+      "artist": [
+        "Ado"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-21",
+      "videoId": "_fNHsTlPNLI",
+      "timestamp": 5264,
+      "collabWith": [],
+      "notes": "",
+      "id": 1376,
+      "streamTitle": "【 歌枠 #KARAOKE  】⚪高評価200目標！いい声をあなたに✨オールジャンル歌枠🎤【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ラブカ？",
+      "artist": [
+        "柊キライ"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-21",
+      "videoId": "_fNHsTlPNLI",
+      "timestamp": 5619,
+      "collabWith": [],
+      "notes": "",
+      "id": 1377,
+      "streamTitle": "【 歌枠 #KARAOKE  】⚪高評価200目標！いい声をあなたに✨オールジャンル歌枠🎤【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Z女戦争",
+      "artist": [
+        "ももいろクローバーZ"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-21",
+      "videoId": "_fNHsTlPNLI",
+      "timestamp": 6044,
+      "collabWith": [],
+      "notes": "",
+      "id": 1378,
+      "streamTitle": "【 歌枠 #KARAOKE  】⚪高評価200目標！いい声をあなたに✨オールジャンル歌枠🎤【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ココ☆ナツ",
+      "artist": [
+        "ももいろクローバー"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-21",
+      "videoId": "_fNHsTlPNLI",
+      "timestamp": 6533,
+      "collabWith": [],
+      "notes": "",
+      "id": 1379,
+      "streamTitle": "【 歌枠 #KARAOKE  】⚪高評価200目標！いい声をあなたに✨オールジャンル歌枠🎤【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "真夏の果実",
+      "artist": [
+        "サザンオールスターズ"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-21",
+      "videoId": "_fNHsTlPNLI",
+      "timestamp": 6925,
+      "collabWith": [],
+      "notes": "",
+      "id": 1380,
+      "streamTitle": "【 歌枠 #KARAOKE  】⚪高評価200目標！いい声をあなたに✨オールジャンル歌枠🎤【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ラヴィ",
+      "artist": [
+        "すりぃ"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-21",
+      "videoId": "_fNHsTlPNLI",
+      "timestamp": 7328,
+      "collabWith": [],
+      "notes": "",
+      "id": 1381,
+      "streamTitle": "【 歌枠 #KARAOKE  】⚪高評価200目標！いい声をあなたに✨オールジャンル歌枠🎤【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "フライディ・チャイナタウン",
+      "artist": [
+        "泰葉"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-21",
+      "videoId": "_fNHsTlPNLI",
+      "timestamp": 7672,
+      "collabWith": [],
+      "notes": "",
+      "id": 1382,
+      "streamTitle": "【 歌枠 #KARAOKE  】⚪高評価200目標！いい声をあなたに✨オールジャンル歌枠🎤【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "葛飾ラプソディー",
+      "artist": [
+        "堂島孝平"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-21",
+      "videoId": "_fNHsTlPNLI",
+      "timestamp": 7992,
+      "collabWith": [],
+      "notes": "",
+      "id": 1383,
+      "streamTitle": "【 歌枠 #KARAOKE  】⚪高評価200目標！いい声をあなたに✨オールジャンル歌枠🎤【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Attention",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-28",
+      "videoId": "OrIwiyqiiog",
+      "timestamp": 309,
+      "collabWith": [],
+      "notes": "",
+      "id": 1384,
+      "streamTitle": "【 歌枠 #KARAOKE  】本格派VsingerによるVRライブ🎤🪐フルトラ3D&オリジナル曲限定！✨新曲初披露アリ◎ in #VRChat 目指せ！同接100人🤝【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "チープトーク",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-28",
+      "videoId": "OrIwiyqiiog",
+      "timestamp": 503,
+      "collabWith": [],
+      "notes": "",
+      "id": 1385,
+      "streamTitle": "【 歌枠 #KARAOKE  】本格派VsingerによるVRライブ🎤🪐フルトラ3D&オリジナル曲限定！✨新曲初披露アリ◎ in #VRChat 目指せ！同接100人🤝【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "My Room Sunshine",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-28",
+      "videoId": "OrIwiyqiiog",
+      "timestamp": 1092,
+      "collabWith": [],
+      "notes": "",
+      "id": 1386,
+      "streamTitle": "【 歌枠 #KARAOKE  】本格派VsingerによるVRライブ🎤🪐フルトラ3D&オリジナル曲限定！✨新曲初披露アリ◎ in #VRChat 目指せ！同接100人🤝【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ままごと",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-28",
+      "videoId": "OrIwiyqiiog",
+      "timestamp": 1286,
+      "collabWith": [],
+      "notes": "",
+      "id": 1387,
+      "streamTitle": "【 歌枠 #KARAOKE  】本格派VsingerによるVRライブ🎤🪐フルトラ3D&オリジナル曲限定！✨新曲初披露アリ◎ in #VRChat 目指せ！同接100人🤝【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "File No.X",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-28",
+      "videoId": "OrIwiyqiiog",
+      "timestamp": 1822,
+      "collabWith": [],
+      "notes": "",
+      "id": 1388,
+      "streamTitle": "【 歌枠 #KARAOKE  】本格派VsingerによるVRライブ🎤🪐フルトラ3D&オリジナル曲限定！✨新曲初披露アリ◎ in #VRChat 目指せ！同接100人🤝【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ユートピア",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-28",
+      "videoId": "OrIwiyqiiog",
+      "timestamp": 2026,
+      "collabWith": [],
+      "notes": "",
+      "id": 1389,
+      "streamTitle": "【 歌枠 #KARAOKE  】本格派VsingerによるVRライブ🎤🪐フルトラ3D&オリジナル曲限定！✨新曲初披露アリ◎ in #VRChat 目指せ！同接100人🤝【 #Vsinger 潮成実 】"
+    },
+    {
+      "id": 1390,
+      "title": "人知れず",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-28",
+      "videoId": "OrIwiyqiiog",
+      "timestamp": 2641,
+      "streamTitle": "【 歌枠 #KARAOKE  】本格派VsingerによるVRライブ🎤🪐フルトラ3D&オリジナル曲限定！✨新曲初披露アリ◎ in #VRChat 目指せ！同接100人🤝【 #Vsinger 潮成実 】",
+      "collabWith": [],
+      "notes": ""
+    },
+    {
+      "title": "音沙汰",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-28",
+      "videoId": "OrIwiyqiiog",
+      "timestamp": 2704,
+      "collabWith": [],
+      "notes": "",
+      "id": 1391,
+      "streamTitle": "【 歌枠 #KARAOKE  】本格派VsingerによるVRライブ🎤🪐フルトラ3D&オリジナル曲限定！✨新曲初披露アリ◎ in #VRChat 目指せ！同接100人🤝【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Ungifted Song",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-28",
+      "videoId": "OrIwiyqiiog",
+      "timestamp": 3478,
+      "collabWith": [],
+      "notes": "",
+      "id": 1392,
+      "streamTitle": "【 歌枠 #KARAOKE  】本格派VsingerによるVRライブ🎤🪐フルトラ3D&オリジナル曲限定！✨新曲初披露アリ◎ in #VRChat 目指せ！同接100人🤝【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Sweep Away",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-28",
+      "videoId": "OrIwiyqiiog",
+      "timestamp": 4084,
+      "collabWith": [],
+      "notes": "",
+      "id": 1393,
+      "streamTitle": "【 歌枠 #KARAOKE  】本格派VsingerによるVRライブ🎤🪐フルトラ3D&オリジナル曲限定！✨新曲初披露アリ◎ in #VRChat 目指せ！同接100人🤝【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "翳り",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-05-28",
+      "videoId": "OrIwiyqiiog",
+      "timestamp": 4454,
+      "collabWith": [],
+      "notes": "",
+      "id": 1394,
+      "streamTitle": "【 歌枠 #KARAOKE  】本格派VsingerによるVRライブ🎤🪐フルトラ3D&オリジナル曲限定！✨新曲初披露アリ◎ in #VRChat 目指せ！同接100人🤝【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "翳り",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2025-03-08",
+      "videoId": "NQYmY2IdIfs",
+      "timestamp": 11187,
+      "collabWith": [],
+      "notes": "",
+      "id": 1395,
+      "streamTitle": "【#歌枠┊︎告知あり】38曲を大好きな14人と歌い繋いでいきます～✧【#おみやの日 / 神月都】#おつきみリサイタル"
+    },
+    {
+      "title": "アイ",
+      "artist": [
+        "秦基博"
+      ],
+      "type": "external",
+      "date": "2025-03-08",
+      "videoId": "NQYmY2IdIfs",
+      "timestamp": 11546,
+      "collabWith": [
+        "神月都"
+      ],
+      "notes": "",
+      "id": 1396,
+      "streamTitle": "【#歌枠┊︎告知あり】38曲を大好きな14人と歌い繋いでいきます～✧【#おみやの日 / 神月都】#おつきみリサイタル"
+    },
+    {
+      "title": "traveling",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-06",
+      "videoId": "hQQh9X8Ae8c",
+      "timestamp": 115,
+      "collabWith": [
+        "神月都"
+      ],
+      "notes": "",
+      "id": 1397,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵神月都 × 潮成実🌃夜が似合う2人のコラボ歌枠！🎤✨【 #vsinger #成都コラボ 】"
+    },
+    {
+      "title": "きらり",
+      "artist": [
+        "藤井風"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-06",
+      "videoId": "hQQh9X8Ae8c",
+      "timestamp": 883,
+      "collabWith": [
+        "神月都"
+      ],
+      "notes": "",
+      "id": 1398,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵神月都 × 潮成実🌃夜が似合う2人のコラボ歌枠！🎤✨【 #vsinger #成都コラボ 】"
+    },
+    {
+      "title": "女の子は誰でも",
+      "artist": [
+        "東京事変"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-06",
+      "videoId": "hQQh9X8Ae8c",
+      "timestamp": 1387,
+      "collabWith": [
+        "神月都"
+      ],
+      "notes": "",
+      "id": 1399,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵神月都 × 潮成実🌃夜が似合う2人のコラボ歌枠！🎤✨【 #vsinger #成都コラボ 】"
+    },
+    {
+      "title": "ワンルーム・オール・ザット・ジャズ",
+      "artist": [
+        "DATEKEN"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-06",
+      "videoId": "hQQh9X8Ae8c",
+      "timestamp": 1686,
+      "collabWith": [
+        "神月都"
+      ],
+      "notes": "",
+      "id": 1400,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵神月都 × 潮成実🌃夜が似合う2人のコラボ歌枠！🎤✨【 #vsinger #成都コラボ 】"
+    },
+    {
+      "title": "優しさ",
+      "artist": [
+        "藤井風"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-06",
+      "videoId": "hQQh9X8Ae8c",
+      "timestamp": 2819,
+      "collabWith": [],
+      "notes": "",
+      "id": 1401,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵神月都 × 潮成実🌃夜が似合う2人のコラボ歌枠！🎤✨【 #vsinger #成都コラボ 】"
+    },
+    {
+      "title": "東京フラッシュ",
+      "artist": [
+        "Vaundy"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-06",
+      "videoId": "hQQh9X8Ae8c",
+      "timestamp": 3549,
+      "collabWith": [
+        "神月都"
+      ],
+      "notes": "",
+      "id": 1402,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵神月都 × 潮成実🌃夜が似合う2人のコラボ歌枠！🎤✨【 #vsinger #成都コラボ 】"
+    },
+    {
+      "title": "一度だけの恋なら",
+      "artist": [
+        "ワルキューレ"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-06",
+      "videoId": "hQQh9X8Ae8c",
+      "timestamp": 4245,
+      "collabWith": [
+        "神月都"
+      ],
+      "notes": "",
+      "id": 1403,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵神月都 × 潮成実🌃夜が似合う2人のコラボ歌枠！🎤✨【 #vsinger #成都コラボ 】"
+    },
+    {
+      "title": "恋",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-06",
+      "videoId": "hQQh9X8Ae8c",
+      "timestamp": 5012,
+      "collabWith": [
+        "神月都"
+      ],
+      "notes": "",
+      "id": 1404,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵神月都 × 潮成実🌃夜が似合う2人のコラボ歌枠！🎤✨【 #vsinger #成都コラボ 】"
+    },
+    {
+      "title": "LA･LA･LA LOVE SONG",
+      "artist": [
+        "久保田利伸"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-06",
+      "videoId": "hQQh9X8Ae8c",
+      "timestamp": 6013,
+      "collabWith": [
+        "神月都"
+      ],
+      "notes": "",
+      "id": 1405,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵神月都 × 潮成実🌃夜が似合う2人のコラボ歌枠！🎤✨【 #vsinger #成都コラボ 】"
+    },
+    {
+      "title": "おもかげ",
+      "artist": [
+        "Aimer",
+        "milet",
+        "幾田りら",
+        "Vaundy"
+      ],
+      "type": "external",
+      "date": "2025-06-12",
+      "videoId": "gA9kw0JDE_o",
+      "timestamp": 657,
+      "collabWith": [
+        "神月都"
+      ],
+      "notes": "",
+      "id": 1406,
+      "streamTitle": "【#歌枠/#karaoke】歌声から楽しい～～が伝わる #成都コラボ 2回目の夜だよ🕺🏻✦【神月都 / 潮成実】#おつきみリサイタル"
+    },
+    {
+      "title": "Pop Virus",
+      "artist": [
+        "星野源"
+      ],
+      "type": "external",
+      "date": "2025-06-12",
+      "videoId": "gA9kw0JDE_o",
+      "timestamp": 1401,
+      "collabWith": [
+        "神月都"
+      ],
+      "notes": "",
+      "id": 1407,
+      "streamTitle": "【#歌枠/#karaoke】歌声から楽しい～～が伝わる #成都コラボ 2回目の夜だよ🕺🏻✦【神月都 / 潮成実】#おつきみリサイタル"
+    },
+    {
+      "title": "閃光少女",
+      "artist": [
+        "東京事変"
+      ],
+      "type": "external",
+      "date": "2025-06-12",
+      "videoId": "gA9kw0JDE_o",
+      "timestamp": 2002,
+      "collabWith": [
+        "神月都"
+      ],
+      "notes": "",
+      "id": 1408,
+      "streamTitle": "【#歌枠/#karaoke】歌声から楽しい～～が伝わる #成都コラボ 2回目の夜だよ🕺🏻✦【神月都 / 潮成実】#おつきみリサイタル"
+    },
+    {
+      "title": "宇宙の記憶",
+      "artist": [
+        "坂本真綾"
+      ],
+      "type": "external",
+      "date": "2025-06-12",
+      "videoId": "gA9kw0JDE_o",
+      "timestamp": 2205,
+      "collabWith": [
+        "神月都"
+      ],
+      "notes": "",
+      "id": 1409,
+      "streamTitle": "【#歌枠/#karaoke】歌声から楽しい～～が伝わる #成都コラボ 2回目の夜だよ🕺🏻✦【神月都 / 潮成実】#おつきみリサイタル"
+    },
+    {
+      "title": "Prayer X",
+      "artist": [
+        "King Gnu"
+      ],
+      "type": "external",
+      "date": "2025-06-12",
+      "videoId": "gA9kw0JDE_o",
+      "timestamp": 2714,
+      "collabWith": [],
+      "notes": "",
+      "id": 1410,
+      "streamTitle": "【#歌枠/#karaoke】歌声から楽しい～～が伝わる #成都コラボ 2回目の夜だよ🕺🏻✦【神月都 / 潮成実】#おつきみリサイタル"
+    },
+    {
+      "title": "Prisoner Of Love",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "external",
+      "date": "2025-06-12",
+      "videoId": "gA9kw0JDE_o",
+      "timestamp": 4587,
+      "collabWith": [
+        "神月都"
+      ],
+      "notes": "",
+      "id": 1411,
+      "streamTitle": "【#歌枠/#karaoke】歌声から楽しい～～が伝わる #成都コラボ 2回目の夜だよ🕺🏻✦【神月都 / 潮成実】#おつきみリサイタル"
+    },
+    {
+      "title": "Rain",
+      "artist": [
+        "大江千里",
+        "秦基博"
+      ],
+      "type": "external",
+      "date": "2025-06-12",
+      "videoId": "gA9kw0JDE_o",
+      "timestamp": 5608,
+      "collabWith": [
+        "神月都"
+      ],
+      "notes": "",
+      "id": 1412,
+      "streamTitle": "【#歌枠/#karaoke】歌声から楽しい～～が伝わる #成都コラボ 2回目の夜だよ🕺🏻✦【神月都 / 潮成実】#おつきみリサイタル"
+    },
+    {
+      "title": "ピエロチック",
+      "artist": [
+        "さかいゆう",
+        "秦基博"
+      ],
+      "type": "external",
+      "date": "2025-06-12",
+      "videoId": "gA9kw0JDE_o",
+      "timestamp": 6632,
+      "collabWith": [
+        "神月都"
+      ],
+      "notes": "",
+      "id": 1413,
+      "streamTitle": "【#歌枠/#karaoke】歌声から楽しい～～が伝わる #成都コラボ 2回目の夜だよ🕺🏻✦【神月都 / 潮成実】#おつきみリサイタル"
+    },
+    {
+      "title": "夢の外へ",
+      "artist": [
+        "星野源"
+      ],
+      "type": "external",
+      "date": "2025-06-12",
+      "videoId": "gA9kw0JDE_o",
+      "timestamp": 7633,
+      "collabWith": [
+        "神月都"
+      ],
+      "notes": "",
+      "id": 1414,
+      "streamTitle": "【#歌枠/#karaoke】歌声から楽しい～～が伝わる #成都コラボ 2回目の夜だよ🕺🏻✦【神月都 / 潮成実】#おつきみリサイタル"
+    },
+    {
+      "title": "BON VOYAGE!",
+      "artist": [
+        "Bon-Bon Blanco"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-04",
+      "videoId": "s5PIq02J_NA",
+      "timestamp": 105,
+      "collabWith": [],
+      "notes": "",
+      "id": 1415,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠実力派Vsinger🎤元気の出る曲を歌って元気を出そう作戦！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "渚にまつわるエトセトラ",
+      "artist": [
+        "PUFFY"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-04",
+      "videoId": "s5PIq02J_NA",
+      "timestamp": 1383,
+      "collabWith": [],
+      "notes": "",
+      "id": 1416,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠実力派Vsinger🎤元気の出る曲を歌って元気を出そう作戦！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "アジアの純真",
+      "artist": [
+        "PUFFY"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-04",
+      "videoId": "s5PIq02J_NA",
+      "timestamp": 1624,
+      "collabWith": [],
+      "notes": "",
+      "id": 1417,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠実力派Vsinger🎤元気の出る曲を歌って元気を出そう作戦！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "バカサバイバー",
+      "artist": [
+        "ウルフルズ"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-04",
+      "videoId": "s5PIq02J_NA",
+      "timestamp": 2279,
+      "collabWith": [],
+      "notes": "",
+      "id": 1418,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠実力派Vsinger🎤元気の出る曲を歌って元気を出そう作戦！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "前向きスクリーム！",
+      "artist": [
+        "関ジャニ∞"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-04",
+      "videoId": "s5PIq02J_NA",
+      "timestamp": 2654,
+      "collabWith": [],
+      "notes": "",
+      "id": 1419,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠実力派Vsinger🎤元気の出る曲を歌って元気を出そう作戦！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "できっこないを やらなくちゃ",
+      "artist": [
+        "サンボマスター"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-04",
+      "videoId": "s5PIq02J_NA",
+      "timestamp": 3355,
+      "collabWith": [],
+      "notes": "",
+      "id": 1420,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠実力派Vsinger🎤元気の出る曲を歌って元気を出そう作戦！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "id": 1421,
+      "title": "SHAKE",
+      "artist": [
+        "SMAP"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-04",
+      "videoId": "s5PIq02J_NA",
+      "timestamp": 4768,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠実力派Vsinger🎤元気の出る曲を歌って元気を出そう作戦！✨【 #Vsinger 潮成実 】",
+      "collabWith": [],
+      "notes": ""
+    },
+    {
+      "title": "Alright!!",
+      "artist": [
+        "Suprefly"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-04",
+      "videoId": "s5PIq02J_NA",
+      "timestamp": 5107,
+      "collabWith": [],
+      "notes": "",
+      "id": 1422,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠実力派Vsinger🎤元気の出る曲を歌って元気を出そう作戦！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "気分上々↑↑",
+      "artist": [
+        "mihimaru GT"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-04",
+      "videoId": "s5PIq02J_NA",
+      "timestamp": 5384,
+      "collabWith": [],
+      "notes": "",
+      "id": 1423,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠実力派Vsinger🎤元気の出る曲を歌って元気を出そう作戦！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "SMILY",
+      "artist": [
+        "大塚愛"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-04",
+      "videoId": "s5PIq02J_NA",
+      "timestamp": 5829,
+      "collabWith": [],
+      "notes": "",
+      "id": 1424,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠実力派Vsinger🎤元気の出る曲を歌って元気を出そう作戦！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "じょいふる",
+      "artist": [
+        "いきものがかり"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-04",
+      "videoId": "s5PIq02J_NA",
+      "timestamp": 6185,
+      "collabWith": [],
+      "notes": "",
+      "id": 1425,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠実力派Vsinger🎤元気の出る曲を歌って元気を出そう作戦！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ええねん",
+      "artist": [
+        "ウルフルズ"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-04",
+      "videoId": "s5PIq02J_NA",
+      "timestamp": 6414,
+      "collabWith": [],
+      "notes": "",
+      "id": 1426,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠実力派Vsinger🎤元気の出る曲を歌って元気を出そう作戦！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "リルラ リルハ",
+      "artist": [
+        "木村カエラ"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-04",
+      "videoId": "s5PIq02J_NA",
+      "timestamp": 6710,
+      "collabWith": [],
+      "notes": "",
+      "id": 1427,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠実力派Vsinger🎤元気の出る曲を歌って元気を出そう作戦！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "時よ",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-04",
+      "videoId": "s5PIq02J_NA",
+      "timestamp": 7120,
+      "collabWith": [],
+      "notes": "",
+      "id": 1428,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠実力派Vsinger🎤元気の出る曲を歌って元気を出そう作戦！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "何度でも",
+      "artist": [
+        "DREAMS COME TRUE"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-04",
+      "videoId": "s5PIq02J_NA",
+      "timestamp": 7501,
+      "collabWith": [],
+      "notes": "",
+      "id": 1429,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠実力派Vsinger🎤元気の出る曲を歌って元気を出そう作戦！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "U",
+      "artist": [
+        "Belle",
+        "中村佳穂",
+        "MILLENNIUM PARADE"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-11",
+      "videoId": "zyuu9O4OIZg",
+      "timestamp": 158,
+      "collabWith": [],
+      "notes": "",
+      "id": 1430,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤4年と半年もこの世界に居続けています💗ありがとう！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ミックスナッツ",
+      "artist": [
+        "Official髭男dism"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-11",
+      "videoId": "zyuu9O4OIZg",
+      "timestamp": 1003,
+      "collabWith": [],
+      "notes": "",
+      "id": 1431,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤4年と半年もこの世界に居続けています💗ありがとう！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ノーダウト",
+      "artist": [
+        "Official髭男dism"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-11",
+      "videoId": "zyuu9O4OIZg",
+      "timestamp": 1356,
+      "collabWith": [],
+      "notes": "",
+      "id": 1432,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤4年と半年もこの世界に居続けています💗ありがとう！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "獣ゆく細道",
+      "artist": [
+        "椎名林檎",
+        "宮本浩次"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-11",
+      "videoId": "zyuu9O4OIZg",
+      "timestamp": 1861,
+      "collabWith": [],
+      "notes": "",
+      "id": 1433,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤4年と半年もこの世界に居続けています💗ありがとう！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Timing",
+      "artist": [
+        "ブラックビスケッツ"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-11",
+      "videoId": "zyuu9O4OIZg",
+      "timestamp": 2814,
+      "collabWith": [],
+      "notes": "",
+      "id": 1434,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤4年と半年もこの世界に居続けています💗ありがとう！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "私とワルツを",
+      "artist": [
+        "鬼束ちひろ"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-11",
+      "videoId": "zyuu9O4OIZg",
+      "timestamp": 3253,
+      "collabWith": [],
+      "notes": "",
+      "id": 1435,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤4年と半年もこの世界に居続けています💗ありがとう！【 #Vsinger 潮成実 】"
+    },
+    {
+      "id": 1436,
+      "title": "I beg you",
+      "artist": [
+        "Aimer"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-11",
+      "videoId": "zyuu9O4OIZg",
+      "timestamp": 4050,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤4年と半年もこの世界に居続けています💗ありがとう！【 #Vsinger 潮成実 】",
+      "collabWith": [],
+      "notes": ""
+    },
+    {
+      "title": "オルフェンズの涙",
+      "artist": [
+        "MISIA"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-11",
+      "videoId": "zyuu9O4OIZg",
+      "timestamp": 4462,
+      "collabWith": [],
+      "notes": "",
+      "id": 1437,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤4年と半年もこの世界に居続けています💗ありがとう！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "恋におちて -Fall in love-",
+      "artist": [
+        "小林明子"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-11",
+      "videoId": "zyuu9O4OIZg",
+      "timestamp": 4910,
+      "collabWith": [],
+      "notes": "",
+      "id": 1438,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤4年と半年もこの世界に居続けています💗ありがとう！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "プレイバックPart2",
+      "artist": [
+        "山口百恵"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-11",
+      "videoId": "zyuu9O4OIZg",
+      "timestamp": 5310,
+      "collabWith": [],
+      "notes": "",
+      "id": 1439,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤4年と半年もこの世界に居続けています💗ありがとう！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "君は薔薇より美しい",
+      "artist": [
+        "布施明"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-11",
+      "videoId": "zyuu9O4OIZg",
+      "timestamp": 5665,
+      "collabWith": [],
+      "notes": "",
+      "id": 1440,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤4年と半年もこの世界に居続けています💗ありがとう！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Virtual Insanity",
+      "artist": [
+        "Jamiroquai"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-11",
+      "videoId": "zyuu9O4OIZg",
+      "timestamp": 6185,
+      "collabWith": [],
+      "notes": "",
+      "id": 1441,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤4年と半年もこの世界に居続けています💗ありがとう！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "In My Room",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-11",
+      "videoId": "zyuu9O4OIZg",
+      "timestamp": 6673,
+      "collabWith": [],
+      "notes": "",
+      "id": 1442,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤4年と半年もこの世界に居続けています💗ありがとう！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "能動的三分間",
+      "artist": [
+        "東京事変"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-11",
+      "videoId": "zyuu9O4OIZg",
+      "timestamp": 7183,
+      "collabWith": [],
+      "notes": "",
+      "id": 1443,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤4年と半年もこの世界に居続けています💗ありがとう！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "くちばしにチェリー",
+      "artist": [
+        "EGO-WRAPPIN'"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-11",
+      "videoId": "zyuu9O4OIZg",
+      "timestamp": 7464,
+      "collabWith": [],
+      "notes": "",
+      "id": 1444,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴実力派Vsinger🎤4年と半年もこの世界に居続けています💗ありがとう！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "きっとね！",
+      "artist": [
+        "中村佳穂"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-18",
+      "videoId": "frPHZHUwuIs",
+      "timestamp": 756,
+      "collabWith": [],
+      "notes": "",
+      "id": 1445,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟢実力派Vsinger🎤NEWマイクを初めて使う歌枠！😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "喜劇",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-18",
+      "videoId": "frPHZHUwuIs",
+      "timestamp": 2740,
+      "collabWith": [],
+      "notes": "",
+      "id": 1446,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟢実力派Vsinger🎤NEWマイクを初めて使う歌枠！😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Family Song",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-18",
+      "videoId": "frPHZHUwuIs",
+      "timestamp": 3227,
+      "collabWith": [],
+      "notes": "",
+      "id": 1447,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟢実力派Vsinger🎤NEWマイクを初めて使う歌枠！😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "夢じゃない",
+      "artist": [
+        "スピッツ"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-18",
+      "videoId": "frPHZHUwuIs",
+      "timestamp": 3655,
+      "collabWith": [],
+      "notes": "",
+      "id": 1448,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟢実力派Vsinger🎤NEWマイクを初めて使う歌枠！😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "スパイダー",
+      "artist": [
+        "スピッツ"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-18",
+      "videoId": "frPHZHUwuIs",
+      "timestamp": 3986,
+      "collabWith": [],
+      "notes": "",
+      "id": 1449,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟢実力派Vsinger🎤NEWマイクを初めて使う歌枠！😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "チェリー",
+      "artist": [
+        "スピッツ"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-18",
+      "videoId": "frPHZHUwuIs",
+      "timestamp": 4307,
+      "collabWith": [],
+      "notes": "",
+      "id": 1450,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟢実力派Vsinger🎤NEWマイクを初めて使う歌枠！😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ガッツだぜ！！",
+      "artist": [
+        "ウルフルズ"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-18",
+      "videoId": "frPHZHUwuIs",
+      "timestamp": 6233,
+      "collabWith": [],
+      "notes": "",
+      "id": 1451,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟢実力派Vsinger🎤NEWマイクを初めて使う歌枠！😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "暴れだす",
+      "artist": [
+        "ウルフルズ"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-18",
+      "videoId": "frPHZHUwuIs",
+      "timestamp": 6513,
+      "collabWith": [],
+      "notes": "",
+      "id": 1452,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟢実力派Vsinger🎤NEWマイクを初めて使う歌枠！😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ある死にぞこない",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-25",
+      "videoId": "7pVzt1krvUY",
+      "timestamp": 328,
+      "collabWith": [],
+      "notes": "",
+      "id": 1453,
+      "streamTitle": "【 3DオンラインLIVE 】🟡目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "File No.X",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-25",
+      "videoId": "7pVzt1krvUY",
+      "timestamp": 503,
+      "collabWith": [],
+      "notes": "",
+      "id": 1454,
+      "streamTitle": "【 3DオンラインLIVE 】🟡目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "翳り",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-25",
+      "videoId": "7pVzt1krvUY",
+      "timestamp": 707,
+      "collabWith": [],
+      "notes": "",
+      "id": 1455,
+      "streamTitle": "【 3DオンラインLIVE 】🟡目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "チープトーク",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-25",
+      "videoId": "7pVzt1krvUY",
+      "timestamp": 1765,
+      "collabWith": [],
+      "notes": "",
+      "id": 1456,
+      "streamTitle": "【 3DオンラインLIVE 】🟡目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Sweep Away",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-25",
+      "videoId": "7pVzt1krvUY",
+      "timestamp": 1959,
+      "collabWith": [],
+      "notes": "",
+      "id": 1457,
+      "streamTitle": "【 3DオンラインLIVE 】🟡目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Attention",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-25",
+      "videoId": "7pVzt1krvUY",
+      "timestamp": 2141,
+      "collabWith": [],
+      "notes": "",
+      "id": 1458,
+      "streamTitle": "【 3DオンラインLIVE 】🟡目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ユートピア",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-25",
+      "videoId": "7pVzt1krvUY",
+      "timestamp": 3201,
+      "collabWith": [],
+      "notes": "",
+      "id": 1459,
+      "streamTitle": "【 3DオンラインLIVE 】🟡目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Ungifted Song",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-25",
+      "videoId": "7pVzt1krvUY",
+      "timestamp": 3411,
+      "collabWith": [],
+      "notes": "",
+      "id": 1460,
+      "streamTitle": "【 3DオンラインLIVE 】🟡目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "人知れず",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-25",
+      "videoId": "7pVzt1krvUY",
+      "timestamp": 3969,
+      "collabWith": [],
+      "notes": "",
+      "id": 1461,
+      "streamTitle": "【 3DオンラインLIVE 】🟡目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "陽炎",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-25",
+      "videoId": "7pVzt1krvUY",
+      "timestamp": 4615,
+      "collabWith": [],
+      "notes": "",
+      "id": 1462,
+      "streamTitle": "【 3DオンラインLIVE 】🟡目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "My Room Sunshine",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-06-25",
+      "videoId": "7pVzt1krvUY",
+      "timestamp": 5186,
+      "collabWith": [],
+      "notes": "",
+      "id": 1463,
+      "streamTitle": "【 3DオンラインLIVE 】🟡目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ミュージック・アワー",
+      "artist": [
+        "ポルノグラフィティ"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-02",
+      "videoId": "JuWYBFAVKF8",
+      "timestamp": 314,
+      "collabWith": [],
+      "notes": "",
+      "id": 1464,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵本格派Vsinger🎤『夏』が歌詞に入ってる曲歌う😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Hi-Five",
+      "artist": [
+        "ME:I"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-02",
+      "videoId": "JuWYBFAVKF8",
+      "timestamp": 1227,
+      "collabWith": [],
+      "notes": "",
+      "id": 1465,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵本格派Vsinger🎤『夏』が歌詞に入ってる曲歌う😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "罪と夏",
+      "artist": [
+        "関ジャニ∞"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-02",
+      "videoId": "JuWYBFAVKF8",
+      "timestamp": 1530,
+      "collabWith": [],
+      "notes": "",
+      "id": 1466,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵本格派Vsinger🎤『夏』が歌詞に入ってる曲歌う😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "勝手にシンドバッド",
+      "artist": [
+        "サザンオールスターズ"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-02",
+      "videoId": "JuWYBFAVKF8",
+      "timestamp": 1904,
+      "collabWith": [],
+      "notes": "",
+      "id": 1467,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵本格派Vsinger🎤『夏』が歌詞に入ってる曲歌う😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Star",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-02",
+      "videoId": "JuWYBFAVKF8",
+      "timestamp": 2535,
+      "collabWith": [],
+      "notes": "",
+      "id": 1468,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵本格派Vsinger🎤『夏』が歌詞に入ってる曲歌う😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ミックスナッツ",
+      "artist": [
+        "Official髭男dism"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-02",
+      "videoId": "JuWYBFAVKF8",
+      "timestamp": 3022,
+      "collabWith": [],
+      "notes": "",
+      "id": 1469,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵本格派Vsinger🎤『夏』が歌詞に入ってる曲歌う😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "secret base〜君がくれたもの〜",
+      "artist": [
+        "ZONE"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-02",
+      "videoId": "JuWYBFAVKF8",
+      "timestamp": 3600,
+      "collabWith": [],
+      "notes": "",
+      "id": 1470,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵本格派Vsinger🎤『夏』が歌詞に入ってる曲歌う😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ハナミズキ",
+      "artist": [
+        "一青窈"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-02",
+      "videoId": "JuWYBFAVKF8",
+      "timestamp": 4021,
+      "collabWith": [],
+      "notes": "",
+      "id": 1471,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵本格派Vsinger🎤『夏』が歌詞に入ってる曲歌う😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "浮舟",
+      "artist": [
+        "GO!GO!7188"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-02",
+      "videoId": "JuWYBFAVKF8",
+      "timestamp": 4765,
+      "collabWith": [],
+      "notes": "",
+      "id": 1472,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵本格派Vsinger🎤『夏』が歌詞に入ってる曲歌う😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "夏の幻",
+      "artist": [
+        "GARNET CROW"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-02",
+      "videoId": "JuWYBFAVKF8",
+      "timestamp": 5166,
+      "collabWith": [],
+      "notes": "",
+      "id": 1473,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵本格派Vsinger🎤『夏』が歌詞に入ってる曲歌う😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "花火",
+      "artist": [
+        "aiko"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-02",
+      "videoId": "JuWYBFAVKF8",
+      "timestamp": 6712,
+      "collabWith": [],
+      "notes": "",
+      "id": 1474,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵本格派Vsinger🎤『夏』が歌詞に入ってる曲歌う😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "長く短い祭",
+      "artist": [
+        "椎名林檎"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-02",
+      "videoId": "JuWYBFAVKF8",
+      "timestamp": 7047,
+      "collabWith": [],
+      "notes": "",
+      "id": 1475,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵本格派Vsinger🎤『夏』が歌詞に入ってる曲歌う😉✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ふり・ふろ",
+      "artist": [
+        "潮成実",
+        "ひとなつおもい"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-06",
+      "videoId": "_WL1Kihi0ok",
+      "timestamp": 254,
+      "collabWith": [
+        "ひとなつおもい"
+      ],
+      "notes": "",
+      "id": 1476,
+      "streamTitle": "【 #NaNaFes歌枠リレー 】パワフル&ソウルフル🔥雰囲気のある歌唱力に自信ニキ🎤💪【 #Vsinger 潮成実 】"
+    },
+    {
+      "id": 1477,
+      "title": "Attention",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-06",
+      "videoId": "_WL1Kihi0ok",
+      "timestamp": 534,
+      "streamTitle": "【 #NaNaFes歌枠リレー 】パワフル&ソウルフル🔥雰囲気のある歌唱力に自信ニキ🎤💪【 #Vsinger 潮成実 】",
+      "collabWith": [],
+      "notes": ""
+    },
+    {
+      "title": "ままごと",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-06",
+      "videoId": "_WL1Kihi0ok",
+      "timestamp": 728,
+      "collabWith": [],
+      "notes": "",
+      "id": 1478,
+      "streamTitle": "【 #NaNaFes歌枠リレー 】パワフル&ソウルフル🔥雰囲気のある歌唱力に自信ニキ🎤💪【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "真夏のエクスタシー",
+      "artist": [
+        "風味堂"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-06",
+      "videoId": "_WL1Kihi0ok",
+      "timestamp": 1100,
+      "collabWith": [],
+      "notes": "",
+      "id": 1479,
+      "streamTitle": "【 #NaNaFes歌枠リレー 】パワフル&ソウルフル🔥雰囲気のある歌唱力に自信ニキ🎤💪【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "喜劇",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-09",
+      "videoId": "HiOqBHPlMAM",
+      "timestamp": 2703,
+      "collabWith": [],
+      "notes": "",
+      "id": 1480,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵本格派Vsinger🎤ゆったりまったり雑談多め歌枠😌💭【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Pop Virus",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-09",
+      "videoId": "HiOqBHPlMAM",
+      "timestamp": 4234,
+      "collabWith": [],
+      "notes": "",
+      "id": 1481,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵本格派Vsinger🎤ゆったりまったり雑談多め歌枠😌💭【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "やさしさに包まれたなら",
+      "artist": [
+        "荒井由実"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-09",
+      "videoId": "HiOqBHPlMAM",
+      "timestamp": 5627,
+      "collabWith": [],
+      "notes": "",
+      "id": 1482,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵本格派Vsinger🎤ゆったりまったり雑談多め歌枠😌💭【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "決戦は金曜日",
+      "artist": [
+        "DREAMS COME TRUE"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-09",
+      "videoId": "HiOqBHPlMAM",
+      "timestamp": 7617,
+      "collabWith": [],
+      "notes": "",
+      "id": 1483,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵本格派Vsinger🎤ゆったりまったり雑談多め歌枠😌💭【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "おジャ魔女カーニバル!!",
+      "artist": [
+        "MAHO堂"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 187,
+      "collabWith": [],
+      "notes": "",
+      "id": 1484,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ウィーアー!",
+      "artist": [
+        "きただにひろし"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 633,
+      "collabWith": [],
+      "notes": "",
+      "id": 1485,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "残酷な天使のテーゼ",
+      "artist": [
+        "高橋洋子"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 935,
+      "collabWith": [],
+      "notes": "",
+      "id": 1486,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "魂のルフラン",
+      "artist": [
+        "高橋洋子"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 1771,
+      "collabWith": [],
+      "notes": "",
+      "id": 1487,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "願い事ひとつだけ",
+      "artist": [
+        "小松未歩"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 3433,
+      "collabWith": [],
+      "notes": "",
+      "id": 1488,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "光と影のロマン",
+      "artist": [
+        "宇徳敬子"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 3719,
+      "collabWith": [],
+      "notes": "",
+      "id": 1489,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Mysterious Eyes",
+      "artist": [
+        "GARNET CROW"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 4021,
+      "collabWith": [],
+      "notes": "",
+      "id": 1490,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "プラチナ",
+      "artist": [
+        "坂本真綾"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 4449,
+      "collabWith": [],
+      "notes": "",
+      "id": 1491,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Catch You Catch Me",
+      "artist": [
+        "日向めぐみ"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 4982,
+      "collabWith": [],
+      "notes": "",
+      "id": 1492,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "めざせポケモンマスター",
+      "artist": [
+        "松本梨香"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 5453,
+      "collabWith": [],
+      "notes": "",
+      "id": 1493,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "じゃじゃ馬にさせないで",
+      "artist": [
+        "西尾えつ子"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 6057,
+      "collabWith": [],
+      "notes": "",
+      "id": 1494,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "EQUALロマンス",
+      "artist": [
+        "CoCo"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 6287,
+      "collabWith": [],
+      "notes": "",
+      "id": 1495,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "微笑みの爆弾",
+      "artist": [
+        "馬渡松子"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 6976,
+      "collabWith": [],
+      "notes": "",
+      "id": 1496,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "1/2",
+      "artist": [
+        "川本真琴"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 7284,
+      "collabWith": [],
+      "notes": "",
+      "id": 1497,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "さぁ",
+      "artist": [
+        "SURFACE"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 7710,
+      "collabWith": [],
+      "notes": "",
+      "id": 1498,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Butter-Fly",
+      "artist": [
+        "和田光司"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 8217,
+      "collabWith": [],
+      "notes": "",
+      "id": 1499,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "檄！帝国華撃団",
+      "artist": [
+        "帝国歌劇団",
+        "横山智佐"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 8527,
+      "collabWith": [],
+      "notes": "",
+      "id": 1500,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "葛飾ラプソディー",
+      "artist": [
+        "堂島孝平"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-16",
+      "videoId": "eSoPspLIavg",
+      "timestamp": 8845,
+      "collabWith": [],
+      "notes": "",
+      "id": 1501,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴本格派Vsinger🎤90年代アニソン縛り歌枠！✊💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "My Room Sunshine",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-21",
+      "videoId": "Iy6_bV6VC9w",
+      "timestamp": 84,
+      "collabWith": [],
+      "notes": "",
+      "id": 1502,
+      "streamTitle": "【 #歌枠リレー夏期講習 】🔵夏だ！夏休みだ！盛り上がらなきゃ損だぜ！バチアゲ歌枠！🏄‍♂️💥【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "創造",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 223,
+      "collabWith": [],
+      "notes": "",
+      "id": 1503,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "不思議",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 747,
+      "collabWith": [],
+      "notes": "",
+      "id": 1504,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "光の跡",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 1106,
+      "collabWith": [],
+      "notes": "",
+      "id": 1505,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "喜劇",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 1663,
+      "collabWith": [],
+      "notes": "",
+      "id": 1506,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "2",
+      "artist": [
+        "星野源",
+        "Lee Youngji"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 2102,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1507,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Star",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 2296,
+      "collabWith": [],
+      "notes": "",
+      "id": 1508,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Pop Virus",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 2581,
+      "collabWith": [],
+      "notes": "",
+      "id": 1509,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "恋",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 2940,
+      "collabWith": [],
+      "notes": "",
+      "id": 1510,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Family Song",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 3332,
+      "collabWith": [],
+      "notes": "",
+      "id": 1511,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "時よ",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 3753,
+      "collabWith": [],
+      "notes": "",
+      "id": 1512,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Cube",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 4093,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1513,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Week End",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 4267,
+      "collabWith": [],
+      "notes": "",
+      "id": 1515,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "SUN",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 5093,
+      "collabWith": [],
+      "notes": "",
+      "id": 1516,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ミスユー",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 5511,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1517,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "地獄でなぜ悪い",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 6000,
+      "collabWith": [],
+      "notes": "",
+      "id": 1518,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Crazy Crazy",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 6268,
+      "collabWith": [],
+      "notes": "",
+      "id": 1519,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "化物",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 6949,
+      "collabWith": [],
+      "notes": "",
+      "id": 1520,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "夢の外へ",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 7243,
+      "collabWith": [],
+      "notes": "",
+      "id": 1521,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "フィルム",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 7949,
+      "collabWith": [],
+      "notes": "",
+      "id": 1522,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "知らない",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-23",
+      "videoId": "Vw5Mu2bJ9T8",
+      "timestamp": 8349,
+      "collabWith": [],
+      "notes": "",
+      "id": 1523,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡実力派Vsinger🎤🎶星野源 楽曲縛り歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Itinerary",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-31",
+      "videoId": "dAHgdjRzYKM",
+      "timestamp": 218,
+      "collabWith": [],
+      "notes": "",
+      "id": 1524,
+      "streamTitle": "【 3DオンラインLIVE 】🔵目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Sweep Away",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-31",
+      "videoId": "dAHgdjRzYKM",
+      "timestamp": 369,
+      "collabWith": [],
+      "notes": "",
+      "id": 1525,
+      "streamTitle": "【 3DオンラインLIVE 】🔵目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ままごと",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-31",
+      "videoId": "dAHgdjRzYKM",
+      "timestamp": 979,
+      "collabWith": [],
+      "notes": "",
+      "id": 1526,
+      "streamTitle": "【 3DオンラインLIVE 】🔵目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "チープトーク",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-31",
+      "videoId": "dAHgdjRzYKM",
+      "timestamp": 1194,
+      "collabWith": [],
+      "notes": "",
+      "id": 1527,
+      "streamTitle": "【 3DオンラインLIVE 】🔵目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "My Room Sunshine",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-31",
+      "videoId": "dAHgdjRzYKM",
+      "timestamp": 1638,
+      "collabWith": [],
+      "notes": "",
+      "id": 1528,
+      "streamTitle": "【 3DオンラインLIVE 】🔵目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "サマーフレンド",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-31",
+      "videoId": "dAHgdjRzYKM",
+      "timestamp": 2129,
+      "collabWith": [],
+      "notes": "",
+      "id": 1529,
+      "streamTitle": "【 3DオンラインLIVE 】🔵目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ユートピア",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-31",
+      "videoId": "dAHgdjRzYKM",
+      "timestamp": 2580,
+      "collabWith": [],
+      "notes": "",
+      "id": 1530,
+      "streamTitle": "【 3DオンラインLIVE 】🔵目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "翳り",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-31",
+      "videoId": "dAHgdjRzYKM",
+      "timestamp": 2876,
+      "collabWith": [],
+      "notes": "",
+      "id": 1531,
+      "streamTitle": "【 3DオンラインLIVE 】🔵目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "音沙汰",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-31",
+      "videoId": "dAHgdjRzYKM",
+      "timestamp": 3084,
+      "collabWith": [],
+      "notes": "",
+      "id": 1532,
+      "streamTitle": "【 3DオンラインLIVE 】🔵目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "人知れず",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-31",
+      "videoId": "dAHgdjRzYKM",
+      "timestamp": 3298,
+      "collabWith": [],
+      "notes": "",
+      "id": 1533,
+      "streamTitle": "【 3DオンラインLIVE 】🔵目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Attention",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-31",
+      "videoId": "dAHgdjRzYKM",
+      "timestamp": 3803,
+      "collabWith": [],
+      "notes": "",
+      "id": 1534,
+      "streamTitle": "【 3DオンラインLIVE 】🔵目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Ungifted Song",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-07-31",
+      "videoId": "dAHgdjRzYKM",
+      "timestamp": 4140,
+      "collabWith": [],
+      "notes": "",
+      "id": 1535,
+      "streamTitle": "【 3DオンラインLIVE 】🔵目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "チープトーク",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-01",
+      "videoId": "PA5FLE_mXY0",
+      "timestamp": 134,
+      "collabWith": [],
+      "notes": "",
+      "id": 1536,
+      "streamTitle": "【夏祭り #VRリレー】潮成実です！こんばんは！🌊🌃『#clubVERSE 35』WEEKLY FRIDAY NIGHT VR MUSIC LIVE #ALLVERSE #VRChat #4k"
+    },
+    {
+      "title": "ままごと",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-01",
+      "videoId": "PA5FLE_mXY0",
+      "timestamp": 330,
+      "collabWith": [],
+      "notes": "",
+      "id": 1537,
+      "streamTitle": "【夏祭り #VRリレー】潮成実です！こんばんは！🌊🌃『#clubVERSE 35』WEEKLY FRIDAY NIGHT VR MUSIC LIVE #ALLVERSE #VRChat #4k"
+    },
+    {
+      "title": "Ungifted Song",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-01",
+      "videoId": "PA5FLE_mXY0",
+      "timestamp": 795,
+      "collabWith": [],
+      "notes": "",
+      "id": 1538,
+      "streamTitle": "【夏祭り #VRリレー】潮成実です！こんばんは！🌊🌃『#clubVERSE 35』WEEKLY FRIDAY NIGHT VR MUSIC LIVE #ALLVERSE #VRChat #4k"
+    },
+    {
+      "title": "翳り",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-01",
+      "videoId": "PA5FLE_mXY0",
+      "timestamp": 999,
+      "collabWith": [],
+      "notes": "",
+      "id": 1539,
+      "streamTitle": "【夏祭り #VRリレー】潮成実です！こんばんは！🌊🌃『#clubVERSE 35』WEEKLY FRIDAY NIGHT VR MUSIC LIVE #ALLVERSE #VRChat #4k"
+    },
+    {
+      "title": "Sweep Away",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-01",
+      "videoId": "PA5FLE_mXY0",
+      "timestamp": 1448,
+      "collabWith": [],
+      "notes": "",
+      "id": 1540,
+      "streamTitle": "【夏祭り #VRリレー】潮成実です！こんばんは！🌊🌃『#clubVERSE 35』WEEKLY FRIDAY NIGHT VR MUSIC LIVE #ALLVERSE #VRChat #4k"
+    },
+    {
+      "title": "長く短い祭",
+      "artist": [
+        "椎名林檎"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-06",
+      "videoId": "f7m-oZgdaEY",
+      "timestamp": 792,
+      "collabWith": [],
+      "notes": "",
+      "id": 1541,
+      "streamTitle": "【 歌枠 #KARAOKE 】🔵実力派Vsinger🎤🎶縛りなし縦型歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "熱帯夜",
+      "artist": [
+        "RIP SLYME"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-06",
+      "videoId": "f7m-oZgdaEY",
+      "timestamp": 1210,
+      "collabWith": [],
+      "notes": "",
+      "id": 1542,
+      "streamTitle": "【 歌枠 #KARAOKE 】🔵実力派Vsinger🎤🎶縛りなし縦型歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "水流のロック",
+      "artist": [
+        "日食なつこ"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-06",
+      "videoId": "f7m-oZgdaEY",
+      "timestamp": 1650,
+      "collabWith": [],
+      "notes": "",
+      "id": 1543,
+      "streamTitle": "【 歌枠 #KARAOKE 】🔵実力派Vsinger🎤🎶縛りなし縦型歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "√-1",
+      "artist": [
+        "日食なつこ"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-06",
+      "videoId": "f7m-oZgdaEY",
+      "timestamp": 2265,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1544,
+      "streamTitle": "【 歌枠 #KARAOKE 】🔵実力派Vsinger🎤🎶縛りなし縦型歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ウミユリ海底譚",
+      "artist": [
+        "ナブナ"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-06",
+      "videoId": "f7m-oZgdaEY",
+      "timestamp": 2666,
+      "collabWith": [],
+      "notes": "",
+      "id": 1545,
+      "streamTitle": "【 歌枠 #KARAOKE 】🔵実力派Vsinger🎤🎶縛りなし縦型歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ライラック",
+      "artist": [
+        "Mrs. GREEN APPLE"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-06",
+      "videoId": "f7m-oZgdaEY",
+      "timestamp": 2994,
+      "collabWith": [],
+      "notes": "",
+      "id": 1546,
+      "streamTitle": "【 歌枠 #KARAOKE 】🔵実力派Vsinger🎤🎶縛りなし縦型歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Believe",
+      "artist": [
+        "Folder5"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-06",
+      "videoId": "f7m-oZgdaEY",
+      "timestamp": 3703,
+      "collabWith": [],
+      "notes": "",
+      "id": 1547,
+      "streamTitle": "【 歌枠 #KARAOKE 】🔵実力派Vsinger🎤🎶縛りなし縦型歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "look at the sea",
+      "artist": [
+        "おいしくるメロンパン"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-06",
+      "videoId": "f7m-oZgdaEY",
+      "timestamp": 4890,
+      "collabWith": [],
+      "notes": "",
+      "id": 1548,
+      "streamTitle": "【 歌枠 #KARAOKE 】🔵実力派Vsinger🎤🎶縛りなし縦型歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "幸福論",
+      "artist": [
+        "椎名林檎"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-06",
+      "videoId": "f7m-oZgdaEY",
+      "timestamp": 5765,
+      "collabWith": [],
+      "notes": "",
+      "id": 1549,
+      "streamTitle": "【 歌枠 #KARAOKE 】🔵実力派Vsinger🎤🎶縛りなし縦型歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "イケナイ太陽",
+      "artist": [
+        "ORANGE RANGE"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-06",
+      "videoId": "f7m-oZgdaEY",
+      "timestamp": 6082,
+      "collabWith": [],
+      "notes": "",
+      "id": 1550,
+      "streamTitle": "【 歌枠 #KARAOKE 】🔵実力派Vsinger🎤🎶縛りなし縦型歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Caramel Pain",
+      "artist": [
+        "星街すいせい"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-06",
+      "videoId": "f7m-oZgdaEY",
+      "timestamp": 6499,
+      "collabWith": [],
+      "notes": "",
+      "id": 1551,
+      "streamTitle": "【 歌枠 #KARAOKE 】🔵実力派Vsinger🎤🎶縛りなし縦型歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "心絵",
+      "artist": [
+        "ロードオブメジャー"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-06",
+      "videoId": "f7m-oZgdaEY",
+      "timestamp": 6798,
+      "collabWith": [],
+      "notes": "",
+      "id": 1552,
+      "streamTitle": "【 歌枠 #KARAOKE 】🔵実力派Vsinger🎤🎶縛りなし縦型歌枠！【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Say You Love Me",
+      "artist": [
+        "Patti Austin"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 617,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1553,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "She Said",
+      "artist": [
+        "及川リン"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 1232,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1554,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "白い椅子",
+      "artist": [
+        "柴田聡子"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 1737,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1555,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "id": 1556,
+      "title": "涙",
+      "artist": [
+        "柴田聡子"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 2277,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】",
+      "collabWith": [],
+      "notes": "アカペラ"
+    },
+    {
+      "id": 1557,
+      "title": "Synergy",
+      "artist": [
+        "柴田聡子"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 2634,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】",
+      "collabWith": [],
+      "notes": "アカペラ"
+    },
+    {
+      "title": "√-1",
+      "artist": [
+        "日食なつこ"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 3000,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1558,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "氷に閉じ込めて",
+      "artist": [
+        "Suprefly"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 3504,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1559,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "S(mile)ING！",
+      "artist": [
+        "島村卯月"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 4011,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1560,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "2nd SIDE",
+      "artist": [
+        "神谷奈緒"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 4402,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1561,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "アップルパイ・プリンセス",
+      "artist": [
+        "十時愛梨"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 4613,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1562,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Stuck",
+      "artist": [
+        "Stacie Orrico"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 5267,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1563,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Chasing Pavements",
+      "artist": [
+        "Adele"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 5510,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1564,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "If I Ain't Got You",
+      "artist": [
+        "Alicia Keys"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 5761,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1565,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "不完全燃焼",
+      "artist": [
+        "石川智晶"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 6015,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1566,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "えらばれし子供たちの密話",
+      "artist": [
+        "吉澤嘉代子"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 6313,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1567,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Silly",
+      "artist": [
+        "家入レオ"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 6583,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1568,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "First Love",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 7179,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1569,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "traveling",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-13",
+      "videoId": "EU-per766JI",
+      "timestamp": 7581,
+      "collabWith": [],
+      "notes": "アカペラ",
+      "id": 1570,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵実力派Vsinger🎤🎶女性ボーカル曲をアカペラで歌います！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Star",
+      "artist": [
+        "星野源"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-16",
+      "videoId": "mi5acYScjfQ",
+      "timestamp": 165,
+      "collabWith": [],
+      "notes": "",
+      "id": 1571,
+      "streamTitle": "【 #究極ボイス歌枠リレー】🟢中性的でソウルフルでスモーキーな歌声と評されている者です😉【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "感電",
+      "artist": [
+        "米津玄師"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-16",
+      "videoId": "mi5acYScjfQ",
+      "timestamp": 319,
+      "collabWith": [],
+      "notes": "",
+      "id": 1572,
+      "streamTitle": "【 #究極ボイス歌枠リレー】🟢中性的でソウルフルでスモーキーな歌声と評されている者です😉【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "YMM",
+      "artist": [
+        "Suchmos"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-16",
+      "videoId": "mi5acYScjfQ",
+      "timestamp": 754,
+      "collabWith": [],
+      "notes": "",
+      "id": 1573,
+      "streamTitle": "【 #究極ボイス歌枠リレー】🟢中性的でソウルフルでスモーキーな歌声と評されている者です😉【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "色彩のブルース",
+      "artist": [
+        "EGO-WRAPPIN'"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-16",
+      "videoId": "mi5acYScjfQ",
+      "timestamp": 1137,
+      "collabWith": [],
+      "notes": "",
+      "id": 1574,
+      "streamTitle": "【 #究極ボイス歌枠リレー】🟢中性的でソウルフルでスモーキーな歌声と評されている者です😉【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "翳り",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-16",
+      "videoId": "mi5acYScjfQ",
+      "timestamp": 1508,
+      "collabWith": [],
+      "notes": "",
+      "id": 1575,
+      "streamTitle": "【 #究極ボイス歌枠リレー】🟢中性的でソウルフルでスモーキーな歌声と評されている者です😉【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Sweep Away",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-16",
+      "videoId": "mi5acYScjfQ",
+      "timestamp": 1715,
+      "collabWith": [],
+      "notes": "",
+      "id": 1576,
+      "streamTitle": "【 #究極ボイス歌枠リレー】🟢中性的でソウルフルでスモーキーな歌声と評されている者です😉【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "わたしの一番かわいいところ",
+      "artist": [
+        "FRUITS ZIPPER"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-20",
+      "videoId": "qiAysB2_8Wk",
+      "timestamp": 40,
+      "collabWith": [],
+      "notes": "",
+      "id": 1577,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡歌うまVsinger🎤🎶フルーツがタイトル&アーティスト名の曲縛り！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "君たちキウイ・パパイア・マンゴーだね。",
+      "artist": [
+        "中原めいこ"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-20",
+      "videoId": "qiAysB2_8Wk",
+      "timestamp": 750,
+      "collabWith": [],
+      "notes": "",
+      "id": 1578,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡歌うまVsinger🎤🎶フルーツがタイトル&アーティスト名の曲縛り！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "シシカバブー",
+      "artist": [
+        "ゆず"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-20",
+      "videoId": "qiAysB2_8Wk",
+      "timestamp": 2231,
+      "collabWith": [],
+      "notes": "",
+      "id": 1579,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡歌うまVsinger🎤🎶フルーツがタイトル&アーティスト名の曲縛り！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ペンパイナッポーアッポーペン",
+      "artist": [
+        "ピコ太郎"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-20",
+      "videoId": "qiAysB2_8Wk",
+      "timestamp": 2825,
+      "collabWith": [],
+      "notes": "",
+      "id": 1580,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡歌うまVsinger🎤🎶フルーツがタイトル&アーティスト名の曲縛り！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "さくらんぼ",
+      "artist": [
+        "大塚愛"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-20",
+      "videoId": "qiAysB2_8Wk",
+      "timestamp": 3796,
+      "collabWith": [],
+      "notes": "",
+      "id": 1581,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡歌うまVsinger🎤🎶フルーツがタイトル&アーティスト名の曲縛り！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "PEACH",
+      "artist": [
+        "大塚愛"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-20",
+      "videoId": "qiAysB2_8Wk",
+      "timestamp": 4031,
+      "collabWith": [],
+      "notes": "",
+      "id": 1582,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡歌うまVsinger🎤🎶フルーツがタイトル&アーティスト名の曲縛り！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "真夏の果実",
+      "artist": [
+        "サザンオールスターズ"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-20",
+      "videoId": "qiAysB2_8Wk",
+      "timestamp": 4399,
+      "collabWith": [],
+      "notes": "",
+      "id": 1583,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡歌うまVsinger🎤🎶フルーツがタイトル&アーティスト名の曲縛り！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Lemon",
+      "artist": [
+        "米津玄師"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-20",
+      "videoId": "qiAysB2_8Wk",
+      "timestamp": 4743,
+      "collabWith": [],
+      "notes": "",
+      "id": 1584,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡歌うまVsinger🎤🎶フルーツがタイトル&アーティスト名の曲縛り！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "くちばしにチェリー",
+      "artist": [
+        "EGO-WRAPPIN'"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-20",
+      "videoId": "qiAysB2_8Wk",
+      "timestamp": 5658,
+      "collabWith": [],
+      "notes": "",
+      "id": 1585,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡歌うまVsinger🎤🎶フルーツがタイトル&アーティスト名の曲縛り！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "チェリー",
+      "artist": [
+        "スピッツ"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-20",
+      "videoId": "qiAysB2_8Wk",
+      "timestamp": 5930,
+      "collabWith": [],
+      "notes": "",
+      "id": 1586,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟡歌うまVsinger🎤🎶フルーツがタイトル&アーティスト名の曲縛り！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "陽炎",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-27",
+      "videoId": "SYGgkooWi_M",
+      "timestamp": 232,
+      "collabWith": [],
+      "notes": "",
+      "id": 1587,
+      "streamTitle": "【 3DオンラインLIVE 】💖目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "My Room Sunshine",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-27",
+      "videoId": "SYGgkooWi_M",
+      "timestamp": 1165,
+      "collabWith": [],
+      "notes": "",
+      "id": 1588,
+      "streamTitle": "【 3DオンラインLIVE 】💖目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Attention",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-27",
+      "videoId": "SYGgkooWi_M",
+      "timestamp": 1961,
+      "collabWith": [],
+      "notes": "",
+      "id": 1589,
+      "streamTitle": "【 3DオンラインLIVE 】💖目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Sweep Away",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-27",
+      "videoId": "SYGgkooWi_M",
+      "timestamp": 2371,
+      "collabWith": [],
+      "notes": "",
+      "id": 1590,
+      "streamTitle": "【 3DオンラインLIVE 】💖目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "人知れず",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-27",
+      "videoId": "SYGgkooWi_M",
+      "timestamp": 3003,
+      "collabWith": [],
+      "notes": "",
+      "id": 1591,
+      "streamTitle": "【 3DオンラインLIVE 】💖目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ユートピア",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-27",
+      "videoId": "SYGgkooWi_M",
+      "timestamp": 3202,
+      "collabWith": [],
+      "notes": "",
+      "id": 1592,
+      "streamTitle": "【 3DオンラインLIVE 】💖目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "音沙汰",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-27",
+      "videoId": "SYGgkooWi_M",
+      "timestamp": 3412,
+      "collabWith": [],
+      "notes": "",
+      "id": 1593,
+      "streamTitle": "【 3DオンラインLIVE 】💖目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "翳り",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-27",
+      "videoId": "SYGgkooWi_M",
+      "timestamp": 3622,
+      "collabWith": [],
+      "notes": "",
+      "id": 1594,
+      "streamTitle": "【 3DオンラインLIVE 】💖目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Ungifted Song",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-08-27",
+      "videoId": "SYGgkooWi_M",
+      "timestamp": 4808,
+      "collabWith": [],
+      "notes": "",
+      "id": 1595,
+      "streamTitle": "【 3DオンラインLIVE 】💖目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ウィーアー!",
+      "artist": [
+        "きただにひろし"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-10",
+      "videoId": "RvNDpRgGqT0",
+      "timestamp": 1060,
+      "collabWith": [],
+      "notes": "",
+      "id": 1596,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵病み上がり復活！リハビリ歌枠だ～～😚🎶【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "KICK BACK",
+      "artist": [
+        "米津玄師"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-10",
+      "videoId": "RvNDpRgGqT0",
+      "timestamp": 3116,
+      "collabWith": [],
+      "notes": "",
+      "id": 1597,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵病み上がり復活！リハビリ歌枠だ～～😚🎶【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ビビデバ",
+      "artist": [
+        "星街すいせい"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-10",
+      "videoId": "RvNDpRgGqT0",
+      "timestamp": 3520,
+      "collabWith": [],
+      "notes": "",
+      "id": 1598,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵病み上がり復活！リハビリ歌枠だ～～😚🎶【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "secret base〜君がくれたもの〜",
+      "artist": [
+        "ZONE"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-10",
+      "videoId": "RvNDpRgGqT0",
+      "timestamp": 4577,
+      "collabWith": [],
+      "notes": "",
+      "id": 1599,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵病み上がり復活！リハビリ歌枠だ～～😚🎶【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "おもかげ",
+      "artist": [
+        "Aimer",
+        "milet",
+        "幾田りら",
+        "Vaundy"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-10",
+      "videoId": "RvNDpRgGqT0",
+      "timestamp": 5984,
+      "collabWith": [],
+      "notes": "",
+      "id": 1600,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔵病み上がり復活！リハビリ歌枠だ～～😚🎶【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Bad Apple!!",
+      "artist": [
+        "ZUN",
+        "Alstroemeria Records"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-17",
+      "videoId": "twR_Ypnh-VY",
+      "timestamp": 235,
+      "collabWith": [
+        "おまる",
+        "ホム・レス",
+        "野中海",
+        "からし明太子"
+      ],
+      "notes": "",
+      "id": 1601,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠YAY × 潮成実 生バンドスペシャルセッションコラボ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ウィーアー!",
+      "artist": [
+        "きただにひろし"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-17",
+      "videoId": "twR_Ypnh-VY",
+      "timestamp": 1106,
+      "collabWith": [
+        "おまる",
+        "ホム・レス",
+        "野中海",
+        "からし明太子"
+      ],
+      "notes": "",
+      "id": 1602,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠YAY × 潮成実 生バンドスペシャルセッションコラボ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "プラチナ",
+      "artist": [
+        "坂本真綾"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-17",
+      "videoId": "twR_Ypnh-VY",
+      "timestamp": 2369,
+      "collabWith": [
+        "おまる",
+        "ホム・レス",
+        "野中海",
+        "からし明太子"
+      ],
+      "notes": "",
+      "id": 1603,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠YAY × 潮成実 生バンドスペシャルセッションコラボ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "檄！帝国華撃団",
+      "artist": [
+        "帝国歌劇団",
+        "横山智佐"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-17",
+      "videoId": "twR_Ypnh-VY",
+      "timestamp": 2624,
+      "collabWith": [
+        "おまる",
+        "ホム・レス",
+        "野中海",
+        "からし明太子"
+      ],
+      "notes": "",
+      "id": 1604,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠YAY × 潮成実 生バンドスペシャルセッションコラボ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ギラギラ",
+      "artist": [
+        "Ado"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-17",
+      "videoId": "twR_Ypnh-VY",
+      "timestamp": 3911,
+      "collabWith": [
+        "おまる",
+        "ホム・レス",
+        "野中海",
+        "からし明太子"
+      ],
+      "notes": "",
+      "id": 1605,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠YAY × 潮成実 生バンドスペシャルセッションコラボ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "地獄タクシー",
+      "artist": [
+        "吉澤嘉代子"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-17",
+      "videoId": "twR_Ypnh-VY",
+      "timestamp": 5130,
+      "collabWith": [
+        "おまる",
+        "ホム・レス",
+        "野中海",
+        "からし明太子"
+      ],
+      "notes": "",
+      "id": 1606,
+      "streamTitle": "【 歌枠 #KARAOKE  】🟠YAY × 潮成実 生バンドスペシャルセッションコラボ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Can You Keep A Secret?",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "external",
+      "date": "2025-08-04",
+      "videoId": "4Wbb3nAvtd4",
+      "timestamp": 199,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1607,
+      "streamTitle": "【#歌枠 #なるみつの夜 】超歌うまな潮成実さんとコラボ！！！ Sing Ing Stream【#蜜乃木ジル / #RIOTMUSIC】"
+    },
+    {
+      "title": "美しく燃える森",
+      "artist": [
+        "東京スカパラダイスオーケストラ"
+      ],
+      "type": "external",
+      "date": "2025-08-04",
+      "videoId": "4Wbb3nAvtd4",
+      "timestamp": 936,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1608,
+      "streamTitle": "【#歌枠 #なるみつの夜 】超歌うまな潮成実さんとコラボ！！！ Sing Ing Stream【#蜜乃木ジル / #RIOTMUSIC】"
+    },
+    {
+      "id": 1609,
+      "title": "今夜はから騒ぎ",
+      "artist": [
+        "東京事変"
+      ],
+      "type": "external",
+      "date": "2025-08-04",
+      "videoId": "4Wbb3nAvtd4",
+      "timestamp": 1260,
+      "streamTitle": "【#歌枠 #なるみつの夜 】超歌うまな潮成実さんとコラボ！！！ Sing Ing Stream【#蜜乃木ジル / #RIOTMUSIC】",
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": ""
+    },
+    {
+      "title": "真夏の果実",
+      "artist": [
+        "サザンオールスターズ"
+      ],
+      "type": "external",
+      "date": "2025-08-04",
+      "videoId": "4Wbb3nAvtd4",
+      "timestamp": 2078,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1610,
+      "streamTitle": "【#歌枠 #なるみつの夜 】超歌うまな潮成実さんとコラボ！！！ Sing Ing Stream【#蜜乃木ジル / #RIOTMUSIC】"
+    },
+    {
+      "title": "喜劇",
+      "artist": [
+        "星野源"
+      ],
+      "type": "external",
+      "date": "2025-08-04",
+      "videoId": "4Wbb3nAvtd4",
+      "timestamp": 2399,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1611,
+      "streamTitle": "【#歌枠 #なるみつの夜 】超歌うまな潮成実さんとコラボ！！！ Sing Ing Stream【#蜜乃木ジル / #RIOTMUSIC】"
+    },
+    {
+      "title": "STAY TUNE",
+      "artist": [
+        "Suchmos"
+      ],
+      "type": "external",
+      "date": "2025-08-04",
+      "videoId": "4Wbb3nAvtd4",
+      "timestamp": 3306,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1612,
+      "streamTitle": "【#歌枠 #なるみつの夜 】超歌うまな潮成実さんとコラボ！！！ Sing Ing Stream【#蜜乃木ジル / #RIOTMUSIC】"
+    },
+    {
+      "title": "君という光",
+      "artist": [
+        "GARNET CROW"
+      ],
+      "type": "external",
+      "date": "2025-08-04",
+      "videoId": "4Wbb3nAvtd4",
+      "timestamp": 4227,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1613,
+      "streamTitle": "【#歌枠 #なるみつの夜 】超歌うまな潮成実さんとコラボ！！！ Sing Ing Stream【#蜜乃木ジル / #RIOTMUSIC】"
+    },
+    {
+      "title": "目抜き通り",
+      "artist": [
+        "椎名林檎",
+        "トータス松本"
+      ],
+      "type": "external",
+      "date": "2025-08-04",
+      "videoId": "4Wbb3nAvtd4",
+      "timestamp": 5176,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1614,
+      "streamTitle": "【#歌枠 #なるみつの夜 】超歌うまな潮成実さんとコラボ！！！ Sing Ing Stream【#蜜乃木ジル / #RIOTMUSIC】"
+    },
+    {
+      "title": "ミックスナッツ",
+      "artist": [
+        "Official髭男dism"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-19",
+      "videoId": "iB0W8okHz-4",
+      "timestamp": 217,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1615,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴蜜乃木ジルさんと歌枠コラボ！素敵な夜をお届けします🌃 #なるみつの夜【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "公然の秘密",
+      "artist": [
+        "椎名林檎"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-19",
+      "videoId": "iB0W8okHz-4",
+      "timestamp": 961,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1616,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴蜜乃木ジルさんと歌枠コラボ！素敵な夜をお届けします🌃 #なるみつの夜【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "恋のバカンス",
+      "artist": [
+        "ザ・ピーナッツ"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-19",
+      "videoId": "iB0W8okHz-4",
+      "timestamp": 1292,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1617,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴蜜乃木ジルさんと歌枠コラボ！素敵な夜をお届けします🌃 #なるみつの夜【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ルパン三世のテーマ",
+      "artist": [
+        "大野雄二",
+        "ピートマック・ジュニア"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-19",
+      "videoId": "iB0W8okHz-4",
+      "timestamp": 2017,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1618,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴蜜乃木ジルさんと歌枠コラボ！素敵な夜をお届けします🌃 #なるみつの夜【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "I beg you",
+      "artist": [
+        "Aimer"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-19",
+      "videoId": "iB0W8okHz-4",
+      "timestamp": 2247,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1619,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴蜜乃木ジルさんと歌枠コラボ！素敵な夜をお届けします🌃 #なるみつの夜【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "やさしいキスをして",
+      "artist": [
+        "DREAMS COME TRUE"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-19",
+      "videoId": "iB0W8okHz-4",
+      "timestamp": 2743,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1620,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴蜜乃木ジルさんと歌枠コラボ！素敵な夜をお届けします🌃 #なるみつの夜【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "恋におちて -Fall in love-",
+      "artist": [
+        "小林明子"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-19",
+      "videoId": "iB0W8okHz-4",
+      "timestamp": 2919,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1621,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴蜜乃木ジルさんと歌枠コラボ！素敵な夜をお届けします🌃 #なるみつの夜【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ノンフィクション",
+      "artist": [
+        "平井堅"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-19",
+      "videoId": "iB0W8okHz-4",
+      "timestamp": 3479,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1622,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴蜜乃木ジルさんと歌枠コラボ！素敵な夜をお届けします🌃 #なるみつの夜【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "獣ゆく細道",
+      "artist": [
+        "椎名林檎",
+        "宮本浩次"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-19",
+      "videoId": "iB0W8okHz-4",
+      "timestamp": 3909,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1623,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴蜜乃木ジルさんと歌枠コラボ！素敵な夜をお届けします🌃 #なるみつの夜【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "葛飾ラプソディー",
+      "artist": [
+        "堂島孝平"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-19",
+      "videoId": "iB0W8okHz-4",
+      "timestamp": 4478,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1624,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴蜜乃木ジルさんと歌枠コラボ！素敵な夜をお届けします🌃 #なるみつの夜【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "バンザイ〜好きでよかった〜",
+      "artist": [
+        "ウルフルズ"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-19",
+      "videoId": "iB0W8okHz-4",
+      "timestamp": 5534,
+      "collabWith": [
+        "蜜乃木ジル"
+      ],
+      "notes": "",
+      "id": 1625,
+      "streamTitle": "【 歌枠 #KARAOKE  】🔴蜜乃木ジルさんと歌枠コラボ！素敵な夜をお届けします🌃 #なるみつの夜【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "摩天楼",
+      "artist": [
+        "iri"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-23",
+      "videoId": "pVhwdlmW0QQ",
+      "timestamp": 159,
+      "collabWith": [],
+      "notes": "",
+      "id": 1626,
+      "streamTitle": "【 #夜に溺れる歌枠リレー 】🟣どっぷりと浸って盛り上がれるハッピー&ムーディーな夜をお届け🌃　#KARAOKE【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "Flamingo",
+      "artist": [
+        "米津玄師"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-23",
+      "videoId": "pVhwdlmW0QQ",
+      "timestamp": 373,
+      "collabWith": [],
+      "notes": "",
+      "id": 1627,
+      "streamTitle": "【 #夜に溺れる歌枠リレー 】🟣どっぷりと浸って盛り上がれるハッピー&ムーディーな夜をお届け🌃　#KARAOKE【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ままごと",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-23",
+      "videoId": "pVhwdlmW0QQ",
+      "timestamp": 568,
+      "collabWith": [],
+      "notes": "",
+      "id": 1628,
+      "streamTitle": "【 #夜に溺れる歌枠リレー 】🟣どっぷりと浸って盛り上がれるハッピー&ムーディーな夜をお届け🌃　#KARAOKE【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "レイニーブルー",
+      "artist": [
+        "徳永英明"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-23",
+      "videoId": "pVhwdlmW0QQ",
+      "timestamp": 1027,
+      "collabWith": [],
+      "notes": "",
+      "id": 1629,
+      "streamTitle": "【 #夜に溺れる歌枠リレー 】🟣どっぷりと浸って盛り上がれるハッピー&ムーディーな夜をお届け🌃　#KARAOKE【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "東京フラッシュ",
+      "artist": [
+        "Vaundy"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-23",
+      "videoId": "pVhwdlmW0QQ",
+      "timestamp": 1308,
+      "collabWith": [],
+      "notes": "",
+      "id": 1630,
+      "streamTitle": "【 #夜に溺れる歌枠リレー 】🟣どっぷりと浸って盛り上がれるハッピー&ムーディーな夜をお届け🌃　#KARAOKE【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "LOVEマシーン",
+      "artist": [
+        "モーニング娘。"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-23",
+      "videoId": "pVhwdlmW0QQ",
+      "timestamp": 1606,
+      "collabWith": [],
+      "notes": "",
+      "id": 1631,
+      "streamTitle": "【 #夜に溺れる歌枠リレー 】🟣どっぷりと浸って盛り上がれるハッピー&ムーディーな夜をお届け🌃　#KARAOKE【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "変わらないもの",
+      "artist": [
+        "奥華子"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-23",
+      "videoId": "qNes_5xbNog",
+      "timestamp": 463,
+      "collabWith": [],
+      "notes": "",
+      "id": 1632,
+      "streamTitle": "【 歌枠 #KARAOKE】🟣夜に溺れる歌枠リレー打ち上げと近況🌃【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ガーネット",
+      "artist": [
+        "奥華子"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-23",
+      "videoId": "qNes_5xbNog",
+      "timestamp": 3644,
+      "collabWith": [],
+      "notes": "",
+      "id": 1633,
+      "streamTitle": "【 歌枠 #KARAOKE】🟣夜に溺れる歌枠リレー打ち上げと近況🌃【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "帰ろう",
+      "artist": [
+        "藤井風"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-23",
+      "videoId": "qNes_5xbNog",
+      "timestamp": 5623,
+      "collabWith": [],
+      "notes": "",
+      "id": 1634,
+      "streamTitle": "【 歌枠 #KARAOKE】🟣夜に溺れる歌枠リレー打ち上げと近況🌃【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "ユートピア",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-24",
+      "videoId": "el3Rsnu1R70",
+      "timestamp": 214,
+      "collabWith": [],
+      "notes": "",
+      "id": 1635,
+      "streamTitle": "【 3DオンラインLIVE 】🌼目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
+    },
+    {
+      "title": "音沙汰",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "utawaku",
+      "date": "2025-09-24",
+      "videoId": "el3Rsnu1R70",
+      "timestamp": 759,
+      "collabWith": [],
+      "notes": "",
+      "id": 1636,
+      "streamTitle": "【 3DオンラインLIVE 】🌼目指せ！同接100人🤝フルトラ3D&オリジナル曲限定ライブ！✨【 #Vsinger 潮成実 】"
     }
   ]
 }
