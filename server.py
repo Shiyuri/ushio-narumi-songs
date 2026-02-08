@@ -7,6 +7,7 @@ import json
 import os
 import sys
 import re
+import shutil
 import threading
 from http.server import HTTPServer, SimpleHTTPRequestHandler
 from urllib.parse import parse_qs
@@ -14,7 +15,13 @@ import yt_dlp
 
 PORT = 3000
 DATA_FILE = 'data/songs.json'
+BACKUP_FILE = DATA_FILE + '.bak'
 data_lock = threading.Lock()
+
+def backup_data():
+    """保存前にバックアップを作成（1世代）"""
+    if os.path.exists(DATA_FILE):
+        shutil.copy2(DATA_FILE, BACKUP_FILE)
 
 class SongHandler(SimpleHTTPRequestHandler):
     def log_message(self, format, *args):
@@ -119,6 +126,7 @@ class SongHandler(SimpleHTTPRequestHandler):
                 data['songs'].append(new_song)
 
                 # ファイルに保存
+                backup_data()
                 with open(DATA_FILE, 'w', encoding='utf-8') as f:
                     json.dump(data, f, ensure_ascii=False, indent=2)
 
@@ -175,6 +183,7 @@ class SongHandler(SimpleHTTPRequestHandler):
                 if not found:
                     raise ValueError(f'ID {song_id} の曲が見つかりません')
 
+                backup_data()
                 with open(DATA_FILE, 'w', encoding='utf-8') as f:
                     json.dump(data, f, ensure_ascii=False, indent=2)
 
@@ -212,6 +221,7 @@ class SongHandler(SimpleHTTPRequestHandler):
                 if len(data['songs']) == original_len:
                     raise ValueError(f'ID {song_id} の曲が見つかりません')
 
+                backup_data()
                 with open(DATA_FILE, 'w', encoding='utf-8') as f:
                     json.dump(data, f, ensure_ascii=False, indent=2)
 
@@ -331,6 +341,7 @@ class SongHandler(SimpleHTTPRequestHandler):
                             updated_count += 1
 
                 # 保存
+                backup_data()
                 with open(DATA_FILE, 'w', encoding='utf-8') as f:
                     json.dump(data, f, ensure_ascii=False, indent=2)
 
