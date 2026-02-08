@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>潮成実 歌リスト</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: system-ui, sans-serif; font-size: 14px; line-height: 1.6; padding: 20px; max-width: 800px; margin: 0 auto; color: #333; }
+    h1 { font-size: 1.2rem; margin-bottom: 4px; }
+    .count { font-size: 0.85rem; color: #888; margin-bottom: 16px; }
+    h2 { font-size: 0.95rem; color: #555; margin: 16px 0 4px; padding-bottom: 2px; border-bottom: 1px solid #eee; }
+    h2 a { color: #555; text-decoration: none; }
+    h2 a:hover { color: #2563eb; }
+    .date { color: #999; font-size: 0.85em; }
+    ul { list-style: none; margin-bottom: 8px; }
+    li { padding: 1px 0 1px 12px; }
+    a { color: #2563eb; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .artist { color: #666; }
+  </style>
+</head>
+<body>
+  <h1>潮成実 歌リスト</h1>
+  <p style="font-size:0.85rem; margin-bottom:4px;"><a href="index.html">← メインサイト</a></p>
+  <p class="count" id="count"></p>
+  <div id="list"></div>
+  <script>
+    fetch('data/songs.json', { cache: 'no-cache' })
+      .then(r => r.json())
+      .then(data => {
+        const songs = data.songs;
+        document.getElementById('count').textContent = `${songs.length} 曲`;
+
+        // videoId + date でグルーピング（配信単位）
+        const groups = [];
+        const groupMap = {};
+        songs.forEach(s => {
+          const key = s.videoId;
+          if (!groupMap[key]) {
+            groupMap[key] = { videoId: s.videoId, date: s.date, streamTitle: s.streamTitle || '', type: s.type, songs: [] };
+            groups.push(groupMap[key]);
+          }
+          groupMap[key].songs.push(s);
+        });
+
+        // 日付降順
+        groups.sort((a, b) => b.date.localeCompare(a.date));
+
+        const container = document.getElementById('list');
+        container.innerHTML = groups.map(g => {
+          const videoUrl = `https://youtu.be/${g.videoId}`;
+          const title = g.streamTitle || g.videoId;
+          const songItems = g.songs.map(s => {
+            const url = s.timestamp
+              ? `https://youtu.be/${s.videoId}?t=${s.timestamp}`
+              : `https://youtu.be/${s.videoId}`;
+            const artist = Array.isArray(s.artist) ? s.artist.join(', ') : s.artist;
+            return `<li><a href="${url}" target="_blank">${s.title}</a> <span class="artist">- ${artist}</span></li>`;
+          }).join('');
+          return `<h2><a href="${videoUrl}" target="_blank">${title}</a> <span class="date">${g.date}</span></h2><ul>${songItems}</ul>`;
+        }).join('');
+      });
+  </script>
+</body>
+</html>

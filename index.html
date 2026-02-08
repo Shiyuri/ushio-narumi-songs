@@ -16,9 +16,9 @@
 <body>
   <header>
     <h1><a href="index.html">潮成実 歌まとめ</a></h1>
-    <nav class="nav-admin">
-      <a href="index.html">曲一覧</a>
-      <a href="add.html" class="nav-admin">曲を追加</a>
+    <nav>
+      <a href="list.html">シンプル表示</a>
+      <a href="add.html" class="admin-only">曲を追加</a>
     </nav>
   </header>
 
@@ -133,7 +133,7 @@
   <script>
     // 閲覧専用モード: 管理者向けUIを非表示
     if (READ_ONLY) {
-      document.querySelectorAll('.nav-admin, .admin-only').forEach(el => el.style.display = 'none');
+      document.querySelectorAll('.admin-only').forEach(el => el.style.display = 'none');
     }
   </script>
 </body>
