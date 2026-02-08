@@ -3,64 +3,116 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>潮成実 歌リスト</title>
+  <title>潮成実 歌一覧表</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: system-ui, sans-serif; font-size: 14px; line-height: 1.6; padding: 20px; max-width: 800px; margin: 0 auto; color: #333; }
-    h1 { font-size: 1.2rem; margin-bottom: 4px; }
-    .count { font-size: 0.85rem; color: #888; margin-bottom: 16px; }
-    h2 { font-size: 0.95rem; color: #555; margin: 16px 0 4px; padding-bottom: 2px; border-bottom: 1px solid #eee; }
-    h2 a { color: #555; text-decoration: none; }
-    h2 a:hover { color: #2563eb; }
-    .date { color: #999; font-size: 0.85em; }
-    ul { list-style: none; margin-bottom: 8px; }
-    li { padding: 1px 0 1px 12px; }
-    a { color: #2563eb; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    .artist { color: #666; }
+    body { font-family: system-ui, sans-serif; font-size: 13px; line-height: 1.4; padding: 12px; max-width: 960px; margin: 0 auto; color: #333; }
+    h1 { font-size: 1.1rem; margin-bottom: 2px; }
+    .meta { font-size: 0.85rem; color: #888; margin-bottom: 10px; }
+    .meta a { color: #2563eb; text-decoration: none; }
+    .meta a:hover { text-decoration: underline; }
+    table { width: 100%; border-collapse: collapse; }
+    th { text-align: left; padding: 4px 8px; border-bottom: 2px solid #ddd; font-size: 0.8rem; color: #666; cursor: pointer; user-select: none; white-space: nowrap; }
+    th:hover { color: #2563eb; }
+    th .sort-arrow { font-size: 0.7rem; margin-left: 2px; }
+    td { padding: 3px 8px; border-bottom: 1px solid #f0f0f0; }
+    tr:hover { background: #f8fafc; }
+    td a { color: #2563eb; text-decoration: none; }
+    td a:hover { text-decoration: underline; }
+    .col-type { font-size: 0.75rem; color: #888; }
+    .col-date { white-space: nowrap; color: #666; font-size: 0.85em; }
+    .col-play { text-align: center; }
+    .col-play a { text-decoration: none; }
+    @media (max-width: 600px) {
+      body { padding: 8px; font-size: 12px; }
+      th, td { padding: 3px 4px; }
+      .col-type, .col-date { display: none; }
+    }
   </style>
 </head>
 <body>
-  <h1>潮成実 歌リスト</h1>
-  <p style="font-size:0.85rem; margin-bottom:4px;"><a href="index.html">← メインサイト</a></p>
-  <p class="count" id="count"></p>
-  <div id="list"></div>
+  <h1>潮成実 歌一覧表</h1>
+  <p class="meta"><a href="index.html">&larr; メインサイト</a> ｜ <span id="count"></span></p>
+  <table>
+    <thead>
+      <tr>
+        <th data-sort="title">曲名 <span class="sort-arrow">▲</span></th>
+        <th data-sort="artist">アーティスト <span class="sort-arrow"></span></th>
+        <th data-sort="type" class="col-type">種別 <span class="sort-arrow"></span></th>
+        <th data-sort="date" class="col-date">日付 <span class="sort-arrow"></span></th>
+        <th class="col-play">▶</th>
+      </tr>
+    </thead>
+    <tbody id="tbody"></tbody>
+  </table>
   <script>
+    const TYPE_LABELS = { utawaku: '歌枠', video: '動画', shorts: 'ショート', external: '外部' };
+    let songs = [];
+    let currentSort = 'title';
+    let currentDir = 1;
+
     fetch('data/songs.json', { cache: 'no-cache' })
       .then(r => r.json())
       .then(data => {
-        const songs = data.songs;
+        songs = data.songs;
         document.getElementById('count').textContent = `${songs.length} 曲`;
-
-        // videoId + date でグルーピング（配信単位）
-        const groups = [];
-        const groupMap = {};
-        songs.forEach(s => {
-          const key = s.videoId;
-          if (!groupMap[key]) {
-            groupMap[key] = { videoId: s.videoId, date: s.date, streamTitle: s.streamTitle || '', type: s.type, songs: [] };
-            groups.push(groupMap[key]);
-          }
-          groupMap[key].songs.push(s);
-        });
-
-        // 日付降順
-        groups.sort((a, b) => b.date.localeCompare(a.date));
-
-        const container = document.getElementById('list');
-        container.innerHTML = groups.map(g => {
-          const videoUrl = `https://youtu.be/${g.videoId}`;
-          const title = g.streamTitle || g.videoId;
-          const songItems = g.songs.map(s => {
-            const url = s.timestamp
-              ? `https://youtu.be/${s.videoId}?t=${s.timestamp}`
-              : `https://youtu.be/${s.videoId}`;
-            const artist = Array.isArray(s.artist) ? s.artist.join(', ') : s.artist;
-            return `<li><a href="${url}" target="_blank">${s.title}</a> <span class="artist">- ${artist}</span></li>`;
-          }).join('');
-          return `<h2><a href="${videoUrl}" target="_blank">${title}</a> <span class="date">${g.date}</span></h2><ul>${songItems}</ul>`;
-        }).join('');
+        sortAndRender('title', 1);
       });
+
+    function sortAndRender(key, dir) {
+      currentSort = key;
+      currentDir = dir;
+
+      songs.sort((a, b) => {
+        let va, vb;
+        if (key === 'artist') {
+          va = (Array.isArray(a.artist) ? a.artist[0] : a.artist) || '';
+          vb = (Array.isArray(b.artist) ? b.artist[0] : b.artist) || '';
+        } else if (key === 'title') {
+          va = a.title || '';
+          vb = b.title || '';
+        } else if (key === 'date') {
+          va = a.date || '';
+          vb = b.date || '';
+        } else if (key === 'type') {
+          va = a.type || '';
+          vb = b.type || '';
+        }
+        return va.localeCompare(vb, 'ja') * dir;
+      });
+
+      document.querySelectorAll('th[data-sort]').forEach(th => {
+        const arrow = th.querySelector('.sort-arrow');
+        if (th.dataset.sort === key) {
+          arrow.textContent = dir === 1 ? '▲' : '▼';
+        } else {
+          arrow.textContent = '';
+        }
+      });
+
+      const tbody = document.getElementById('tbody');
+      tbody.innerHTML = songs.map(s => {
+        const artist = Array.isArray(s.artist) ? s.artist.join(', ') : s.artist;
+        const url = s.timestamp
+          ? `https://youtu.be/${s.videoId}?t=${s.timestamp}`
+          : `https://youtu.be/${s.videoId}`;
+        return `<tr>
+          <td>${s.title}</td>
+          <td>${artist}</td>
+          <td class="col-type">${TYPE_LABELS[s.type] || s.type}</td>
+          <td class="col-date">${s.date}</td>
+          <td class="col-play"><a href="${url}" target="_blank" rel="noopener">▶</a></td>
+        </tr>`;
+      }).join('');
+    }
+
+    document.querySelectorAll('th[data-sort]').forEach(th => {
+      th.addEventListener('click', () => {
+        const key = th.dataset.sort;
+        const dir = (currentSort === key) ? -currentDir : 1;
+        sortAndRender(key, dir);
+      });
+    });
   </script>
 </body>
 </html>
