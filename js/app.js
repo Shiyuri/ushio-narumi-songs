@@ -100,6 +100,7 @@ function setupScrollHandlers() {
   const isMobile = () => window.innerWidth <= 768;
   let lastScrollY = window.scrollY;
   let ticking = false;
+  let loadingMore = false;
 
   window.addEventListener('scroll', () => {
     if (ticking) return;
@@ -119,8 +120,11 @@ function setupScrollHandlers() {
 
       // 無限スクロール: ページ底から300px以内で次を読み込み
       const distanceToBottom = document.documentElement.scrollHeight - window.innerHeight - currentY;
-      if (distanceToBottom < 300 && displayedCount < filteredSongs.length) {
+      if (distanceToBottom < 300 && displayedCount < filteredSongs.length && !loadingMore) {
+        loadingMore = true;
         loadMore();
+        // DOM更新後にガード解除
+        requestAnimationFrame(() => { loadingMore = false; });
       }
 
       lastScrollY = currentY;
