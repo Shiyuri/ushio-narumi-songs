@@ -90,35 +90,37 @@ function setupEventListeners() {
     }
   });
 
-  // Mobile: tap empty area to toggle search
-  setupMobileSearchToggle();
+  // スクロール監視（検索バー自動表示/非表示 + 無限スクロール）
+  setupScrollHandlers();
 }
 
-// モバイル用: スクロールで検索エリア自動表示/非表示
-function setupMobileSearchToggle() {
+// スクロール監視（モバイル検索バー自動表示/非表示 + 無限スクロール）
+function setupScrollHandlers() {
   const searchArea = document.querySelector('.search-area');
-  if (!searchArea) return;
-
   const isMobile = () => window.innerWidth <= 768;
   let lastScrollY = window.scrollY;
   let ticking = false;
 
   window.addEventListener('scroll', () => {
-    if (!isMobile()) return;
     if (ticking) return;
-
     ticking = true;
     requestAnimationFrame(() => {
       const currentY = window.scrollY;
-      const delta = currentY - lastScrollY;
 
-      // 一定量スクロールしたら切替（チラつき防止）
-      if (delta > 10) {
-        // 下スクロール → 非表示
-        searchArea.classList.add('search-hidden');
-      } else if (delta < -10) {
-        // 上スクロール → 表示
-        searchArea.classList.remove('search-hidden');
+      // モバイル: 検索エリア自動表示/非表示
+      if (isMobile() && searchArea) {
+        const delta = currentY - lastScrollY;
+        if (delta > 10) {
+          searchArea.classList.add('search-hidden');
+        } else if (delta < -10) {
+          searchArea.classList.remove('search-hidden');
+        }
+      }
+
+      // 無限スクロール: ページ底から300px以内で次を読み込み
+      const distanceToBottom = document.documentElement.scrollHeight - window.innerHeight - currentY;
+      if (distanceToBottom < 300 && displayedCount < filteredSongs.length) {
+        loadMore();
       }
 
       lastScrollY = currentY;
@@ -396,24 +398,17 @@ function createSongElement(song) {
   return div;
 }
 
-// もっと見る
+// もっと見る（無限スクロールから呼ばれる）
 function loadMore() {
   renderSongs(false);
 }
 
-// もっと見るボタン更新
+// もっと見るボタン更新（無限スクロールにより通常は非表示）
 function updateLoadMoreButton() {
   const btn = document.getElementById('loadMoreBtn');
   if (!btn) return;
-
-  const remaining = filteredSongs.length - displayedCount;
-  if (remaining > 0) {
-    btn.style.display = 'block';
-    btn.textContent = `もっと見る（残り ${remaining} 曲）`;
-    btn.disabled = false;
-  } else {
-    btn.style.display = 'none';
-  }
+  // 無限スクロールがあるのでボタンは常に非表示
+  btn.style.display = 'none';
 }
 
 // 統計更新
