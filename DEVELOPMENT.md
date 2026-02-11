@@ -7,14 +7,14 @@
 <!-- STACK/ACCESS/DECLINED等=構成変更時のみ -->
 
 ```
-TS:2026-02-10|ST:uta|T:vtuber-song-db|V:1|FILES:10|LOC:21500
+TS:2026-02-11|ST:uta|T:vtuber-song-db|V:1|FILES:10|LOC:25000
 STACK:html+css+js|py-httpserver:3000|yt-dlp
-DATA:songs.json|ENTRIES:1776|REM_EST:~370|TOTAL_EST:~2150|SZ:750KB
+DATA:songs.json|ENTRIES:2093|TOTAL:2093|SZ:870KB
 SCH:{title,artist[],type,date,videoId,timestamp,collabWith[],notes,id,streamTitle}
-ACCESS:RO|RW:localhost|DEPLOY:gh-pages|FLOW:local>commit>push
-COMPLETED:review*5,mobile,modal-css,cache,pagetitle,tagcolor,bugfix*5,table-view,scroll-search-toggle,font-unify,auto-backup,infinite-scroll
+ACCESS:RO|RW:localhost|DEPLOY:gh-pages(live)|FLOW:local>commit>push
+COMPLETED:review*5,mobile,modal-css,cache,pagetitle,tagcolor,bugfix*5,table-view,scroll-search-toggle,font-unify,auto-backup,infinite-scroll,url-parse-fix,song-entry-complete,deploy
 DECLINED:ogp,footer,stats,pushstate,streamtitle-search,song-sort
-STATE:v1@7e96294|NEXT:song-entry(remaining~370songs)
+STATE:v1@b672d57|LIVE:https://shiyuri.github.io/ushio-narumi-songs/
 ```
 
 ---
