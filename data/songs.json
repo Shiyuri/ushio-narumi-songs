@@ -16372,6 +16372,7 @@
       "streamTitle": "月のワルツ - Covered by 潮成実"
     },
     {
+      "id": 1160,
       "title": "Resonance",
       "artist": [
         "[ahi:]",
@@ -16381,10 +16382,11 @@
       "date": "2021-04-23",
       "videoId": "fhD8AIbTL-k",
       "timestamp": 0,
-      "collabWith": [],
-      "notes": "",
-      "id": 1160,
-      "streamTitle": "Resonance  (prod. by [ahi:]) - 潮成実"
+      "streamTitle": "Resonance  (prod. by [ahi:]) - 潮成実",
+      "collabWith": [
+        "[ahi:]"
+      ],
+      "notes": ""
     },
     {
       "title": "翳り",
@@ -27726,6 +27728,2555 @@
       "notes": "",
       "id": 1963,
       "streamTitle": "【INSTANCE-C】 『AdHoc - アドホック - 』プレオープンイベント「はじめのるつぼ Vol.1」【全編無料配信】#AdHocる #無原唱レコード #RIONECTION"
+    },
+    {
+      "title": "Attention",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2024-03-30",
+      "videoId": "dvNP7JNJ26c",
+      "timestamp": 1913,
+      "collabWith": [],
+      "notes": "",
+      "id": 1964,
+      "streamTitle": "Week1【META=KNOT 2024 in AKASAKA BLITZ】"
+    },
+    {
+      "title": "翳り",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2024-03-30",
+      "videoId": "dvNP7JNJ26c",
+      "timestamp": 2144,
+      "collabWith": [],
+      "notes": "",
+      "id": 1965,
+      "streamTitle": "Week1【META=KNOT 2024 in AKASAKA BLITZ】"
+    },
+    {
+      "title": "陽炎",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2024-03-30",
+      "videoId": "dvNP7JNJ26c",
+      "timestamp": 2353,
+      "collabWith": [],
+      "notes": "",
+      "id": 1966,
+      "streamTitle": "Week1【META=KNOT 2024 in AKASAKA BLITZ】"
+    },
+    {
+      "title": "月面飛行",
+      "artist": [
+        "CROWK",
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2024-03-30",
+      "videoId": "dvNP7JNJ26c",
+      "timestamp": 3882,
+      "collabWith": [
+        "CROWK"
+      ],
+      "notes": "",
+      "id": 1967,
+      "streamTitle": "Week1【META=KNOT 2024 in AKASAKA BLITZ】"
+    },
+    {
+      "title": "摩天楼",
+      "artist": [
+        "iri"
+      ],
+      "type": "external",
+      "date": "2022-02-11",
+      "videoId": "U-gTfwQWuo4",
+      "timestamp": 402,
+      "collabWith": [
+        "[ahi:]"
+      ],
+      "notes": "",
+      "id": 1968,
+      "streamTitle": "【#ぴよジャム】歌とピアノのデュオライブ！ゲスト：潮成実【生演奏配信】"
+    },
+    {
+      "title": "フライディ・チャイナタウン",
+      "artist": [
+        "泰葉"
+      ],
+      "type": "external",
+      "date": "2022-02-11",
+      "videoId": "U-gTfwQWuo4",
+      "timestamp": 936,
+      "collabWith": [
+        "[ahi:]"
+      ],
+      "notes": "",
+      "id": 1969,
+      "streamTitle": "【#ぴよジャム】歌とピアノのデュオライブ！ゲスト：潮成実【生演奏配信】"
+    },
+    {
+      "title": "丸の内サディスティック",
+      "artist": [
+        "椎名林檎"
+      ],
+      "type": "external",
+      "date": "2022-02-11",
+      "videoId": "U-gTfwQWuo4",
+      "timestamp": 1228,
+      "collabWith": [
+        "[ahi:]"
+      ],
+      "notes": "",
+      "id": 1970,
+      "streamTitle": "【#ぴよジャム】歌とピアノのデュオライブ！ゲスト：潮成実【生演奏配信】"
+    },
+    {
+      "title": "traveling",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "external",
+      "date": "2022-02-11",
+      "videoId": "U-gTfwQWuo4",
+      "timestamp": 1657,
+      "collabWith": [
+        "[ahi:]"
+      ],
+      "notes": "",
+      "id": 1971,
+      "streamTitle": "【#ぴよジャム】歌とピアノのデュオライブ！ゲスト：潮成実【生演奏配信】"
+    },
+    {
+      "title": "きっとね！",
+      "artist": [
+        "中村佳穂"
+      ],
+      "type": "external",
+      "date": "2022-02-11",
+      "videoId": "U-gTfwQWuo4",
+      "timestamp": 2214,
+      "collabWith": [
+        "[ahi:]"
+      ],
+      "notes": "",
+      "id": 1972,
+      "streamTitle": "【#ぴよジャム】歌とピアノのデュオライブ！ゲスト：潮成実【生演奏配信】"
+    },
+    {
+      "title": "ピーナッツバターモーニング",
+      "artist": [
+        "[ahi:]",
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2022-02-11",
+      "videoId": "U-gTfwQWuo4",
+      "timestamp": 2959,
+      "collabWith": [
+        "[ahi:]"
+      ],
+      "notes": "",
+      "id": 1973,
+      "streamTitle": "【#ぴよジャム】歌とピアノのデュオライブ！ゲスト：潮成実【生演奏配信】"
+    },
+    {
+      "title": "FUBEN",
+      "artist": [
+        "[ahi:]",
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2022-02-11",
+      "videoId": "U-gTfwQWuo4",
+      "timestamp": 3397,
+      "collabWith": [
+        "[ahi:]"
+      ],
+      "notes": "",
+      "id": 1974,
+      "streamTitle": "【#ぴよジャム】歌とピアノのデュオライブ！ゲスト：潮成実【生演奏配信】"
+    },
+    {
+      "title": "Higher Love",
+      "artist": [
+        "MISIA"
+      ],
+      "type": "external",
+      "date": "2022-02-11",
+      "videoId": "U-gTfwQWuo4",
+      "timestamp": 3886,
+      "collabWith": [
+        "[ahi:]"
+      ],
+      "notes": "",
+      "id": 1975,
+      "streamTitle": "【#ぴよジャム】歌とピアノのデュオライブ！ゲスト：潮成実【生演奏配信】"
+    },
+    {
+      "title": "ワールドイズマイン",
+      "artist": [
+        "supercell",
+        "ryo"
+      ],
+      "type": "external",
+      "date": "2022-02-11",
+      "videoId": "U-gTfwQWuo4",
+      "timestamp": 4471,
+      "collabWith": [
+        "[ahi:]"
+      ],
+      "notes": "",
+      "id": 1976,
+      "streamTitle": "【#ぴよジャム】歌とピアノのデュオライブ！ゲスト：潮成実【生演奏配信】"
+    },
+    {
+      "id": 1977,
+      "title": "ノーマルエンド1(マクスウェルの悪魔はもう居ない)",
+      "artist": [
+        "橙ミャオ",
+        "高峰伊織",
+        "潮成実"
+      ],
+      "type": "video",
+      "date": "2024-03-28",
+      "videoId": "2h7jWQ4lqL0",
+      "timestamp": 0,
+      "streamTitle": "【Animation MV】ノーマルエンド1(マクスウェルの悪魔はもう居ない) feat. 高峰伊織 & 潮成実 / 橙ミャオ【Original Song】",
+      "collabWith": [
+        "橙ミャオ",
+        "高峰伊織"
+      ],
+      "notes": ""
+    },
+    {
+      "title": "エンゼルフィッシュ",
+      "artist": [
+        "パトリチェフ"
+      ],
+      "type": "external",
+      "date": "2025-08-13",
+      "videoId": "j_ZXm03STfQ",
+      "timestamp": 77,
+      "collabWith": [
+        "あきら様"
+      ],
+      "notes": "",
+      "id": 1978,
+      "streamTitle": "[#VRandB vol.9] 潮 成実×あきら様 コラボShowcase / エンゼルフィッシュ"
+    },
+    {
+      "title": "君は薔薇より美しい",
+      "artist": [
+        "布施明"
+      ],
+      "type": "external",
+      "date": "2025-05-18",
+      "videoId": "NCSnV3nzZiM",
+      "timestamp": 4605,
+      "collabWith": [],
+      "notes": "",
+      "id": 1979,
+      "streamTitle": "【全身3D配信】#スナックキョンCi クラブでイケイケな2人がご来店よ！ お客様：潮成実様、ひとなつおもい様【キョンシーのCiちゃん】"
+    },
+    {
+      "id": 1980,
+      "title": "まるで神様",
+      "artist": [
+        "[ahi:]",
+        "潮成実"
+      ],
+      "type": "video",
+      "date": "2022-01-22",
+      "videoId": "1BVgZmE6Xbc",
+      "timestamp": 0,
+      "streamTitle": "まるで神様 (feat. 潮成実)",
+      "collabWith": [
+        "[ahi:]"
+      ],
+      "notes": ""
+    },
+    {
+      "title": "GASSAI",
+      "artist": [
+        "BOOGEY VOXX",
+        "NICO",
+        "今酒ハクノ",
+        "93poetry"
+      ],
+      "type": "video",
+      "date": "2022-05-05",
+      "videoId": "VYFt1FvgKaY",
+      "timestamp": 0,
+      "collabWith": [
+        "MONDAY凛音",
+        "覆面忍者",
+        "ひとなつおもい",
+        "yusponz"
+      ],
+      "notes": "",
+      "id": 1981,
+      "streamTitle": "【remix】GASSAI / MONDAY凛音, 覆面忍者, ひとなつおもい, yusponz, 潮成実"
+    },
+    {
+      "title": "Attention",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2024-11-16",
+      "videoId": "OdKhmFuCsq0",
+      "timestamp": 1417,
+      "collabWith": [
+        "海夏青",
+        "のりお709"
+      ],
+      "notes": "",
+      "id": 1982,
+      "streamTitle": "【NoriNuts】All Performance Collection #ClubMZ1987"
+    },
+    {
+      "title": "My Room Sunshine",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2024-11-16",
+      "videoId": "OdKhmFuCsq0",
+      "timestamp": 1618,
+      "collabWith": [
+        "海夏青",
+        "のりお709"
+      ],
+      "notes": "",
+      "id": 1983,
+      "streamTitle": "【NoriNuts】All Performance Collection #ClubMZ1987"
+    },
+    {
+      "title": "翳り",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2024-11-16",
+      "videoId": "OdKhmFuCsq0",
+      "timestamp": 1817,
+      "collabWith": [
+        "海夏青",
+        "のりお709"
+      ],
+      "notes": "",
+      "id": 1984,
+      "streamTitle": "【NoriNuts】All Performance Collection #ClubMZ1987"
+    },
+    {
+      "title": "陽炎",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2024-11-16",
+      "videoId": "OdKhmFuCsq0",
+      "timestamp": 2030,
+      "collabWith": [
+        "海夏青",
+        "のりお709"
+      ],
+      "notes": "",
+      "id": 1985,
+      "streamTitle": "【NoriNuts】All Performance Collection #ClubMZ1987"
+    },
+    {
+      "title": "月面飛行",
+      "artist": [
+        "CROWK",
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2024-11-16",
+      "videoId": "OdKhmFuCsq0",
+      "timestamp": 2360,
+      "collabWith": [
+        "海夏青",
+        "のりお709",
+        "CROWK"
+      ],
+      "notes": "",
+      "id": 1986,
+      "streamTitle": "【NoriNuts】All Performance Collection #ClubMZ1987"
+    },
+    {
+      "id": 1987,
+      "title": "家路",
+      "artist": [
+        "CROWK",
+        "潮成実",
+        "World Technique"
+      ],
+      "type": "video",
+      "date": "2025-06-15",
+      "videoId": "2nLtQgS9QVg",
+      "timestamp": 0,
+      "streamTitle": "【CROWK】家路 feat.潮成実 (Prod.World technique)【MV】",
+      "collabWith": [
+        "CROWK"
+      ],
+      "notes": ""
+    },
+    {
+      "title": "月面飛行",
+      "artist": [
+        "CROWK",
+        "潮成実"
+      ],
+      "type": "video",
+      "date": "2022-05-20",
+      "videoId": "R34aRmaCWnw",
+      "timestamp": 0,
+      "collabWith": [
+        "CROWK"
+      ],
+      "notes": "",
+      "id": 1988,
+      "streamTitle": "月面飛行 (feat. 潮成実)"
+    },
+    {
+      "title": "二時間だけのバカンス",
+      "artist": [
+        "宇多田ヒカル",
+        "椎名林檎"
+      ],
+      "type": "video",
+      "date": "2021-08-13",
+      "videoId": "kqtza0JuDy8",
+      "timestamp": 0,
+      "collabWith": [
+        "閑地游"
+      ],
+      "notes": "",
+      "id": 1989,
+      "streamTitle": "二時間だけのバカンス Covered by 閑地游＆潮成実"
+    },
+    {
+      "title": "サマーバケーSHON!!!! (remix)",
+      "artist": [
+        "シッコマン イン ザ パーティ"
+      ],
+      "type": "video",
+      "date": "2025-08-24",
+      "videoId": "nk7O-kUvBYQ",
+      "timestamp": 0,
+      "collabWith": [
+        "ヌコメソーセキ",
+        "ザグナ・マモノ",
+        "AmaNoJa9",
+        "ひとなつおもい"
+      ],
+      "notes": "",
+      "id": 1990,
+      "streamTitle": "サマーバケーSHON!!!! (remix) / ヌコメソーセキ, ザグナ・マモノ, AmaNoJa9, ひとなつおもい & 潮成実 | シッコマン イン ザ パーティ"
+    },
+    {
+      "title": "NYO SWORD (remix)",
+      "artist": [
+        "シッコマン イン ザ パーティ"
+      ],
+      "type": "video",
+      "date": "2025-04-05",
+      "videoId": "DwH-pI2dyIs",
+      "timestamp": 0,
+      "collabWith": [
+        "ヌコメソーセキ",
+        "ザグナ・マモノ",
+        "AmaNoJa9",
+        "ひとなつおもい"
+      ],
+      "notes": "",
+      "id": 1991,
+      "streamTitle": "NYO SWORD (remix) / シッコマン イン ザ パーティ | ヌコメソーセキ, ザグナ・マモノ, AmaNoJa9, ひとなつおもい, 潮成実"
+    },
+    {
+      "title": "Circle of Love",
+      "artist": [
+        "チームちらし寿司"
+      ],
+      "type": "video",
+      "date": "2025-07-05",
+      "videoId": "Etify-LdboA",
+      "timestamp": 0,
+      "collabWith": [
+        "sumeshiii a.k.a.バーチャルお寿司",
+        "sabio",
+        "雨飼ミヅキ",
+        "シロたん",
+        "干蜜柑",
+        "現実みろ",
+        "凛々咲",
+        "駄菓子O型",
+        "瀬名航へくぼき"
+      ],
+      "notes": "",
+      "id": 1992,
+      "streamTitle": "Circle of Love / チームちらし寿司 #ボカデュオ2025 #vocaduo2025 参加曲"
+    },
+    {
+      "title": "Mr.Music",
+      "artist": [
+        "れるりり",
+        "ロンチーノ=ペペ",
+        "かごめP",
+        "とくP"
+      ],
+      "type": "video",
+      "date": "2025-11-19",
+      "videoId": "EnTpjLxuETc",
+      "timestamp": 0,
+      "collabWith": [
+        "菜鳥ひなた",
+        "座敷わらび",
+        "愛蕾",
+        "九九",
+        "魔ノむえる"
+      ],
+      "notes": "",
+      "id": 1993,
+      "streamTitle": "Mr.Music【Covered by おまつりフレンズ二期生】"
+    },
+    {
+      "title": "Itinerary",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2025-09-16",
+      "videoId": "lBRBz0jyohM",
+      "timestamp": 364,
+      "collabWith": [],
+      "notes": "",
+      "id": 1994,
+      "streamTitle": "音樂京-夏ノ陣2025-ダイジェスト版　#メタバース  ＃reggae ＃hiphop ＃rap ＃SecondLife #ソルナシエンテ ＃潮成実 ＃cluster ＃VRChat ＃DJLive"
+    },
+    {
+      "title": "Attention",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2025-09-16",
+      "videoId": "lBRBz0jyohM",
+      "timestamp": 437,
+      "collabWith": [],
+      "notes": "",
+      "id": 1995,
+      "streamTitle": "音樂京-夏ノ陣2025-ダイジェスト版　#メタバース  ＃reggae ＃hiphop ＃rap ＃SecondLife #ソルナシエンテ ＃潮成実 ＃cluster ＃VRChat ＃DJLive"
+    },
+    {
+      "title": "My Room Sunshine",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2024-09-03",
+      "videoId": "aNAgeTD0D60",
+      "timestamp": 0,
+      "collabWith": [
+        "海夏青"
+      ],
+      "notes": "",
+      "id": 1996,
+      "streamTitle": "[DancerVTuber 海 夏青] #VRVいっぱいの会 vol.2 DanceShowcase【潮成実】"
+    },
+    {
+      "id": 1997,
+      "title": "FUBEN",
+      "artist": [
+        "[ahi:]",
+        "潮成実"
+      ],
+      "type": "video",
+      "date": "2023-04-30",
+      "videoId": "g0I-wUnPCo8",
+      "timestamp": 0,
+      "streamTitle": "FUBEN (feat. 潮成実) [2023 Remaster]",
+      "collabWith": [
+        "[ahi:]"
+      ],
+      "notes": ""
+    },
+    {
+      "id": 1998,
+      "title": "FUBEN",
+      "artist": [
+        "[ahi:]",
+        "潮成実"
+      ],
+      "type": "video",
+      "date": "2022-05-28",
+      "videoId": "xN_Ct8mDunI",
+      "timestamp": 0,
+      "streamTitle": "FUBEN (feat. 潮成実) - [ahi:]【Lyric Video】",
+      "collabWith": [
+        "[ahi:]"
+      ],
+      "notes": ""
+    },
+    {
+      "title": "Hug",
+      "artist": [
+        "空音"
+      ],
+      "type": "video",
+      "date": "2021-05-23",
+      "videoId": "KPXTFsxZfLQ",
+      "timestamp": 0,
+      "collabWith": [
+        "椎名かいね"
+      ],
+      "notes": "",
+      "id": 1999,
+      "streamTitle": "Hug(空音) coverかいね×潮成実"
+    },
+    {
+      "title": "クユルヨル",
+      "artist": [
+        "Re6onance Garden",
+        "filmiiz",
+        "潮成実"
+      ],
+      "type": "video",
+      "date": "2025-05-11",
+      "videoId": "98sjcO6W9DQ",
+      "timestamp": 0,
+      "collabWith": [
+        "Re6onance Garden",
+        "filmiiz"
+      ],
+      "notes": "",
+      "id": 2000,
+      "streamTitle": "クユルヨル (feat. filmiiz & 潮成実)"
+    },
+    {
+      "title": "EDIBLE",
+      "artist": [
+        "R Sound Design"
+      ],
+      "type": "video",
+      "date": "2021-08-10",
+      "videoId": "NiDhqKvW-2Y",
+      "timestamp": 0,
+      "collabWith": [
+        "糺音イオ"
+      ],
+      "notes": "",
+      "id": 2001,
+      "streamTitle": "EDIBLE - Covered by 潮成実＆糺音イオ［AOI］"
+    },
+    {
+      "title": "Presence",
+      "artist": [
+        "STUTS",
+        "松たか子",
+        "3exes"
+      ],
+      "type": "video",
+      "date": "2021-09-03",
+      "videoId": "rd6aYz6NlwU",
+      "timestamp": 0,
+      "collabWith": [
+        "NICO",
+        "覆面忍者",
+        "坂神蟬丸",
+        "BOOGEY VOXX"
+      ],
+      "notes": "",
+      "id": 2002,
+      "streamTitle": "Presence feat. 潮成実, NICO, 覆面忍者, 坂神蟬丸 [cover] / BOOGEY VOXX"
+    },
+    {
+      "title": "ROSE",
+      "artist": [
+        "HANA"
+      ],
+      "type": "video",
+      "date": "2025-05-31",
+      "videoId": "gnW6BmpuoCU",
+      "timestamp": 0,
+      "collabWith": [
+        "エレジア・モネ",
+        "UzuMe"
+      ],
+      "notes": "",
+      "id": 2003,
+      "streamTitle": "ROSE covered 潮成実&エレジア・モネ＆UzuMe"
+    },
+    {
+      "title": "funny day",
+      "artist": [
+        "曇音ルカ",
+        "潮成実"
+      ],
+      "type": "video",
+      "date": "2022-12-30",
+      "videoId": "el5eo4mgXo8",
+      "timestamp": 0,
+      "collabWith": [
+        "曇音ルカ"
+      ],
+      "notes": "",
+      "id": 2004,
+      "streamTitle": "【オリジナル曲】funny day／潮成実 × 曇音ルカ【コラボ】"
+    },
+    {
+      "title": "Kāma",
+      "artist": [
+        "椎名かいね",
+        "潮成実"
+      ],
+      "type": "video",
+      "date": "2022-11-27",
+      "videoId": "O5EBkwW97Nk",
+      "timestamp": 0,
+      "collabWith": [
+        "椎名かいね"
+      ],
+      "notes": "",
+      "id": 2005,
+      "streamTitle": "Kāma/椎名かいねand潮成実 【Lyric Motion Video】"
+    },
+    {
+      "title": "インターバル",
+      "artist": [
+        "KYOTOU-O",
+        "潮成実"
+      ],
+      "type": "video",
+      "date": "2023-07-06",
+      "videoId": "iWCXESe_MLE",
+      "timestamp": 0,
+      "collabWith": [
+        "KYOTOU-O"
+      ],
+      "notes": "",
+      "id": 2006,
+      "streamTitle": "KYOTOU-O feat. 潮成実 - インターバル #ボカデュオ2023 #VocaDuo2023"
+    },
+    {
+      "title": "道形",
+      "artist": [
+        "空位",
+        "潮成実"
+      ],
+      "type": "video",
+      "date": "2021-08-25",
+      "videoId": "5i8q9Fh9Lco",
+      "timestamp": 0,
+      "collabWith": [
+        "空位"
+      ],
+      "notes": "",
+      "id": 2007,
+      "streamTitle": "【MV】道形 ‐ 空位 feat. 潮成実"
+    },
+    {
+      "title": "ピーナッツバターモーニング",
+      "artist": [
+        "[ahi:]",
+        "潮成実"
+      ],
+      "type": "video",
+      "date": "2022-01-22",
+      "videoId": "MWXe0UvVBoA",
+      "timestamp": 0,
+      "collabWith": [
+        "[ahi:]"
+      ],
+      "notes": "",
+      "id": 2008,
+      "streamTitle": "ピーナッツバターモーニング (feat. 潮成実)"
+    },
+    {
+      "title": "陽炎",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2025-05-13",
+      "videoId": "ri7EqbmQ23Y",
+      "timestamp": 0,
+      "collabWith": [
+        "海夏青",
+        "のりお709"
+      ],
+      "notes": "",
+      "id": 2009,
+      "streamTitle": "VRLive 潮成実「陽炎」from ClubMZ1987 Renewal 1Year Party Day2\"Funky\""
+    },
+    {
+      "title": "新宝島",
+      "artist": [
+        "サカナクション"
+      ],
+      "type": "external",
+      "date": "2025-08-12",
+      "videoId": "41e5lhfq49Y",
+      "timestamp": 2937,
+      "collabWith": [
+        "音御光歌"
+      ],
+      "notes": "",
+      "id": 2010,
+      "streamTitle": "【#OKSession】sumeshiii a.k.a.バーチャルお寿司＆潮成実×音御光歌 ／Vの仲間とセッション！Mov.75 #音歌ライブ #SYNCROOM"
+    },
+    {
+      "title": "ヴィラン",
+      "artist": [
+        "てにをは"
+      ],
+      "type": "external",
+      "date": "2025-08-12",
+      "videoId": "41e5lhfq49Y",
+      "timestamp": 3413,
+      "collabWith": [
+        "音御光歌"
+      ],
+      "notes": "",
+      "id": 2011,
+      "streamTitle": "【#OKSession】sumeshiii a.k.a.バーチャルお寿司＆潮成実×音御光歌 ／Vの仲間とセッション！Mov.75 #音歌ライブ #SYNCROOM"
+    },
+    {
+      "title": "感電",
+      "artist": [
+        "米津玄師"
+      ],
+      "type": "external",
+      "date": "2025-08-12",
+      "videoId": "41e5lhfq49Y",
+      "timestamp": 3839,
+      "collabWith": [
+        "音御光歌"
+      ],
+      "notes": "",
+      "id": 2012,
+      "streamTitle": "【#OKSession】sumeshiii a.k.a.バーチャルお寿司＆潮成実×音御光歌 ／Vの仲間とセッション！Mov.75 #音歌ライブ #SYNCROOM"
+    },
+    {
+      "title": "飾りじゃないのよ涙は",
+      "artist": [
+        "中森明菜"
+      ],
+      "type": "external",
+      "date": "2025-08-12",
+      "videoId": "41e5lhfq49Y",
+      "timestamp": 4417,
+      "collabWith": [
+        "音御光歌"
+      ],
+      "notes": "",
+      "id": 2013,
+      "streamTitle": "【#OKSession】sumeshiii a.k.a.バーチャルお寿司＆潮成実×音御光歌 ／Vの仲間とセッション！Mov.75 #音歌ライブ #SYNCROOM"
+    },
+    {
+      "title": "カブトムシ",
+      "artist": [
+        "aiko"
+      ],
+      "type": "external",
+      "date": "2025-08-12",
+      "videoId": "41e5lhfq49Y",
+      "timestamp": 4847,
+      "collabWith": [
+        "音御光歌"
+      ],
+      "notes": "",
+      "id": 2014,
+      "streamTitle": "【#OKSession】sumeshiii a.k.a.バーチャルお寿司＆潮成実×音御光歌 ／Vの仲間とセッション！Mov.75 #音歌ライブ #SYNCROOM"
+    },
+    {
+      "title": "キラキラ",
+      "artist": [
+        "aiko"
+      ],
+      "type": "external",
+      "date": "2025-08-12",
+      "videoId": "41e5lhfq49Y",
+      "timestamp": 5412,
+      "collabWith": [
+        "音御光歌",
+        "sumeshiii a.k.a.バーチャルお寿司"
+      ],
+      "notes": "",
+      "id": 2015,
+      "streamTitle": "【#OKSession】sumeshiii a.k.a.バーチャルお寿司＆潮成実×音御光歌 ／Vの仲間とセッション！Mov.75 #音歌ライブ #SYNCROOM"
+    },
+    {
+      "title": "ようこそジャパリパークへ",
+      "artist": [
+        "どうぶつビスケッツ×PPP",
+        "大石昌良"
+      ],
+      "type": "external",
+      "date": "2025-08-12",
+      "videoId": "41e5lhfq49Y",
+      "timestamp": 5813,
+      "collabWith": [
+        "音御光歌",
+        "sumeshiii a.k.a.バーチャルお寿司"
+      ],
+      "notes": "",
+      "id": 2016,
+      "streamTitle": "【#OKSession】sumeshiii a.k.a.バーチャルお寿司＆潮成実×音御光歌 ／Vの仲間とセッション！Mov.75 #音歌ライブ #SYNCROOM"
+    },
+    {
+      "title": "Sweep Away",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2025-04-28",
+      "videoId": "wVA1oJZtHCM",
+      "timestamp": 71,
+      "collabWith": [],
+      "notes": "",
+      "id": 2017,
+      "streamTitle": "【567夜め】きまぐれリンドの夜探し  with【潮成実】おかわり！"
+    },
+    {
+      "title": "音沙汰",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2025-04-28",
+      "videoId": "wVA1oJZtHCM",
+      "timestamp": 323,
+      "collabWith": [],
+      "notes": "",
+      "id": 2018,
+      "streamTitle": "【567夜め】きまぐれリンドの夜探し  with【潮成実】おかわり！"
+    },
+    {
+      "title": "翳り",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2025-04-28",
+      "videoId": "wVA1oJZtHCM",
+      "timestamp": 587,
+      "collabWith": [],
+      "notes": "",
+      "id": 2019,
+      "streamTitle": "【567夜め】きまぐれリンドの夜探し  with【潮成実】おかわり！"
+    },
+    {
+      "title": "イケナイ太陽",
+      "artist": [
+        "ORANGE RANGE"
+      ],
+      "type": "external",
+      "date": "2025-08-22",
+      "videoId": "Za0mHFk_rA4",
+      "timestamp": 503,
+      "collabWith": [
+        "座敷わらび"
+      ],
+      "notes": "",
+      "id": 2020,
+      "streamTitle": "【 歌枠コラボ 】おまフレの潮成実ことうしぴと初歌枠コラボでメスわらびになる💛 #お座敷てれび【#座敷わらび / #潮成実 】"
+    },
+    {
+      "title": "じょいふる",
+      "artist": [
+        "いきものがかり"
+      ],
+      "type": "external",
+      "date": "2025-08-22",
+      "videoId": "Za0mHFk_rA4",
+      "timestamp": 1112,
+      "collabWith": [
+        "座敷わらび"
+      ],
+      "notes": "",
+      "id": 2021,
+      "streamTitle": "【 歌枠コラボ 】おまフレの潮成実ことうしぴと初歌枠コラボでメスわらびになる💛 #お座敷てれび【#座敷わらび / #潮成実 】"
+    },
+    {
+      "title": "GO!!!",
+      "artist": [
+        "FLOW"
+      ],
+      "type": "external",
+      "date": "2025-08-22",
+      "videoId": "Za0mHFk_rA4",
+      "timestamp": 1704,
+      "collabWith": [
+        "座敷わらび"
+      ],
+      "notes": "",
+      "id": 2022,
+      "streamTitle": "【 歌枠コラボ 】おまフレの潮成実ことうしぴと初歌枠コラボでメスわらびになる💛 #お座敷てれび【#座敷わらび / #潮成実 】"
+    },
+    {
+      "title": "Catch you Catch me",
+      "artist": [
+        "日向めぐみ"
+      ],
+      "type": "external",
+      "date": "2025-08-22",
+      "videoId": "Za0mHFk_rA4",
+      "timestamp": 2455,
+      "collabWith": [
+        "座敷わらび"
+      ],
+      "notes": "",
+      "id": 2023,
+      "streamTitle": "【 歌枠コラボ 】おまフレの潮成実ことうしぴと初歌枠コラボでメスわらびになる💛 #お座敷てれび【#座敷わらび / #潮成実 】"
+    },
+    {
+      "title": "Love so sweet",
+      "artist": [
+        "嵐"
+      ],
+      "type": "external",
+      "date": "2025-08-22",
+      "videoId": "Za0mHFk_rA4",
+      "timestamp": 2808,
+      "collabWith": [
+        "座敷わらび"
+      ],
+      "notes": "",
+      "id": 2024,
+      "streamTitle": "【 歌枠コラボ 】おまフレの潮成実ことうしぴと初歌枠コラボでメスわらびになる💛 #お座敷てれび【#座敷わらび / #潮成実 】"
+    },
+    {
+      "title": "カブトムシ",
+      "artist": [
+        "aiko"
+      ],
+      "type": "external",
+      "date": "2025-08-22",
+      "videoId": "Za0mHFk_rA4",
+      "timestamp": 3332,
+      "collabWith": [
+        "座敷わらび"
+      ],
+      "notes": "",
+      "id": 2025,
+      "streamTitle": "【 歌枠コラボ 】おまフレの潮成実ことうしぴと初歌枠コラボでメスわらびになる💛 #お座敷てれび【#座敷わらび / #潮成実 】"
+    },
+    {
+      "title": "ライオン",
+      "artist": [
+        "May'n",
+        "中島愛"
+      ],
+      "type": "external",
+      "date": "2025-08-22",
+      "videoId": "Za0mHFk_rA4",
+      "timestamp": 3858,
+      "collabWith": [
+        "座敷わらび"
+      ],
+      "notes": "",
+      "id": 2026,
+      "streamTitle": "【 歌枠コラボ 】おまフレの潮成実ことうしぴと初歌枠コラボでメスわらびになる💛 #お座敷てれび【#座敷わらび / #潮成実 】"
+    },
+    {
+      "title": "UFO",
+      "artist": [
+        "ピンク・レディー"
+      ],
+      "type": "external",
+      "date": "2025-08-22",
+      "videoId": "Za0mHFk_rA4",
+      "timestamp": 4690,
+      "collabWith": [
+        "座敷わらび"
+      ],
+      "notes": "",
+      "id": 2027,
+      "streamTitle": "【 歌枠コラボ 】おまフレの潮成実ことうしぴと初歌枠コラボでメスわらびになる💛 #お座敷てれび【#座敷わらび / #潮成実 】"
+    },
+    {
+      "title": "ハッピーシンセサイザ",
+      "artist": [
+        "Easy Pop"
+      ],
+      "type": "external",
+      "date": "2025-08-22",
+      "videoId": "Za0mHFk_rA4",
+      "timestamp": 5146,
+      "collabWith": [
+        "座敷わらび"
+      ],
+      "notes": "",
+      "id": 2028,
+      "streamTitle": "【 歌枠コラボ 】おまフレの潮成実ことうしぴと初歌枠コラボでメスわらびになる💛 #お座敷てれび【#座敷わらび / #潮成実 】"
+    },
+    {
+      "title": "WINDING ROAD",
+      "artist": [
+        "コブクロ",
+        "絢香"
+      ],
+      "type": "external",
+      "date": "2025-08-22",
+      "videoId": "Za0mHFk_rA4",
+      "timestamp": 5619,
+      "collabWith": [
+        "座敷わらび"
+      ],
+      "notes": "",
+      "id": 2029,
+      "streamTitle": "【 歌枠コラボ 】おまフレの潮成実ことうしぴと初歌枠コラボでメスわらびになる💛 #お座敷てれび【#座敷わらび / #潮成実 】"
+    },
+    {
+      "title": "シル・ヴ・プレジデント",
+      "artist": [
+        "P丸様。"
+      ],
+      "type": "external",
+      "date": "2025-08-22",
+      "videoId": "Za0mHFk_rA4",
+      "timestamp": 6144,
+      "collabWith": [
+        "座敷わらび"
+      ],
+      "notes": "",
+      "id": 2030,
+      "streamTitle": "【 歌枠コラボ 】おまフレの潮成実ことうしぴと初歌枠コラボでメスわらびになる💛 #お座敷てれび【#座敷わらび / #潮成実 】"
+    },
+    {
+      "title": "Attention",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2022-12-28",
+      "videoId": "mErrFQYzOW0",
+      "timestamp": 23,
+      "collabWith": [],
+      "notes": "",
+      "id": 2031,
+      "streamTitle": "VR Hip Hop Live「Grenade」Vol.5　-潮成実- 【アーカイブ】"
+    },
+    {
+      "title": "翳り",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2022-12-28",
+      "videoId": "mErrFQYzOW0",
+      "timestamp": 219,
+      "collabWith": [],
+      "notes": "",
+      "id": 2032,
+      "streamTitle": "VR Hip Hop Live「Grenade」Vol.5　-潮成実- 【アーカイブ】"
+    },
+    {
+      "title": "音沙汰",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2022-12-28",
+      "videoId": "mErrFQYzOW0",
+      "timestamp": 590,
+      "collabWith": [],
+      "notes": "",
+      "id": 2033,
+      "streamTitle": "VR Hip Hop Live「Grenade」Vol.5　-潮成実- 【アーカイブ】"
+    },
+    {
+      "title": "陽炎",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2022-12-28",
+      "videoId": "mErrFQYzOW0",
+      "timestamp": 979,
+      "collabWith": [],
+      "notes": "",
+      "id": 2034,
+      "streamTitle": "VR Hip Hop Live「Grenade」Vol.5　-潮成実- 【アーカイブ】"
+    },
+    {
+      "title": "ファタール",
+      "artist": [
+        "GEMN"
+      ],
+      "type": "external",
+      "date": "2025-06-13",
+      "videoId": "XFeBNRA2ND0",
+      "timestamp": 733,
+      "collabWith": [
+        "小宵"
+      ],
+      "notes": "",
+      "id": 2035,
+      "streamTitle": "【#なるこよ歌枠】デュエットしようぜ【潮成実＆小宵】"
+    },
+    {
+      "title": "Tiger",
+      "artist": [
+        "HANA"
+      ],
+      "type": "external",
+      "date": "2025-06-13",
+      "videoId": "XFeBNRA2ND0",
+      "timestamp": 1644,
+      "collabWith": [
+        "小宵"
+      ],
+      "notes": "",
+      "id": 2036,
+      "streamTitle": "【#なるこよ歌枠】デュエットしようぜ【潮成実＆小宵】"
+    },
+    {
+      "title": "ずうっといっしょ！",
+      "artist": [
+        "キタニタツヤ"
+      ],
+      "type": "external",
+      "date": "2025-06-13",
+      "videoId": "XFeBNRA2ND0",
+      "timestamp": 2117,
+      "collabWith": [
+        "小宵"
+      ],
+      "notes": "",
+      "id": 2037,
+      "streamTitle": "【#なるこよ歌枠】デュエットしようぜ【潮成実＆小宵】"
+    },
+    {
+      "title": "獣ゆく細道",
+      "artist": [
+        "椎名林檎",
+        "宮本浩次"
+      ],
+      "type": "external",
+      "date": "2025-06-13",
+      "videoId": "XFeBNRA2ND0",
+      "timestamp": 2457,
+      "collabWith": [
+        "小宵"
+      ],
+      "notes": "",
+      "id": 2038,
+      "streamTitle": "【#なるこよ歌枠】デュエットしようぜ【潮成実＆小宵】"
+    },
+    {
+      "title": "世界をかえさせておくれよ",
+      "artist": [
+        "サンボマスター"
+      ],
+      "type": "external",
+      "date": "2025-06-13",
+      "videoId": "XFeBNRA2ND0",
+      "timestamp": 2990,
+      "collabWith": [
+        "小宵"
+      ],
+      "notes": "",
+      "id": 2039,
+      "streamTitle": "【#なるこよ歌枠】デュエットしようぜ【潮成実＆小宵】"
+    },
+    {
+      "id": 2040,
+      "title": "なまえのないうた",
+      "artist": [
+        "DATEKEN"
+      ],
+      "type": "external",
+      "date": "2025-05-03",
+      "videoId": "8E2xEieic6g",
+      "timestamp": 192,
+      "streamTitle": "【歌枠┆#karaoke 】GWの夜更かし、ハーモニーの灯がともる夜 // 真夜中の極上セッション【MEDA / RK Music】",
+      "collabWith": [
+        "MEDA",
+        "月の旅人"
+      ],
+      "notes": ""
+    },
+    {
+      "title": "Lemon",
+      "artist": [
+        "米津玄師"
+      ],
+      "type": "external",
+      "date": "2025-05-03",
+      "videoId": "8E2xEieic6g",
+      "timestamp": 962,
+      "collabWith": [
+        "MEDA",
+        "月の旅人"
+      ],
+      "notes": "",
+      "id": 2041,
+      "streamTitle": "【歌枠┆#karaoke 】GWの夜更かし、ハーモニーの灯がともる夜 // 真夜中の極上セッション【MEDA / RK Music】"
+    },
+    {
+      "title": "Flamingo",
+      "artist": [
+        "米津玄師"
+      ],
+      "type": "external",
+      "date": "2025-05-03",
+      "videoId": "8E2xEieic6g",
+      "timestamp": 1257,
+      "collabWith": [
+        "MEDA",
+        "月の旅人"
+      ],
+      "notes": "",
+      "id": 2042,
+      "streamTitle": "【歌枠┆#karaoke 】GWの夜更かし、ハーモニーの灯がともる夜 // 真夜中の極上セッション【MEDA / RK Music】"
+    },
+    {
+      "title": "小夜子",
+      "artist": [
+        "みきとP"
+      ],
+      "type": "external",
+      "date": "2025-05-03",
+      "videoId": "8E2xEieic6g",
+      "timestamp": 1878,
+      "collabWith": [
+        "MEDA",
+        "月の旅人"
+      ],
+      "notes": "",
+      "id": 2043,
+      "streamTitle": "【歌枠┆#karaoke 】GWの夜更かし、ハーモニーの灯がともる夜 // 真夜中の極上セッション【MEDA / RK Music】"
+    },
+    {
+      "title": "ノーダウト",
+      "artist": [
+        "Official髭男dism"
+      ],
+      "type": "external",
+      "date": "2025-05-03",
+      "videoId": "8E2xEieic6g",
+      "timestamp": 2163,
+      "collabWith": [
+        "MEDA",
+        "月の旅人"
+      ],
+      "notes": "",
+      "id": 2044,
+      "streamTitle": "【歌枠┆#karaoke 】GWの夜更かし、ハーモニーの灯がともる夜 // 真夜中の極上セッション【MEDA / RK Music】"
+    },
+    {
+      "title": "本能",
+      "artist": [
+        "椎名林檎"
+      ],
+      "type": "external",
+      "date": "2025-05-03",
+      "videoId": "8E2xEieic6g",
+      "timestamp": 2708,
+      "collabWith": [
+        "MEDA",
+        "月の旅人"
+      ],
+      "notes": "",
+      "id": 2045,
+      "streamTitle": "【歌枠┆#karaoke 】GWの夜更かし、ハーモニーの灯がともる夜 // 真夜中の極上セッション【MEDA / RK Music】"
+    },
+    {
+      "title": "能動的三分間",
+      "artist": [
+        "東京事変"
+      ],
+      "type": "external",
+      "date": "2025-05-03",
+      "videoId": "8E2xEieic6g",
+      "timestamp": 2996,
+      "collabWith": [
+        "MEDA",
+        "月の旅人"
+      ],
+      "notes": "",
+      "id": 2046,
+      "streamTitle": "【歌枠┆#karaoke 】GWの夜更かし、ハーモニーの灯がともる夜 // 真夜中の極上セッション【MEDA / RK Music】"
+    },
+    {
+      "title": "歌舞伎町の女王",
+      "artist": [
+        "椎名林檎"
+      ],
+      "type": "external",
+      "date": "2025-05-03",
+      "videoId": "8E2xEieic6g",
+      "timestamp": 3573,
+      "collabWith": [
+        "MEDA",
+        "月の旅人"
+      ],
+      "notes": "",
+      "id": 2047,
+      "streamTitle": "【歌枠┆#karaoke 】GWの夜更かし、ハーモニーの灯がともる夜 // 真夜中の極上セッション【MEDA / RK Music】"
+    },
+    {
+      "title": "丸の内サディスティック",
+      "artist": [
+        "椎名林檎"
+      ],
+      "type": "external",
+      "date": "2025-05-03",
+      "videoId": "8E2xEieic6g",
+      "timestamp": 3778,
+      "collabWith": [
+        "MEDA",
+        "月の旅人"
+      ],
+      "notes": "",
+      "id": 2048,
+      "streamTitle": "【歌枠┆#karaoke 】GWの夜更かし、ハーモニーの灯がともる夜 // 真夜中の極上セッション【MEDA / RK Music】"
+    },
+    {
+      "title": "恋",
+      "artist": [
+        "星野源"
+      ],
+      "type": "external",
+      "date": "2025-05-03",
+      "videoId": "8E2xEieic6g",
+      "timestamp": 4737,
+      "collabWith": [
+        "MEDA",
+        "月の旅人"
+      ],
+      "notes": "",
+      "id": 2049,
+      "streamTitle": "【歌枠┆#karaoke 】GWの夜更かし、ハーモニーの灯がともる夜 // 真夜中の極上セッション【MEDA / RK Music】"
+    },
+    {
+      "title": "from Y to Y",
+      "artist": [
+        "ジミーサムP"
+      ],
+      "type": "external",
+      "date": "2025-05-03",
+      "videoId": "8E2xEieic6g",
+      "timestamp": 5559,
+      "collabWith": [
+        "MEDA",
+        "月の旅人"
+      ],
+      "notes": "",
+      "id": 2050,
+      "streamTitle": "【歌枠┆#karaoke 】GWの夜更かし、ハーモニーの灯がともる夜 // 真夜中の極上セッション【MEDA / RK Music】"
+    },
+    {
+      "title": "S・K・Y",
+      "artist": [
+        "ライブP"
+      ],
+      "type": "external",
+      "date": "2025-05-03",
+      "videoId": "8E2xEieic6g",
+      "timestamp": 6775,
+      "collabWith": [
+        "MEDA",
+        "月の旅人"
+      ],
+      "notes": "",
+      "id": 2051,
+      "streamTitle": "【歌枠┆#karaoke 】GWの夜更かし、ハーモニーの灯がともる夜 // 真夜中の極上セッション【MEDA / RK Music】"
+    },
+    {
+      "title": "楓",
+      "artist": [
+        "スピッツ"
+      ],
+      "type": "external",
+      "date": "2025-05-03",
+      "videoId": "8E2xEieic6g",
+      "timestamp": 7898,
+      "collabWith": [
+        "MEDA",
+        "月の旅人"
+      ],
+      "notes": "",
+      "id": 2052,
+      "streamTitle": "【歌枠┆#karaoke 】GWの夜更かし、ハーモニーの灯がともる夜 // 真夜中の極上セッション【MEDA / RK Music】"
+    },
+    {
+      "title": "ノーダウト",
+      "artist": [
+        "Official髭男dism"
+      ],
+      "type": "external",
+      "date": "2025-05-03",
+      "videoId": "8E2xEieic6g",
+      "timestamp": 8671,
+      "collabWith": [
+        "MEDA",
+        "月の旅人"
+      ],
+      "notes": "",
+      "id": 2053,
+      "streamTitle": "【歌枠┆#karaoke 】GWの夜更かし、ハーモニーの灯がともる夜 // 真夜中の極上セッション【MEDA / RK Music】"
+    },
+    {
+      "title": "能動的三分間",
+      "artist": [
+        "東京事変"
+      ],
+      "type": "external",
+      "date": "2025-04-24",
+      "videoId": "sRxT4WcUxI8",
+      "timestamp": 1262,
+      "collabWith": [
+        "キョンシーのCiちゃん"
+      ],
+      "notes": "",
+      "id": 2054,
+      "streamTitle": "【コラボ歌枠】潮成実といっしょにコラボ歌枠だ！ #うCiお 【キョンシーのCiちゃん】"
+    },
+    {
+      "title": "二時間だけのバカンス",
+      "artist": [
+        "宇多田ヒカル",
+        "椎名林檎"
+      ],
+      "type": "external",
+      "date": "2025-04-24",
+      "videoId": "sRxT4WcUxI8",
+      "timestamp": 1986,
+      "collabWith": [
+        "キョンシーのCiちゃん"
+      ],
+      "notes": "",
+      "id": 2055,
+      "streamTitle": "【コラボ歌枠】潮成実といっしょにコラボ歌枠だ！ #うCiお 【キョンシーのCiちゃん】"
+    },
+    {
+      "title": "色彩のブルース",
+      "artist": [
+        "EGO-WRAPPIN'"
+      ],
+      "type": "external",
+      "date": "2025-04-24",
+      "videoId": "sRxT4WcUxI8",
+      "timestamp": 3026,
+      "collabWith": [
+        "キョンシーのCiちゃん"
+      ],
+      "notes": "",
+      "id": 2056,
+      "streamTitle": "【コラボ歌枠】潮成実といっしょにコラボ歌枠だ！ #うCiお 【キョンシーのCiちゃん】"
+    },
+    {
+      "title": "浮舟",
+      "artist": [
+        "GO!GO!7188"
+      ],
+      "type": "external",
+      "date": "2025-04-24",
+      "videoId": "sRxT4WcUxI8",
+      "timestamp": 3754,
+      "collabWith": [
+        "キョンシーのCiちゃん"
+      ],
+      "notes": "",
+      "id": 2057,
+      "streamTitle": "【コラボ歌枠】潮成実といっしょにコラボ歌枠だ！ #うCiお 【キョンシーのCiちゃん】"
+    },
+    {
+      "title": "オルフェンズの涙",
+      "artist": [
+        "MISIA"
+      ],
+      "type": "external",
+      "date": "2025-04-24",
+      "videoId": "sRxT4WcUxI8",
+      "timestamp": 4524,
+      "collabWith": [
+        "キョンシーのCiちゃん"
+      ],
+      "notes": "",
+      "id": 2058,
+      "streamTitle": "【コラボ歌枠】潮成実といっしょにコラボ歌枠だ！ #うCiお 【キョンシーのCiちゃん】"
+    },
+    {
+      "title": "踊",
+      "artist": [
+        "Ado"
+      ],
+      "type": "external",
+      "date": "2025-04-24",
+      "videoId": "sRxT4WcUxI8",
+      "timestamp": 5436,
+      "collabWith": [
+        "キョンシーのCiちゃん"
+      ],
+      "notes": "",
+      "id": 2059,
+      "streamTitle": "【コラボ歌枠】潮成実といっしょにコラボ歌枠だ！ #うCiお 【キョンシーのCiちゃん】"
+    },
+    {
+      "title": "ウィーアー!",
+      "artist": [
+        "きただにひろし"
+      ],
+      "type": "external",
+      "date": "2025-04-24",
+      "videoId": "sRxT4WcUxI8",
+      "timestamp": 6834,
+      "collabWith": [
+        "キョンシーのCiちゃん"
+      ],
+      "notes": "",
+      "id": 2060,
+      "streamTitle": "【コラボ歌枠】潮成実といっしょにコラボ歌枠だ！ #うCiお 【キョンシーのCiちゃん】"
+    },
+    {
+      "title": "じゃじゃ馬にさせないで",
+      "artist": [
+        "西尾えつ子"
+      ],
+      "type": "external",
+      "date": "2025-04-24",
+      "videoId": "sRxT4WcUxI8",
+      "timestamp": 8119,
+      "collabWith": [
+        "キョンシーのCiちゃん"
+      ],
+      "notes": "",
+      "id": 2061,
+      "streamTitle": "【コラボ歌枠】潮成実といっしょにコラボ歌枠だ！ #うCiお 【キョンシーのCiちゃん】"
+    },
+    {
+      "title": "サインはB",
+      "artist": [
+        "B小町"
+      ],
+      "type": "external",
+      "date": "2025-04-24",
+      "videoId": "sRxT4WcUxI8",
+      "timestamp": 8719,
+      "collabWith": [
+        "キョンシーのCiちゃん"
+      ],
+      "notes": "",
+      "id": 2062,
+      "streamTitle": "【コラボ歌枠】潮成実といっしょにコラボ歌枠だ！ #うCiお 【キョンシーのCiちゃん】"
+    },
+    {
+      "title": "ライオン",
+      "artist": [
+        "May'n",
+        "中島愛"
+      ],
+      "type": "external",
+      "date": "2025-04-24",
+      "videoId": "sRxT4WcUxI8",
+      "timestamp": 9358,
+      "collabWith": [
+        "キョンシーのCiちゃん"
+      ],
+      "notes": "",
+      "id": 2063,
+      "streamTitle": "【コラボ歌枠】潮成実といっしょにコラボ歌枠だ！ #うCiお 【キョンシーのCiちゃん】"
+    },
+    {
+      "title": "needy girl",
+      "artist": [
+        "氷雨悠冰",
+        "潮成実",
+        "eilie"
+      ],
+      "type": "video",
+      "date": "2023-08-31",
+      "videoId": "jGSNf57AVpc",
+      "timestamp": 0,
+      "collabWith": [
+        "氷雨悠冰",
+        "eilie"
+      ],
+      "notes": "",
+      "id": 2064,
+      "streamTitle": "needy girl / 潮成実, eilie & 氷雨悠冰"
+    },
+    {
+      "title": "Road Mirage",
+      "artist": [
+        "霊界ラジオ",
+        "潮成実"
+      ],
+      "type": "video",
+      "date": "2021-08-28",
+      "videoId": "9dZDAL1L6l0",
+      "timestamp": 0,
+      "collabWith": [
+        "霊界ラジオ"
+      ],
+      "notes": "",
+      "id": 2065,
+      "streamTitle": "Road Mirage feat. 潮成実 / 霊界ラジオ  #霊ラジSINGLE"
+    },
+    {
+      "title": "Don't",
+      "artist": [
+        "NakamuraEmi"
+      ],
+      "type": "video",
+      "date": "2022-02-14",
+      "videoId": "Zj624djEkGY",
+      "timestamp": 0,
+      "collabWith": [
+        "瀬戸内ミュウ"
+      ],
+      "notes": "",
+      "id": 2066,
+      "streamTitle": "【瀬戸内ミュウ×潮成実】Don't／NakamuraEmi【歌ってみた】"
+    },
+    {
+      "title": "二息歩行",
+      "artist": [
+        "DECO*27"
+      ],
+      "type": "video",
+      "date": "2021-06-30",
+      "videoId": "sRSFdQQdylM",
+      "timestamp": 0,
+      "collabWith": [
+        "天舞音叫子"
+      ],
+      "notes": "",
+      "id": 2067,
+      "streamTitle": "二息歩行 / DECO*27 スクリーモアレンジ 歌いました 天舞音叫子 × 潮成実"
+    },
+    {
+      "id": 2068,
+      "title": "怪獣の花唄",
+      "artist": [
+        "Vaundy"
+      ],
+      "type": "external",
+      "date": "2025-11-18",
+      "videoId": "A7EmvTzoZuI",
+      "timestamp": 3238,
+      "streamTitle": "【#おまる3周年】音と戯れる、低音の花／ダメ元直談判！スゴい方お呼びしてみた！【#花奏かのん #おまぴあ】そして今宵は何かが起こる・・・",
+      "collabWith": [
+        "渚沢シチ",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "花奏かのん",
+        "おまる"
+      ],
+      "notes": ""
+    },
+    {
+      "id": 2069,
+      "title": "小さな恋のうた",
+      "artist": [
+        "MONGOL800"
+      ],
+      "type": "external",
+      "date": "2025-11-18",
+      "videoId": "A7EmvTzoZuI",
+      "timestamp": 3640,
+      "streamTitle": "【#おまる3周年】音と戯れる、低音の花／ダメ元直談判！スゴい方お呼びしてみた！【#花奏かのん #おまぴあ】そして今宵は何かが起こる・・・",
+      "collabWith": [
+        "渚沢シチ",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "花奏かのん",
+        "おまる"
+      ],
+      "notes": ""
+    },
+    {
+      "title": "1925",
+      "artist": [
+        "冨田悠斗"
+      ],
+      "type": "external",
+      "date": "2025-11-27",
+      "videoId": "y2ppXwj5fQA",
+      "timestamp": 835,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2070,
+      "streamTitle": "【#VTuber軽音部】放課後の即興セッション歌枠【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "Butter-Fly",
+      "artist": [
+        "和田光司"
+      ],
+      "type": "external",
+      "date": "2025-11-27",
+      "videoId": "y2ppXwj5fQA",
+      "timestamp": 1308,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2071,
+      "streamTitle": "【#VTuber軽音部】放課後の即興セッション歌枠【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "SUN",
+      "artist": [
+        "星野源"
+      ],
+      "type": "external",
+      "date": "2025-11-27",
+      "videoId": "y2ppXwj5fQA",
+      "timestamp": 1637,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2072,
+      "streamTitle": "【#VTuber軽音部】放課後の即興セッション歌枠【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "artist": [
+        "サンボマスター"
+      ],
+      "type": "external",
+      "date": "2025-11-27",
+      "videoId": "y2ppXwj5fQA",
+      "timestamp": 2091,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2073,
+      "streamTitle": "【#VTuber軽音部】放課後の即興セッション歌枠【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "パンダヒーロー",
+      "artist": [
+        "米津玄師",
+        "ハチ"
+      ],
+      "type": "external",
+      "date": "2025-11-27",
+      "videoId": "y2ppXwj5fQA",
+      "timestamp": 2674,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2074,
+      "streamTitle": "【#VTuber軽音部】放課後の即興セッション歌枠【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "めざせポケモンマスター",
+      "artist": [
+        "松本梨香"
+      ],
+      "type": "external",
+      "date": "2025-11-27",
+      "videoId": "y2ppXwj5fQA",
+      "timestamp": 3295,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2075,
+      "streamTitle": "【#VTuber軽音部】放課後の即興セッション歌枠【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "ライオン",
+      "artist": [
+        "May'n",
+        "中島愛"
+      ],
+      "type": "external",
+      "date": "2025-11-27",
+      "videoId": "y2ppXwj5fQA",
+      "timestamp": 3932,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2076,
+      "streamTitle": "【#VTuber軽音部】放課後の即興セッション歌枠【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "裏表ラバーズ",
+      "artist": [
+        "wowaka"
+      ],
+      "type": "external",
+      "date": "2025-11-27",
+      "videoId": "y2ppXwj5fQA",
+      "timestamp": 4633,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2077,
+      "streamTitle": "【#VTuber軽音部】放課後の即興セッション歌枠【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "おジャ魔女カーニバル!!",
+      "artist": [
+        "MAHO堂"
+      ],
+      "type": "external",
+      "date": "2025-11-27",
+      "videoId": "y2ppXwj5fQA",
+      "timestamp": 5096,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2078,
+      "streamTitle": "【#VTuber軽音部】放課後の即興セッション歌枠【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "トリノコシティ",
+      "artist": [
+        "40mP"
+      ],
+      "type": "external",
+      "date": "2025-11-27",
+      "videoId": "y2ppXwj5fQA",
+      "timestamp": 5602,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2079,
+      "streamTitle": "【#VTuber軽音部】放課後の即興セッション歌枠【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "ビビデバ",
+      "artist": [
+        "星街すいせい"
+      ],
+      "type": "external",
+      "date": "2025-11-27",
+      "videoId": "y2ppXwj5fQA",
+      "timestamp": 6071,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2080,
+      "streamTitle": "【#VTuber軽音部】放課後の即興セッション歌枠【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "天ノ弱",
+      "artist": [
+        "164"
+      ],
+      "type": "external",
+      "date": "2025-11-27",
+      "videoId": "y2ppXwj5fQA",
+      "timestamp": 6458,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2081,
+      "streamTitle": "【#VTuber軽音部】放課後の即興セッション歌枠【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "One more time, One more chance",
+      "artist": [
+        "山崎まさよし"
+      ],
+      "type": "external",
+      "date": "2025-11-27",
+      "videoId": "y2ppXwj5fQA",
+      "timestamp": 7126,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2082,
+      "streamTitle": "【#VTuber軽音部】放課後の即興セッション歌枠【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "ローリンガール",
+      "artist": [
+        "wowaka"
+      ],
+      "type": "external",
+      "date": "2026-01-22",
+      "videoId": "vxaoRt7w4jU",
+      "timestamp": 446,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2083,
+      "streamTitle": "【#VTuber軽音部】君のリクエストをその場で即興演奏｜音楽は自由だ！【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "うっせぇわ",
+      "artist": [
+        "Ado"
+      ],
+      "type": "external",
+      "date": "2026-01-22",
+      "videoId": "vxaoRt7w4jU",
+      "timestamp": 1341,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2084,
+      "streamTitle": "【#VTuber軽音部】君のリクエストをその場で即興演奏｜音楽は自由だ！【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "勇気100%",
+      "artist": [
+        "光GENJI"
+      ],
+      "type": "external",
+      "date": "2026-01-22",
+      "videoId": "vxaoRt7w4jU",
+      "timestamp": 1771,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2085,
+      "streamTitle": "【#VTuber軽音部】君のリクエストをその場で即興演奏｜音楽は自由だ！【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "ハッピーシンセサイザ",
+      "artist": [
+        "Easy Pop"
+      ],
+      "type": "external",
+      "date": "2026-01-22",
+      "videoId": "vxaoRt7w4jU",
+      "timestamp": 2236,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2086,
+      "streamTitle": "【#VTuber軽音部】君のリクエストをその場で即興演奏｜音楽は自由だ！【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "吉原ラメント",
+      "artist": [
+        "亜沙"
+      ],
+      "type": "external",
+      "date": "2026-01-22",
+      "videoId": "vxaoRt7w4jU",
+      "timestamp": 3213,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2087,
+      "streamTitle": "【#VTuber軽音部】君のリクエストをその場で即興演奏｜音楽は自由だ！【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "ロビンソン",
+      "artist": [
+        "スピッツ"
+      ],
+      "type": "external",
+      "date": "2026-01-22",
+      "videoId": "vxaoRt7w4jU",
+      "timestamp": 3699,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2088,
+      "streamTitle": "【#VTuber軽音部】君のリクエストをその場で即興演奏｜音楽は自由だ！【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "夏色",
+      "artist": [
+        "ゆず"
+      ],
+      "type": "external",
+      "date": "2026-01-22",
+      "videoId": "vxaoRt7w4jU",
+      "timestamp": 4260,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2089,
+      "streamTitle": "【#VTuber軽音部】君のリクエストをその場で即興演奏｜音楽は自由だ！【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "God knows...",
+      "artist": [
+        "平野綾",
+        "涼宮ハルヒ"
+      ],
+      "type": "external",
+      "date": "2026-01-22",
+      "videoId": "vxaoRt7w4jU",
+      "timestamp": 4948,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2090,
+      "streamTitle": "【#VTuber軽音部】君のリクエストをその場で即興演奏｜音楽は自由だ！【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "First Love",
+      "artist": [
+        "宇多田ヒカル"
+      ],
+      "type": "external",
+      "date": "2026-01-22",
+      "videoId": "vxaoRt7w4jU",
+      "timestamp": 5721,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2091,
+      "streamTitle": "【#VTuber軽音部】君のリクエストをその場で即興演奏｜音楽は自由だ！【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "花になって",
+      "artist": [
+        "緑黄色社会"
+      ],
+      "type": "external",
+      "date": "2026-01-22",
+      "videoId": "vxaoRt7w4jU",
+      "timestamp": 6302,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2092,
+      "streamTitle": "【#VTuber軽音部】君のリクエストをその場で即興演奏｜音楽は自由だ！【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "カタオモイ",
+      "artist": [
+        "Aimer"
+      ],
+      "type": "external",
+      "date": "2026-01-22",
+      "videoId": "vxaoRt7w4jU",
+      "timestamp": 6766,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2093,
+      "streamTitle": "【#VTuber軽音部】君のリクエストをその場で即興演奏｜音楽は自由だ！【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "楓",
+      "artist": [
+        "スピッツ"
+      ],
+      "type": "external",
+      "date": "2026-01-22",
+      "videoId": "vxaoRt7w4jU",
+      "timestamp": 7521,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2094,
+      "streamTitle": "【#VTuber軽音部】君のリクエストをその場で即興演奏｜音楽は自由だ！【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "いーあるふぁんくらぶ",
+      "artist": [
+        "みきとP"
+      ],
+      "type": "external",
+      "date": "2026-01-22",
+      "videoId": "vxaoRt7w4jU",
+      "timestamp": 9024,
+      "collabWith": [
+        "Ibuki",
+        "MEDA",
+        "からし明太子",
+        "野中海",
+        "ホム・レス",
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2095,
+      "streamTitle": "【#VTuber軽音部】君のリクエストをその場で即興演奏｜音楽は自由だ！【MEDA / RK Music┆#歌枠】"
+    },
+    {
+      "title": "Subtitle",
+      "artist": [
+        "Official髭男dism"
+      ],
+      "type": "external",
+      "date": "2025-12-31",
+      "videoId": "H8QDJrPDQ5E",
+      "timestamp": 7534,
+      "collabWith": [
+        "おまる"
+      ],
+      "notes": "",
+      "id": 2096,
+      "streamTitle": "【#108人煩悩演奏】ゆく年くる年デカルチャーだよ音楽は～108人の煩悩演奏～第4部【#おまぴあ】"
+    },
+    {
+      "title": "Attention",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2024-11-09",
+      "videoId": "t9hvvxcdHII",
+      "timestamp": 216,
+      "collabWith": [],
+      "notes": "",
+      "id": 2097,
+      "streamTitle": "第１幕【本日開催Vチューバー野外フェス】Vチューバーがいるキャンプ。Vキャン　開幕【野外ライブパート】"
+    },
+    {
+      "title": "翳り",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "external",
+      "date": "2024-11-09",
+      "videoId": "t9hvvxcdHII",
+      "timestamp": 569,
+      "collabWith": [],
+      "notes": "",
+      "id": 2098,
+      "streamTitle": "第１幕【本日開催Vチューバー野外フェス】Vチューバーがいるキャンプ。Vキャン　開幕【野外ライブパート】"
+    },
+    {
+      "title": "朝がまた来る",
+      "artist": [
+        "DREAMS COME TRUE"
+      ],
+      "type": "external",
+      "date": "2024-11-09",
+      "videoId": "t9hvvxcdHII",
+      "timestamp": 839,
+      "collabWith": [
+        "むこギター",
+        "Ryu",
+        "コロ丸",
+        "コハク",
+        "野中海"
+      ],
+      "notes": "",
+      "id": 2099,
+      "streamTitle": "第１幕【本日開催Vチューバー野外フェス】Vチューバーがいるキャンプ。Vキャン　開幕【野外ライブパート】"
+    },
+    {
+      "title": "夢じゃない",
+      "artist": [
+        "スピッツ"
+      ],
+      "type": "external",
+      "date": "2024-11-09",
+      "videoId": "t9hvvxcdHII",
+      "timestamp": 1213,
+      "collabWith": [
+        "むこギター",
+        "Ryu",
+        "コロ丸",
+        "コハク",
+        "野中海"
+      ],
+      "notes": "",
+      "id": 2100,
+      "streamTitle": "第１幕【本日開催Vチューバー野外フェス】Vチューバーがいるキャンプ。Vキャン　開幕【野外ライブパート】"
+    },
+    {
+      "title": "群青日和",
+      "artist": [
+        "東京事変"
+      ],
+      "type": "external",
+      "date": "2024-11-09",
+      "videoId": "t9hvvxcdHII",
+      "timestamp": 1489,
+      "collabWith": [
+        "むこギター",
+        "Ryu",
+        "コロ丸",
+        "コハク",
+        "野中海"
+      ],
+      "notes": "",
+      "id": 2101,
+      "streamTitle": "第１幕【本日開催Vチューバー野外フェス】Vチューバーがいるキャンプ。Vキャン　開幕【野外ライブパート】"
+    },
+    {
+      "title": "Virtual Insanity",
+      "artist": [
+        "Jamiroquai"
+      ],
+      "type": "external",
+      "date": "2021-12-30",
+      "videoId": "I3M6jkWdx4Y",
+      "timestamp": 449,
+      "collabWith": [
+        "JOHNNY HENRY"
+      ],
+      "notes": "",
+      "id": 2102,
+      "streamTitle": "Talk&Session Show JAMHEN Vol.2 【Guest：潮成実】"
+    },
+    {
+      "title": "再会 (produced by Ayase)",
+      "artist": [
+        "LiSA",
+        "Uru"
+      ],
+      "type": "video",
+      "date": "2026-02-11",
+      "videoId": "FlBuaAiufJk",
+      "timestamp": 0,
+      "collabWith": [
+        "猫 The Sappiness"
+      ],
+      "notes": "",
+      "id": 2103,
+      "streamTitle": "​【歌ってみたコラボ】再会 / LiSA × Uru covered by 猫 The Sappiness × 潮成実 2026-02-11 20:17"
+    },
+    {
+      "title": "CocktaiL",
+      "artist": [
+        "XYZ"
+      ],
+      "type": "video",
+      "date": "2021-05-01",
+      "videoId": "bcPUgD7mp7g",
+      "timestamp": 0,
+      "collabWith": [
+        "閑地游",
+        "吼檀",
+        "ジュン・エクソン",
+        "成瀬ろく",
+        "NICO",
+        "猫秘ぺる",
+        "yuga"
+      ],
+      "notes": "",
+      "id": 2104,
+      "streamTitle": "〖 Vtuber8人で歌ってみた 〗CocktaiL / xyz (cover)〖 オリジナルMV 〗"
+    },
+    {
+      "id": 2105,
+      "title": "再生",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "video",
+      "date": "2026-02-10",
+      "videoId": "B3lJk9ZMkiQ",
+      "timestamp": 0,
+      "streamTitle": "再生",
+      "collabWith": [],
+      "notes": ""
+    },
+    {
+      "title": "WIP",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "video",
+      "date": "2026-02-10",
+      "videoId": "HTXZQEw581Q",
+      "timestamp": 0,
+      "collabWith": [],
+      "notes": "",
+      "id": 2106,
+      "streamTitle": "WIP"
+    },
+    {
+      "title": "ままごと",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "video",
+      "date": "2026-02-10",
+      "videoId": "h2Xwk2tlFEc",
+      "timestamp": 0,
+      "collabWith": [],
+      "notes": "",
+      "id": 2107,
+      "streamTitle": "ままごと"
+    },
+    {
+      "title": "Attention",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "video",
+      "date": "2026-02-10",
+      "videoId": "ae7Q8lww0tE",
+      "timestamp": 0,
+      "collabWith": [],
+      "notes": "",
+      "id": 2108,
+      "streamTitle": "Attention"
+    },
+    {
+      "title": "Sweep Away",
+      "artist": [
+        "潮成実"
+      ],
+      "type": "video",
+      "date": "2026-02-10",
+      "videoId": "5GIyfxm46go",
+      "timestamp": 0,
+      "collabWith": [],
+      "notes": "",
+      "id": 2109,
+      "streamTitle": "Sweep Away"
     }
   ]
 }
