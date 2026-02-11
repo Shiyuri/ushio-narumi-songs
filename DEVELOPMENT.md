@@ -11,10 +11,10 @@ TS:2026-02-11|ST:uta|T:vtuber-song-db|V:1|FILES:10|LOC:25000
 STACK:html+css+js|py-httpserver:3000|yt-dlp
 DATA:songs.json|ENTRIES:2093|TOTAL:2093|SZ:870KB
 SCH:{title,artist[],type,date,videoId,timestamp,collabWith[],notes,id,streamTitle}
-ACCESS:RO|RW:localhost|DEPLOY:gh-pages(live)|FLOW:local>commit>push
+ACCESS:RO|RW:localhost|DEPLOY:cloudflare-pages|FLOW:local>commit>push
 COMPLETED:review*5,mobile,modal-css,cache,pagetitle,tagcolor,bugfix*5,table-view,scroll-search-toggle,font-unify,auto-backup,infinite-scroll,url-parse-fix,song-entry-complete,deploy
 DECLINED:ogp,footer,stats,pushstate,streamtitle-search,song-sort
-STATE:v1@b672d57|LIVE:https://shiyuri.github.io/ushio-narumi-songs/
+STATE:v1@07e2b6f|LIVE:https://ushio-narumi-songs.pages.dev/
 ```
 
 ---
@@ -54,8 +54,8 @@ VTuber「潮成実（うしお なるみ）」の歌唱楽曲をまとめたフ�
 
 ### ホスティング
 
-- **GitHub Pages** を予定（静的ホスティング、API不要）
-- 代替候補: Cloudflare Pages, Netlify（いずれも同等、要件に差なし）
+- **Cloudflare Pages** で公開中（静的ホスティング、API不要）
+- URL: https://ushio-narumi-songs.pages.dev/
 
 ### 運用フロー（A案 採用）
 
@@ -63,7 +63,7 @@ VTuber「潮成実（うしお なるみ）」の歌唱楽曲をまとめたフ�
 ローカルで server.py + add.html を使って曲を追加
   ↓ songs.json が更新される
   ↓ git commit & push
-  ↓ GitHub Pages が自動反映
+  ↓ Cloudflare Pages が自動反映
 ```
 
 - add.html / server.py は**公開しない**（ローカルツールとして使用）
