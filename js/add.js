@@ -181,11 +181,14 @@ function parseYoutubeUrl(url) {
   let timestamp = 0;
 
   try {
-    // 短縮URL: https://youtu.be/VIDEO_ID?t=SECONDS
-    const shortMatch = url.match(/youtu\.be\/([a-zA-Z0-9_-]+)(?:\?t=(\d+))?/);
+    // 短縮URL: https://youtu.be/VIDEO_ID?t=SECONDS (list等の余計なパラメータを無視)
+    const shortMatch = url.match(/youtu\.be\/([a-zA-Z0-9_-]+)/);
     if (shortMatch) {
       videoId = shortMatch[1];
-      timestamp = parseInt(shortMatch[2]) || 0;
+      const timeMatch = url.match(/[?&]t=(\d+)s?/);
+      if (timeMatch) {
+        timestamp = parseInt(timeMatch[1]) || 0;
+      }
       return { videoId, timestamp };
     }
 
