@@ -144,6 +144,11 @@ function applyFilters() {
     searchArea.classList.remove('search-hidden');
   }
 
+  // 検索やフィルタ操作があればvideoIdフィルタを自動解除
+  if (videoIdFilter && (searchText || typeValue !== 'all')) {
+    videoIdFilter = null;
+  }
+
   filteredSongs = allSongs.filter(song => {
     // videoIdフィルタ（配信全曲表示）
     if (videoIdFilter) {
